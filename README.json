@@ -1,0 +1,2465 @@
+{
+  "items": [
+    {
+      "description": ": dataset | : classification | : retrieval | : segmentation: detection | : tracking | : pose | : depth: registration | : reconstruction | : autonomous driving: other, including normal-related, correspondence, mapping, matching, alignment, compression, generative model...\nStatistics: :fire: code is available & stars >= 100 | :star: citation >= 50",
+      "items": [],
+      "title": "For more recent papers, please visit awesome-point-cloud-analysis-2020"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "[CVPR",
+          "description": "] PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation. [tensorflow][pytorch] [ ] :fire: :star:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-11-30T03:26:15Z",
+            "owner": "charlesq34",
+            "repo": "pointnet",
+            "stars": 5453
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[NeurIPS",
+          "description": "] PointNet++: Deep Hierarchical Feature Learning on Point Sets in a Metric Space. [tensorflow][pytorch] [ ] :fire: :star:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-08-26T00:39:24Z",
+            "owner": "charlesq34",
+            "repo": "pointnet2",
+            "stars": 3695
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[CVPR",
+          "description": "] 3DMatch: Learning Local Geometric Descriptors from RGB-D Reconstructions. [code] [ ] :fire: :star:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-10-14T03:38:57Z",
+            "owner": "andyzeng",
+            "repo": "3dmatch-toolbox",
+            "stars": 906
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[ICCV",
+          "description": "] PolyFit: Polygonal Surface Reconstruction from Point Clouds. [code] [] :fire:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-04-16T09:17:29Z",
+            "owner": "LiangliangNan",
+            "repo": "PolyFit",
+            "stars": 826
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[CVPR",
+          "description": "] OctNet: Learning Deep 3D Representations at High Resolutions. [torch] [ ] :fire: :star:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2020-09-02T07:07:14Z",
+            "owner": "griegler",
+            "repo": "octnet",
+            "stars": 504
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[CVPR",
+          "description": "] Multi-View 3D Object Detection Network for Autonomous Driving. [tensorflow] [ ] :fire: :star:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-11-15T17:32:12Z",
+            "owner": "bostondiditeam",
+            "repo": "MV3D",
+            "stars": 495
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[ICRA",
+          "description": "] Fast segmentation of 3D point clouds: A paradigm on LiDAR data for autonomous vehicle applications. [code] [ ]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2018-10-05T02:08:39Z",
+            "owner": "VincentCheungM",
+            "repo": "Run_based_segmentation",
+            "stars": 397
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[NeurIPS",
+          "description": "] Deep Sets. [pytorch] [] :star:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-01-21T12:40:52Z",
+            "owner": "manzilzaheer",
+            "repo": "DeepSets",
+            "stars": 319
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[IROS",
+          "description": "] 3D fully convolutional network for vehicle detection in point cloud. [tensorflow] [ ] :fire: :star:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-04-18T01:16:18Z",
+            "owner": "yukitsuji",
+            "repo": "3D_CNN_tensorflow",
+            "stars": 285
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[ICCV",
+          "description": "] 3D Graph Neural Networks for RGBD Semantic Segmentation. [pytorch] []",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-03-16T12:55:46Z",
+            "owner": "yanx27",
+            "repo": "3DGNN_pytorch",
+            "stars": 234
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[ICCV",
+          "description": "] Escape from Cells: Deep Kd-Networks for the Recognition of 3D Point Cloud Models. [pytorch] [ ] :star:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-07-07T21:26:21Z",
+            "owner": "fxia22",
+            "repo": "kdnet.pytorch",
+            "stars": 119
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[CVPR",
+          "description": "] 3D Point Cloud Registration for Localization using a Deep Neural Network Auto-Encoder. [git] []",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-04-18T12:17:57Z",
+            "owner": "gilbaz",
+            "repo": "LORAX",
+            "stars": 91
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[ICCV",
+          "description": "] 3DCNN-DQN-RNN: A Deep Reinforcement Learning Framework for Semantic Parsing of Large-scale 3D Point Clouds. [code] []",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2018-07-25T15:03:31Z",
+            "owner": "CKchaos",
+            "repo": "scn2pointcloud_tool",
+            "stars": 68
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[CVPR",
+          "description": "] SyncSpecCNN: Synchronized Spectral CNN for 3D Shape Segmentation. [torch] [ ] :star:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2017-03-08T08:14:27Z",
+            "owner": "ericyi",
+            "repo": "SyncSpecCNN",
+            "stars": 51
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[ICRA",
+          "description": "] Vote3Deep: Fast object detection in 3D point clouds using efficient convolutional neural networks. [code] [ ] :star:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Matlab",
+            "last_commit": "2017-01-25T02:14:29Z",
+            "owner": "swordlidev",
+            "repo": "Vote3Deep_lidar",
+            "stars": 43
+          }
+        }
+      ],
+      "title": "2017"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "[IROS",
+          "description": "] LeGO-LOAM: Lightweight and Ground-Optimized Lidar Odometry and Mapping on Variable Terrain.[code] [ ] :fire:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-08-17T07:20:25Z",
+            "owner": "RobustFieldAutonomyLab",
+            "repo": "LeGO-LOAM",
+            "stars": 2751
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[CVPR",
+          "description": "] 3D Semantic Segmentation with Submanifold Sparse Convolutional Networks. [pytorch] [] :fire:",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C++",
+            "last_commit": "2024-01-09T01:47:27Z",
+            "owner": "facebookresearch",
+            "repo": "SparseConvNet",
+            "stars": 2146
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[SENSORS",
+          "description": "] SECOND: Sparsely Embedded Convolutional Detection. [pytorch] [ ] :fire:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-10-14T08:05:18Z",
+            "owner": "traveller59",
+            "repo": "second.pytorch",
+            "stars": 1777
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[CVPR",
+          "description": "] Frustum PointNets for 3D Object Detection from RGB-D Data. [tensorflow] [ ] :fire: :star:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-03-24T20:42:38Z",
+            "owner": "charlesq34",
+            "repo": "frustum-pointnets",
+            "stars": 1668
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[NeurIPS",
+          "description": "] PointCNN: Convolution On X-Transformed Points. [tensorflow][pytorch] [ ] :fire:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-12T12:31:09Z",
+            "owner": "yangyanli",
+            "repo": "PointCNN",
+            "stars": 1432
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[CVPR",
+          "description": "] Large-scale Point Cloud Semantic Segmentation with Superpoint Graphs. [pytorch] [] :fire:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-07-19T20:50:48Z",
+            "owner": "loicland",
+            "repo": "superpoint_graph",
+            "stars": 801
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[arXiv",
+          "description": "] PointSIFT: A SIFT-like Network Module for 3D Point Cloud Semantic Segmentation. [tensorflow] [] :fire:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-07-16T21:40:40Z",
+            "owner": "MVIG-SJTU",
+            "repo": "pointSIFT",
+            "stars": 659
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[ICML",
+          "description": "] Learning Representations and Generative Models for 3D Point Clouds. [code] [] :fire:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2019-10-28T05:50:14Z",
+            "owner": "optas",
+            "repo": "latent_3d_points",
+            "stars": 557
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[3DV",
+          "description": "] PCN: Point Completion Network. [tensorflow] [ ] :fire:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-11-09T22:22:05Z",
+            "owner": "wentaoyuan",
+            "repo": "pcn",
+            "stars": 485
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[CVPR",
+          "description": "] VoxelNet: End-to-End Learning for Point Cloud Based 3D Object Detection. [tensorflow] [ ] :fire: :star:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-08-15T12:05:21Z",
+            "owner": "tsinghua-rll",
+            "repo": "VoxelNet-tensorflow",
+            "stars": 466
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[AAAI",
+          "description": "] Learning Efficient Point Cloud Generation for Dense 3D Object Reconstruction. [tensorflow] [] :fire:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-04-10T19:31:19Z",
+            "owner": "chenhsuanlin",
+            "repo": "3D-point-cloud-generation",
+            "stars": 453
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[arXiv",
+          "description": "] Complex-YOLO: Real-time 3D Object Detection on Point Clouds. [pytorch] [ ] :fire:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-03-21T16:10:01Z",
+            "owner": "AI-liu",
+            "repo": "Complex-YOLO",
+            "stars": 453
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[CVPR",
+          "description": "] PointNetVLAD: Deep Point Cloud Based Retrieval for Large-Scale Place Recognition. [tensorflow] [] :fire:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-01-19T19:13:28Z",
+            "owner": "mikacuy",
+            "repo": "pointnetvlad",
+            "stars": 400
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[CVPR",
+          "description": "] PU-Net: Point Cloud Upsampling Network. [tensorflow] [ ] :fire:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-10-10T14:10:49Z",
+            "owner": "yulequan",
+            "repo": "PU-Net",
+            "stars": 364
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[CVPR",
+          "description": "] SO-Net: Self-Organizing Network for Point Cloud Analysis. [pytorch] [ ] :fire: :star:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-02-24T05:54:38Z",
+            "owner": "lijx10",
+            "repo": "SO-Net",
+            "stars": 345
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[arXiv",
+          "description": "] POINTCLEANNET: Learning to Denoise and Remove Outliers from Dense Point Clouds. [pytorch] []",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-07-29T09:05:25Z",
+            "owner": "mrakotosaon",
+            "repo": "pointcleannet",
+            "stars": 293
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[CVPR",
+          "description": "] SGPN: Similarity Group Proposal Network for 3D Point Cloud Instance Segmentation. [tensorflow] [] :fire:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-05-30T23:39:22Z",
+            "owner": "laughtervv",
+            "repo": "SGPN",
+            "stars": 273
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[CVPR",
+          "description": "] SPLATNet: Sparse Lattice Networks for Point Cloud Processing. [caffe] [] :fire:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-10-16T04:28:08Z",
+            "owner": "NVlabs",
+            "repo": "splatnet",
+            "stars": 270
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[ICASSP",
+          "description": "] A Graph-CNN for 3D Point Cloud Classification. [tensorflow] [] :fire:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-09-19T19:38:23Z",
+            "owner": "maggie0106",
+            "repo": "Graph-CNN-in-3D-Point-Cloud-Classification",
+            "stars": 250
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[IROS",
+          "description": "] CalibNet: Geometrically Supervised Extrinsic Calibration using 3D Spatial Transformer Networks.[tensorflow] [ ]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-08-17T03:20:00Z",
+            "owner": "epiception",
+            "repo": "CalibNet",
+            "stars": 229
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[ECCV",
+          "description": "] 3DFeat-Net: Weakly Supervised Local 3D Features for Point Cloud Registration. [tensorflow] []",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-07-04T07:22:32Z",
+            "owner": "yewzijian",
+            "repo": "3DFeatNet",
+            "stars": 222
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[NeurIPS",
+          "description": "] Unsupervised Learning of Shape and Pose with Differentiable Point Clouds. [tensorflow] []",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-01-07T10:34:13Z",
+            "owner": "eldar",
+            "repo": "differentiable-point-clouds",
+            "stars": 157
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[CVPR",
+          "description": "] Pointwise Convolutional Neural Networks. [tensorflow] [ ]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-01-02T06:19:01Z",
+            "owner": "hkust-vgd",
+            "repo": "pointwise",
+            "stars": 132
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[CVPR",
+          "description": "] Tangent Convolutions for Dense Prediction in 3D. [tensorflow] [ ]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-02-13T14:00:30Z",
+            "owner": "tatarchm",
+            "repo": "tangent_conv",
+            "stars": 124
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[CVPR",
+          "description": "] Recurrent Slice Networks for 3D Segmentation of Point Clouds. [pytorch] []",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2020-03-25T12:30:44Z",
+            "owner": "qianguih",
+            "repo": "RSNet",
+            "stars": 122
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[ACCV",
+          "description": "] Flex-Convolution (Million-Scale Point-Cloud Learning Beyond Grid-Worlds). [tensorflow] []",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2019-06-16T12:32:56Z",
+            "owner": "cgtuebingen",
+            "repo": "Flex-Convolution",
+            "stars": 119
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[IROS",
+          "description": "] [Tensorflow]3DmFV: Point Cloud Classification and segmentation for unstructured 3D point clouds. [ ]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-09-27T02:40:16Z",
+            "owner": "sitzikbs",
+            "repo": "3DmFV-Net",
+            "stars": 110
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[ECCV",
+          "description": "] EC-Net: an Edge-aware Point set Consolidation Network. [tensorflow] []",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-04-07T15:40:17Z",
+            "owner": "yulequan",
+            "repo": "EC-Net",
+            "stars": 104
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[CVPR",
+          "description": "] PIXOR: Real-time 3D Object Detection from Point Clouds. [pytorch] [ ]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-12-09T15:08:06Z",
+            "owner": "ankita-kalra",
+            "repo": "PIXOR",
+            "stars": 95
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[SIGGRAPH Asia",
+          "description": "] Monte Carlo Convolution for Learning on Non-Uniformly Sampled Point Clouds. [tensorflow] [ ]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-11-09T23:04:52Z",
+            "owner": "viscom-ulm",
+            "repo": "MCCNN",
+            "stars": 91
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[ECCV",
+          "description": "] Fully-Convolutional Point Networks for Large-Scale Point Clouds. [tensorflow] [ ]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-03-22T10:06:13Z",
+            "owner": "drethage",
+            "repo": "fully-convolutional-point-network",
+            "stars": 86
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[ECCV",
+          "description": "] SpiderCNN: Deep Learning on Point Sets with Parameterized Convolutional Filters. [tensorflow] [ ]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-09-11T13:38:27Z",
+            "owner": "xyf513",
+            "repo": "SpiderCNN",
+            "stars": 73
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[CVPR",
+          "description": "] Density Adaptive Point Set Registration. [code] []",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-11-27T22:04:27Z",
+            "owner": "felja633",
+            "repo": "DARE",
+            "stars": 69
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[arXiv",
+          "description": "] Point Cloud GAN. [pytorch] []",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-08-18T09:32:06Z",
+            "owner": "chunliangli",
+            "repo": "Point-Cloud-GAN",
+            "stars": 69
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[CVPR",
+          "description": "] PointGrid: A Deep Network for 3D Shape Understanding. [tensorflow] [ ]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-03-30T15:24:26Z",
+            "owner": "trucleduc",
+            "repo": "PointGrid",
+            "stars": 61
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[CVPR",
+          "description": "] PointFusion: Deep Sensor Fusion for 3D Bounding Box Estimation. [code] [ ]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2018-04-21T15:34:42Z",
+            "owner": "malavikabindhi",
+            "repo": "CS230-PointFusion",
+            "stars": 59
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[TOG",
+          "description": "] Point Convolutional Neural Networks by Extension Operators. [tensorflow] [ ]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-12-17T13:43:06Z",
+            "owner": "matanatz",
+            "repo": "pcnn",
+            "stars": 58
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[MM",
+          "description": "] RGCNN: Regularized Graph CNN for Point Cloud Segmentation. [tensorflow] []",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-07-09T11:59:19Z",
+            "owner": "tegusi",
+            "repo": "RGCNN",
+            "stars": 58
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[CVPR",
+          "description": "] Hand PointNet: 3D Hand Pose Estimation using Point Sets. [pytorch] []",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-11-28T09:13:55Z",
+            "owner": "3huo",
+            "repo": "Hand-Pointnet",
+            "stars": 57
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[SIGGRAPH",
+          "description": "] P2P-NET: Bidirectional Point Displacement Net for Shape Transform. [tensorflow] []",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-09-11T06:09:52Z",
+            "owner": "kangxue",
+            "repo": "P2P-NET",
+            "stars": 55
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[ECCV",
+          "description": "] Multiresolution Tree Networks for 3D Point Cloud Processing. [pytorch] []",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-12-29T04:11:59Z",
+            "owner": "matheusgadelha",
+            "repo": "MRTNet",
+            "stars": 43
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[ECCV",
+          "description": "] Local Spectral Graph Convolution for Point Set Feature Learning. [tensorflow] [ ]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-08-29T20:49:11Z",
+            "owner": "wangchu1",
+            "repo": "LocalSpecGCN",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[IROS",
+          "description": "] NDVI Point Cloud Generator Tool Using Low-Cost RGB-D Sensor. [code][]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2018-04-13T10:42:29Z",
+            "owner": "CTTCGeoLab",
+            "repo": "VI_ROS",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[ICRA",
+          "description": "] SqueezeSeg: Convolutional Neural Nets with Recurrent CRF for Real-Time Road-Object Segmentation from 3D LiDAR Point Cloud. [tensorflow] [ ]",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "[arxiv",
+          "description": "] RoarNet: A Robust 3D Object Detection based on RegiOn Approximation Refinement. [tensorflow] [ ]",
+          "children": []
+        }
+      ],
+      "title": "2018"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "[CVPR",
+          "description": "] 4D Spatio-Temporal ConvNets: Minkowski Convolutional Neural Networks. [pytorch] [] :fire:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-03-05T16:00:19Z",
+            "owner": "NVIDIA",
+            "repo": "MinkowskiEngine",
+            "stars": 2953
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[arXiv",
+          "description": "] StarNet: Targeted Computation for Object Detection in Point Clouds. [tensorflow] []",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-22T19:13:51Z",
+            "owner": "tensorflow",
+            "repo": "lingvo",
+            "stars": 2863
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[TOG",
+          "description": "] Dynamic Graph CNN for Learning on Point Clouds. [tensorflow][pytorch] [ ] :fire: :star:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-05-20T07:11:52Z",
+            "owner": "WangYueFt",
+            "repo": "dgcnn",
+            "stars": 1847
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[CVPR",
+          "description": "] PointRCNN: 3D Object Proposal Generation and Detection from Point Cloud. [pytorch] [ ] :fire:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-09-01T10:13:35Z",
+            "owner": "sshaoshuai",
+            "repo": "PointRCNN",
+            "stars": 1817
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[ICCV",
+          "description": "] Deep Hough Voting for 3D Object Detection in Point Clouds. [pytorch] [tensorflow] [] :fire:",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2022-01-30T06:12:55Z",
+            "owner": "facebookresearch",
+            "repo": "votenet",
+            "stars": 1761
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[arvix",
+          "description": "] Deep Learning for 3D Point Clouds: A Survey. [code] [ ]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-06-08T07:29:25Z",
+            "owner": "QingyongHu",
+            "repo": "SoTA-Point-Cloud",
+            "stars": 1633
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[CVPR",
+          "description": "] PointPillars: Fast Encoders for Object Detection from Point Clouds. [pytorch] [] :fire:",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2020-05-15T09:45:34Z",
+            "owner": "nutonomy",
+            "repo": "second.pytorch",
+            "stars": 1024
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[CVPR",
+          "description": "] Pseudo-LiDAR from Visual Depth Estimation: Bridging the Gap in 3D Object Detection for Autonomous Driving. [code] [ ]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2020-07-02T16:17:23Z",
+            "owner": "mileyan",
+            "repo": "pseudo_lidar",
+            "stars": 1005
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[ICCV",
+          "description": "] PointFlow: 3D Point Cloud Generation with Continuous Normalizing Flows. [pytorch] []",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-08-07T05:22:08Z",
+            "owner": "stevenygd",
+            "repo": "PointFlow",
+            "stars": 867
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[AAAI",
+          "description": "] Hypergraph Neural Networks. [pytorch] []",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-08-31T04:44:19Z",
+            "owner": "iMoonLab",
+            "repo": "HGNN",
+            "stars": 847
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[ICCV",
+          "description": "] KPConv: Flexible and Deformable Convolution for Point Clouds. [tensorflow] [ ] :fire:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-02-23T22:25:08Z",
+            "owner": "HuguesTHOMAS",
+            "repo": "KPConv",
+            "stars": 784
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[ICCV",
+          "description": "] Fully Convolutional Geometric Features. [pytorch] []",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-02T10:25:19Z",
+            "owner": "chrischoy",
+            "repo": "FCGF",
+            "stars": 732
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[ICCV",
+          "description": "] DeepGCNs: Can GCNs Go as Deep as CNNs? [tensorflow] [pytorch] [] :fire:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-01-23T13:17:32Z",
+            "owner": "lightaime",
+            "repo": "deep_gcns",
+            "stars": 629
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[CVPR",
+          "description": "] The Perfect Match: 3D Point Cloud Matching with Smoothed Densities. [tensorflow] []",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-03-24T21:55:02Z",
+            "owner": "zgojcic",
+            "repo": "3DSmoothNet",
+            "stars": 515
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[ICCV",
+          "description": "] Point-Based Multi-View Stereo Network. [pytorch] []",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-08-05T15:54:26Z",
+            "owner": "callmeray",
+            "repo": "PointMVSNet",
+            "stars": 505
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[CVPR",
+          "description": "] PointConv: Deep Convolutional Networks on 3D Point Clouds. [tensorflow] [ ] :fire:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-10-01T18:11:20Z",
+            "owner": "DylanWusee",
+            "repo": "pointconv",
+            "stars": 498
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[CVPR",
+          "description": "] PointNetLK: Point Cloud Registration using PointNet. [pytorch] []",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-06-23T05:03:11Z",
+            "owner": "hmgoforth",
+            "repo": "PointNetLK",
+            "stars": 492
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[CVPR",
+          "description": "] PointNetLK: Robust & Efficient Point Cloud Registration using PointNet. [pytorch] []",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-06-23T05:03:11Z",
+            "owner": "hmgoforth",
+            "repo": "PointNetLK",
+            "stars": 492
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[arXiv",
+          "description": "] Complexer-YOLO: Real-Time 3D Object Detection and Tracking on Semantic Point Clouds. [pytorch] [ ] :fire:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-03-21T16:10:01Z",
+            "owner": "AI-liu",
+            "repo": "Complex-YOLO",
+            "stars": 453
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[arXiv",
+          "description": "] Differentiable Surface Splatting for Point-based Geometry Processing. [pytorch] []",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-13T17:48:45Z",
+            "owner": "yifita",
+            "repo": "DSS",
+            "stars": 447
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[CVPR",
+          "description": "] Relation-Shape Convolutional Neural Network for Point Cloud Analysis. [pytorch] [ ] :fire:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-09-30T11:36:21Z",
+            "owner": "Yochengliu",
+            "repo": "Relation-Shape-CNN",
+            "stars": 426
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[CVPR",
+          "description": "] PartNet: A Large-scale Benchmark for Fine-grained and Hierarchical Part-level 3D Object Understanding. [code] [ ]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-02-02T21:04:41Z",
+            "owner": "daerduoCarey",
+            "repo": "partnet_dataset",
+            "stars": 422
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[ICRA",
+          "description": "] PointNetGPD: Detecting Grasp Configurations from Point Sets. [pytorch] [ ]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-05-30T19:14:53Z",
+            "owner": "lianghongzhuo",
+            "repo": "PointNetGPD",
+            "stars": 399
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[NeurIPS",
+          "description": "] Learning Object Bounding Boxes for 3D Instance Segmentation on Point Clouds. [tensorflow] [ ]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-03-02T12:54:20Z",
+            "owner": "Yang7879",
+            "repo": "3D-BoNet",
+            "stars": 397
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[arXiv",
+          "description": "] Learning Object Bounding Boxes for 3D Instance Segmentation on Point Clouds. [tensorflow] [ ]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-03-02T12:54:20Z",
+            "owner": "Yang7879",
+            "repo": "3D-BoNet",
+            "stars": 397
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[ICCV",
+          "description": "] PU-GAN: a Point Cloud Upsampling Adversarial Network. [tensorflow] []",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Makefile",
+            "last_commit": "2020-11-25T01:09:24Z",
+            "owner": "liruihui",
+            "repo": "PU-GAN",
+            "stars": 300
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[CVPR",
+          "description": "] 3D Point-Capsule Networks. [pytorch] [ ]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-08-01T09:34:17Z",
+            "owner": "yongheng1991",
+            "repo": "3D-point-capsule-networks",
+            "stars": 293
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[CVPR",
+          "description": "] Associatively Segmenting Instances and Semantics in Point Clouds. [tensorflow] [] :fire:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-04-27T12:22:24Z",
+            "owner": "WXinlong",
+            "repo": "ASIS",
+            "stars": 262
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[CVPR",
+          "description": "] DeepLiDAR: Deep Surface Normal Guided Depth Prediction for Outdoor Scene from Sparse LiDAR Data and Single Color Image. [pytorch] []",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-03-23T18:02:08Z",
+            "owner": "JiaxiongQ",
+            "repo": "DeepLiDAR",
+            "stars": 260
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[ICCV",
+          "description": "] Revisiting Point Cloud Classification: A New Benchmark Dataset and Classification Model on Real-World Data. [ ] [code] [dataset]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-08-11T07:18:43Z",
+            "owner": "hkust-vgd",
+            "repo": "scanobjectnn",
+            "stars": 255
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[ICRA",
+          "description": "] SqueezeSegV2: Improved Model Structure and Unsupervised Domain Adaptation for Road-Object Segmentation from a LiDAR Point Cloud. [tensorflow] [ ]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-03-24T22:28:00Z",
+            "owner": "xuanyuzhou98",
+            "repo": "SqueezeSegV2",
+            "stars": 244
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[ICCV",
+          "description": "] USIP: Unsupervised Stable Interest Point Detection from 3D Point Clouds. [pytorch] []",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-10-27T12:54:54Z",
+            "owner": "lijx10",
+            "repo": "USIP",
+            "stars": 221
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[CVPR",
+          "description": "] PointWeb: Enhancing Local Neighborhood Features for Point Cloud Processing. [pytorch] [ ]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-01-17T13:22:59Z",
+            "owner": "hszhao",
+            "repo": "PointWeb",
+            "stars": 212
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[ICCV",
+          "description": "] Efficient Learning on Point Clouds with Basis Point Sets. [code] [ ]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-12-01T10:36:30Z",
+            "owner": "sergeyprokudin",
+            "repo": "bps",
+            "stars": 203
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[Eurographics Workshop",
+          "description": "] Generalizing Discrete Convolutions for Unstructured Point Clouds. [pytorch] [ ]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2021-04-26T08:40:48Z",
+            "owner": "aboulch",
+            "repo": "ConvPoint",
+            "stars": 190
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[CVPR",
+          "description": "] Supervised Fitting of Geometric Primitives to 3D Point Clouds. [tensorflow] []",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-12-03T19:16:52Z",
+            "owner": "lingxiaoli94",
+            "repo": "SPFN",
+            "stars": 184
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[CVPR",
+          "description": "] JSIS3D: Joint Semantic-Instance Segmentation of 3D Point Clouds with Multi-Task Pointwise Networks and Multi-Value Conditional Random Fields. [pytorch] []",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-07-08T07:49:31Z",
+            "owner": "pqhieu",
+            "repo": "jsis3d",
+            "stars": 183
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[CVPR",
+          "description": "] Learning to Sample. [tensorflow] [ ]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-05-05T12:13:03Z",
+            "owner": "orendv",
+            "repo": "learning_to_sample",
+            "stars": 182
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[ICRA",
+          "description": "] BLVD: Building A Large-scale 5D Semantics Benchmark for Autonomous Driving. [project] [ ]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-02-16T09:48:00Z",
+            "owner": "VCCIV",
+            "repo": "BLVD",
+            "stars": 174
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[CVPR",
+          "description": "] Octree guided CNN with Spherical Kernels for 3D Point Clouds. [extension] [code] [ ]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-12-08T13:28:54Z",
+            "owner": "EnyaHermite",
+            "repo": "SPH3D-GCN",
+            "stars": 172
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[CVPR",
+          "description": "] Patch-based Progressive 3D Point Set Upsampling. [tensorflow] []",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-09-10T00:09:59Z",
+            "owner": "yifita",
+            "repo": "3PU",
+            "stars": 172
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[ICCV",
+          "description": "] MeteorNet: Deep Learning on Dynamic 3D Point Cloud Sequences. [code] [ ]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-11-19T02:28:27Z",
+            "owner": "xingyul",
+            "repo": "meteornet",
+            "stars": 157
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[arXiv",
+          "description": "] PointRNN: Point Recurrent Neural Network for Moving Point Cloud Processing. [tensorflow] [ ]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-04-06T11:11:31Z",
+            "owner": "hehefan",
+            "repo": "PointRNN",
+            "stars": 153
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[CVPR",
+          "description": "] Robust Point Cloud Based Reconstruction of Large-Scale Outdoor Scenes. [code] []",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2019-06-19T04:10:53Z",
+            "owner": "ziquan111",
+            "repo": "RobustPCLReconstruction",
+            "stars": 142
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[NeurIPS",
+          "description": "] PointDAN: A Multi-Scale 3D Domain Adaption Network for Point Cloud Representation. [code] [ ]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-01-24T17:09:29Z",
+            "owner": "canqin001",
+            "repo": "PointDAN",
+            "stars": 135
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[CVPR",
+          "description": "] RL-GAN-Net: A Reinforcement Learning Agent Controlled GAN Network for Real-Time Point Cloud Shape Completion. [code] []",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-12-08T01:47:36Z",
+            "owner": "iSarmad",
+            "repo": "RL-GAN-Net",
+            "stars": 129
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[CVPR",
+          "description": "] Leveraging Shape Completion for 3D Siamese Tracking. [pytorch] [ ]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-06-08T16:36:57Z",
+            "owner": "SilvioGiancola",
+            "repo": "ShapeCompletion3DTracking",
+            "stars": 120
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[ICCV",
+          "description": "] DensePoint: Learning Densely Contextual Representation for Efficient Point Cloud Processing. [pytorch] [ ]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-09-30T11:43:20Z",
+            "owner": "Yochengliu",
+            "repo": "DensePoint",
+            "stars": 119
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[CVPR",
+          "description": "] SDRSAC: Semidefinite-Based Randomized Approach for Robust Point Cloud Registration without Correspondences. [matlab] []",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "MATLAB",
+            "last_commit": "2019-06-28T00:58:19Z",
+            "owner": "intellhave",
+            "repo": "SDRSAC",
+            "stars": 116
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[CVPR",
+          "description": "] PartNet: A Recursive Part Decomposition Network for Fine-grained and Hierarchical Shape Segmentation. [pytorch] [ ]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-08-14T23:20:16Z",
+            "owner": "FENGGENYU",
+            "repo": "CVPR2019_PartNet",
+            "stars": 115
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[CVPR",
+          "description": "] HPLFlowNet: Hierarchical Permutohedral Lattice FlowNet for Scene Flow Estimation on Large-scale Point Clouds. [pytorch] []",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-12-31T12:39:31Z",
+            "owner": "laoreja",
+            "repo": "HPLFlowNet",
+            "stars": 110
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[CVPR",
+          "description": "] Revealing Scenes by Inverting Structure from Motion Reconstructions. [code] []",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-11-06T09:59:53Z",
+            "owner": "francescopittaluga",
+            "repo": "invsfm",
+            "stars": 107
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[CVPR",
+          "description": "] Generating 3D Adversarial Point Clouds. [code] []",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-06-06T02:25:22Z",
+            "owner": "xiangchong1",
+            "repo": "3d-adv-pc",
+            "stars": 104
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[CVPR",
+          "description": "] 3DN: 3D Deformation Network. [tensorflow] [ ]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-06-05T22:41:48Z",
+            "owner": "laughtervv",
+            "repo": "3DN",
+            "stars": 103
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[CVPRW",
+          "description": "] Attentional PointNet for 3D-Object Detection in Point Clouds. [pytorch] [ ]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-06-17T15:55:49Z",
+            "owner": "anshulpaigwar",
+            "repo": "Attentional-PointNet",
+            "stars": 91
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[ICCV",
+          "description": "] PointCloud Saliency Maps. [code] []",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-03-01T20:56:27Z",
+            "owner": "tianzheng4",
+            "repo": "PointCloud-Saliency-Maps",
+            "stars": 87
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[arXiv",
+          "description": "] Point-Cloud Saliency Maps. [tensorflow] [ ]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-03-01T20:56:27Z",
+            "owner": "tianzheng4",
+            "repo": "PointCloud-Saliency-Maps",
+            "stars": 87
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[CVPR",
+          "description": "] Path-Invariant Map Networks. [tensorflow] [ ]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-05-29T22:24:27Z",
+            "owner": "zaiweizhang",
+            "repo": "path_invariance_map_network",
+            "stars": 79
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[ICCV",
+          "description": "] Total Denoising: Unsupervised Learning of 3D Point Cloud Cleaning. [tensorflow] []",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2023-07-13T10:17:49Z",
+            "owner": "phermosilla",
+            "repo": "TotalDenoising",
+            "stars": 76
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[CVPR",
+          "description": "] PCAN: 3D Attention Map Learning Using Contextual Information for Point Cloud Based Retrieval. [code] []",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-12-20T03:57:12Z",
+            "owner": "XLechter",
+            "repo": "PCAN",
+            "stars": 75
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[ICRA",
+          "description": "] Focal Loss in 3D Object Detection. [code] [ ]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-10-09T03:19:54Z",
+            "owner": "pyun-ram",
+            "repo": "FL3D",
+            "stars": 75
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[arXiv",
+          "description": "] Adversarial Autoencoders for Compact Representations of 3D Point Clouds. [pytorch] [ ]",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2021-12-22T08:51:28Z",
+            "owner": "MaciejZamorski",
+            "repo": "3d-AAE",
+            "stars": 72
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[ICCV",
+          "description": "] GraphX-Convolution for Point Cloud Deformation in 2D-to-3D Conversion. [pytorch] []",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-09-07T08:58:15Z",
+            "owner": "justanhduc",
+            "repo": "graphx-conv",
+            "stars": 62
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[arXiv",
+          "description": "] Point Cloud Super Resolution with Adversarial Residual Graph Networks. [] [tensorflow]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-11-11T01:36:01Z",
+            "owner": "wuhuikai",
+            "repo": "PointCloudSuperResolution",
+            "stars": 59
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[arXiv",
+          "description": "] 3D Backbone Network for 3D Object Detection. [code] [ ]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-05-03T04:21:42Z",
+            "owner": "Benzlxs",
+            "repo": "tDBN",
+            "stars": 54
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[ICCV",
+          "description": "] SO-HandNet: Self-Organizing Network for 3D Hand Pose Estimation with Semi-supervised Learning. [code] []",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-04-24T08:08:42Z",
+            "owner": "TerenceCYJ",
+            "repo": "SO-HandNet",
+            "stars": 53
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[NeurIPS",
+          "description": "] Exploiting Local and Global Structure for Point Cloud Semantic Segmentation with Contextual Point Representations. [tensorflow] []",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-03-06T16:26:22Z",
+            "owner": "fly519",
+            "repo": "ELGS",
+            "stars": 49
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[arXiv",
+          "description": "] Geometry Sharing Network for 3D Point Cloud Classification and Segmentation. [pytorch] [ ]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-12-24T03:08:08Z",
+            "owner": "MingyeXu",
+            "repo": "GS-Net",
+            "stars": 49
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[CVPR",
+          "description": "] Nesti-Net: Normal Estimation for Unstructured 3D Point Clouds using Convolutional Neural Networks. [tensorflow] []",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-10-19T04:05:56Z",
+            "owner": "sitzikbs",
+            "repo": "Nesti-Net",
+            "stars": 47
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[arXiv",
+          "description": "] GAPNet: Graph Attention based Point Neural Network for Exploiting Local Feature of Point Cloud. [tensorflow] [ ]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-09-25T13:17:13Z",
+            "owner": "FrankCAN",
+            "repo": "GAPointNet",
+            "stars": 47
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[CVPR",
+          "description": "] A-CNN: Annularly Convolutional Neural Networks on Point Clouds. [tensorflow][ ]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-06-14T21:03:10Z",
+            "owner": "akomarichev",
+            "repo": "a-cnn",
+            "stars": 46
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[AAAI",
+          "description": "] Point2Sequence: Learning the Shape Representation of 3D Point Clouds with an Attention-based Sequence to Sequence Network. [tensorflow] [ ]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-11-25T05:51:21Z",
+            "owner": "liuxinhai",
+            "repo": "Point2Sequence",
+            "stars": 42
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[TOG",
+          "description": "] LOGAN: Unpaired Shape Transform in Latent Overcomplete Space. [tensorflow] []",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-09-11T06:09:27Z",
+            "owner": "kangxue",
+            "repo": "LOGAN",
+            "stars": 40
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[ICRA",
+          "description": "] Robust low-overlap 3-D point cloud registration for outlier rejection. [matlab] []",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2021-06-04T18:50:04Z",
+            "owner": "JStech",
+            "repo": "ICP",
+            "stars": 38
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[ICRA",
+          "description": "] Point Cloud Compression for 3D LiDAR Sensor Using Recurrent Neural Network with Residual Blocks. [pytorch] []",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2019-05-28T10:30:53Z",
+            "owner": "ChenxiTU",
+            "repo": "Point-cloud-compression-by-RNN",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[3DV",
+          "description": "] Effective Rotation-invariant Point CNN with Spherical Harmonics kernels. [tensorflow] [ ]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-01-04T14:51:53Z",
+            "owner": "adrienPoulenard",
+            "repo": "SPHnet",
+            "stars": 34
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[arXiv",
+          "description": "] StructEdit: Learning Structural Shape Variations. [project] []",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2020-03-08T02:55:30Z",
+            "owner": "daerduoCarey",
+            "repo": "structedit",
+            "stars": 34
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[arXiv",
+          "description": "] PointAtrousGraph: Deep Hierarchical Encoder-Decoder with Point Atrous Convolution for Unorganized 3D Points. [tensorflow] [ ]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-02-26T13:50:27Z",
+            "owner": "paul007pl",
+            "repo": "PointAtrousGraph",
+            "stars": 29
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[arXiv",
+          "description": "] Extending Adversarial Attacks and Defenses to Deep 3D Point Cloud Classifiers. [code] []",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-05-22T05:40:50Z",
+            "owner": "Daniel-Liu-c0deb0t",
+            "repo": "3D-Neural-Network-Adversarial-Attacks",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[SIGGRAPH Asia",
+          "description": "] RPM-Net: recurrent prediction of motion and parts from point cloud. [tensorflow] []",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-12-19T09:53:45Z",
+            "owner": "Salingo",
+            "repo": "RPM-Net",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[ICRA",
+          "description": "] Discrete Rotation Equivariance for Point Cloud Recognition. [pytorch] []",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-04-01T05:23:59Z",
+            "owner": "lijx10",
+            "repo": "rot-equ-net",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[CVPR",
+          "description": "] PointFlowNet: Learning Representations for Rigid Motion Estimation from Point Clouds. [code] [ ]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2019-04-05T14:04:34Z",
+            "owner": "aseembehl",
+            "repo": "pointflownet",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[AAAI",
+          "description": "] CAPNet: Continuous Approximation Projection For 3D Point Cloud Reconstruction Using 2D Supervision. [code] []",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-05-06T12:07:03Z",
+            "owner": "val-iisc",
+            "repo": "capnet",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[ICCV",
+          "description": "] VV-NET: Voxel VAE Net with Group Convolutions for Point Cloud Segmentation. [tensorflow] []",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-01-04T15:01:00Z",
+            "owner": "xianyuMeng",
+            "repo": "VV-Net-Voxel-VAE-Net-with-Group-Convolutions-for-Point-Cloud-Segmentation",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[arXiv",
+          "description": "] FVNet: 3D Front-View Proposal Generation for Real-Time Object Detection from Point Clouds. [code] [ ]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-12-30T11:17:04Z",
+            "owner": "LordLiang",
+            "repo": "FVNet",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[IROS",
+          "description": "] EPN: Edge-Aware PointNet for Object Recognition from Multi-View 2.5D Point Clouds. [tensorflow] [ ]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-08-07T15:18:17Z",
+            "owner": "Merium88",
+            "repo": "Edge-Aware-PointNet",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[ICCV",
+          "description": "] Dynamic Points Agglomeration for Hierarchical Point Sets Learning. [pytorch] [ ]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-11-15T08:16:06Z",
+            "owner": "yuyi1005",
+            "repo": "DPAM",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[MM",
+          "description": "] Ground-Aware Point Cloud Semantic Segmentation for Autonomous Driving. [code] [ ]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2019-09-19T16:26:46Z",
+            "owner": "Jaiy",
+            "repo": "Ground-aware-Seg",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[MM",
+          "description": "] SRINet: Learning Strictly Rotation-Invariant Representations for Point Cloud Classification and Segmentation. [tensorflow] [ ]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-12-13T03:01:29Z",
+            "owner": "tasx0823",
+            "repo": "SRINet",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[AAAI",
+          "description": "] PVRNet: Point-View Relation Neural Network for 3D Shape Recognition. [pytorch] [ ]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-09-05T23:20:09Z",
+            "owner": "Hxyou",
+            "repo": "PVRNet",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[arXiv",
+          "description": "] SAWNet: A Spatially Aware Deep Neural Network for 3D Point Cloud Processing. [tensorflow] [ ]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-07-31T13:13:57Z",
+            "owner": "balwantraikekutte",
+            "repo": "SAWNet",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[arXiv",
+          "description": "] Zero-shot Learning of 3D Point Cloud Objects. [code] []",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2019-04-03T14:19:53Z",
+            "owner": "alichr",
+            "repo": "Zero-shot-Learning-of-3D-Point-Cloud-Objects",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[ICCV",
+          "description": "] 3D Point Cloud Generative Adversarial Network Based on Tree Structured Graph Convolutions. [pytorch] []",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "[ICASSP",
+          "description": "] 3D Point Cloud Denoising via Deep Neural Network based Local Surface Estimation. [code] []",
+          "children": []
+        }
+      ],
+      "title": "2019"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "[CVPR",
+          "description": "] RandLA-Net: Efficient Semantic Segmentation of Large-Scale Point Clouds. [tensorflow] []",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-07-11T22:42:23Z",
+            "owner": "QingyongHu",
+            "repo": "RandLA-Net",
+            "stars": 1558
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[AAAI",
+          "description": "] Morphing and Sampling Network for Dense Point Cloud Completion. [pytorch] []",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-04-08T23:05:52Z",
+            "owner": "Colin97",
+            "repo": "MSN-Point-Cloud-Completion",
+            "stars": 448
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[CVPR",
+          "description": "] Learning multiview 3D point cloud registration. [code] []",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-07-22T14:25:49Z",
+            "owner": "zgojcic",
+            "repo": "3D_multiview_reg",
+            "stars": 403
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[CVPR",
+          "description": "] SampleNet: Differentiable Point Cloud Sampling. [code] [ ]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-06-25T06:04:11Z",
+            "owner": "itailang",
+            "repo": "SampleNet",
+            "stars": 392
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[CVPR",
+          "description": "] PF-Net: Point Fractal Network for 3D Point Cloud Completion. [pytorch] []",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-05-26T07:02:23Z",
+            "owner": "zztianzz",
+            "repo": "PF-Net-Point-Fractal-Network",
+            "stars": 371
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[CVPR",
+          "description": "] Implicit Functions in Feature Space for Shape Reconstruction and Completion. [code] []",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-07-24T13:53:39Z",
+            "owner": "jchibane",
+            "repo": "if-net",
+            "stars": 324
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[arXiv",
+          "description": "] Parameter-Efficient Person Re-identification in the 3D Space. [code][] :fire:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-06T00:54:43Z",
+            "owner": "layumi",
+            "repo": "person-reid-3d",
+            "stars": 271
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[AAAI",
+          "description": "] TANet: Robust 3D Object Detection from Point Clouds with Triple Attention. [code] [ ]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-11-23T10:57:10Z",
+            "owner": "happinesslz",
+            "repo": "TANet",
+            "stars": 259
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[IROS",
+          "description": "] GndNet: Fast Ground Plane Estimation and Point Cloud Segmentation for Autonomous Vehicles. [code] [ ]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-06-04T13:21:49Z",
+            "owner": "anshulpaigwar",
+            "repo": "GndNet",
+            "stars": 219
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[CVPR",
+          "description": "] SGAS: Sequential Greedy Architecture Search. [code] [ ]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-06-05T14:47:02Z",
+            "owner": "lightaime",
+            "repo": "sgas",
+            "stars": 162
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[CVPR",
+          "description": "] Feature-metric Registration: A Fast Semi-supervised Approach for Robust Point Cloud Registration without Correspondences. [code] []",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-04-26T07:52:27Z",
+            "owner": "XiaoshuiHuang",
+            "repo": "fmr",
+            "stars": 158
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[ECCV",
+          "description": "] DeepFit: 3D Surface Fitting via Neural Network Weighted Least Squares. [code] []",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-07-06T21:53:34Z",
+            "owner": "sitzikbs",
+            "repo": "DeepFit",
+            "stars": 149
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[CVPR",
+          "description": "] MLCVNet: Multi-Level Context VoteNet for 3D Object Detection. [code] []",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-11-18T08:12:55Z",
+            "owner": "NUAAXQ",
+            "repo": "MLCVNet",
+            "stars": 122
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[CVPR",
+          "description": "] Just Go with the Flow: Self-Supervised Scene Flow Estimation. [code][ ]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-02-15T22:51:42Z",
+            "owner": "HimangiM",
+            "repo": "Just-Go-with-the-Flow-Self-Supervised-Scene-Flow-Estimation",
+            "stars": 68
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[ECCV",
+          "description": "] DPDist: Comparing Point Clouds Using Deep Point Cloud Distance. [code] []",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-04-23T13:07:57Z",
+            "owner": "dahliau",
+            "repo": "DPDist",
+            "stars": 65
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[CVPR",
+          "description": "] Attentive Context Normalization for Robust Permutation-Equivariant Learning. [code] []",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-07-21T16:15:11Z",
+            "owner": "vcg-uvic",
+            "repo": "acne",
+            "stars": 55
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[ICLR",
+          "description": "] AdvectiveNet: An Eulerian-Lagrangian Fluidic Reservoir for Point Cloud Processing. [code][ ]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-02-06T21:06:59Z",
+            "owner": "xingzhehe",
+            "repo": "AdvectiveNet-An-Eulerian-Lagrangian-Fluidic-Reservoir-for-Point-Cloud-Processing",
+            "stars": 7
+          }
+        }
+      ],
+      "title": "2020"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "[CVPR",
+          "description": "] Point 4D Transformer Networks for Spatio-Temporal Modeling in Point Cloud Videos. [code][ ]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-08-14T06:45:46Z",
+            "owner": "hehefan",
+            "repo": "P4Transformer",
+            "stars": 188
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[ICCV",
+          "description": "] MVTN: Multi-View Transformation Network for 3D Shape Recognition. [code][ ]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-15T11:03:06Z",
+            "owner": "ajhamdi",
+            "repo": "MVTN",
+            "stars": 107
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[CVPR",
+          "description": "] PV-RAFT: Point-Voxel Correlation Fields for Scene Flow Estimation of Point Clouds. [code][]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-07-28T06:35:15Z",
+            "owner": "weiyithu",
+            "repo": "PV-RAFT",
+            "stars": 81
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[ICRA",
+          "description": "] FGR: Frustum-Aware Geometric Reasoning for Weakly Supervised 3D Vehicle Detection. [code][ ]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-05-18T02:17:53Z",
+            "owner": "weiyithu",
+            "repo": "FGR",
+            "stars": 44
+          }
+        }
+      ],
+      "title": "2021"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T03:57:09.195Z",
+    "original_repository": "Yochengliu/awesome-point-cloud-analysis",
+    "original_repository_sha": "a0ec37f228c11089473b3f8626851feba9b86989",
+    "enhanced_repository": "enhansome/enhansome-point-cloud-analysis",
+    "enhanced_repository_description": null,
+    "title": "awesome-point-cloud-analysis with stars"
+  }
+}
