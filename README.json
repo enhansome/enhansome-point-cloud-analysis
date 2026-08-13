@@ -19,7 +19,7 @@
             "last_commit": "2023-11-30T03:26:15Z",
             "owner": "charlesq34",
             "repo": "pointnet",
-            "stars": 5453
+            "stars": 5452
           }
         },
         {
@@ -47,7 +47,7 @@
             "last_commit": "2025-10-14T03:38:57Z",
             "owner": "andyzeng",
             "repo": "3dmatch-toolbox",
-            "stars": 906
+            "stars": 904
           }
         },
         {
@@ -173,7 +173,7 @@
             "last_commit": "2019-04-18T12:17:57Z",
             "owner": "gilbaz",
             "repo": "LORAX",
-            "stars": 91
+            "stars": 89
           }
         },
         {
@@ -366,20 +366,6 @@
         },
         {
           "node_type": "item",
-          "title": "[AAAI",
-          "description": "] Learning Efficient Point Cloud Generation for Dense 3D Object Reconstruction. [tensorflow] [] :fire:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2019-04-10T19:31:19Z",
-            "owner": "chenhsuanlin",
-            "repo": "3D-point-cloud-generation",
-            "stars": 453
-          }
-        },
-        {
-          "node_type": "item",
           "title": "[arXiv",
           "description": "] Complex-YOLO: Real-time 3D Object Detection on Point Clouds. [pytorch] [ ] :fire:",
           "children": [],
@@ -390,6 +376,20 @@
             "owner": "AI-liu",
             "repo": "Complex-YOLO",
             "stars": 453
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[AAAI",
+          "description": "] Learning Efficient Point Cloud Generation for Dense 3D Object Reconstruction. [tensorflow] [] :fire:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-04-10T19:31:19Z",
+            "owner": "chenhsuanlin",
+            "repo": "3D-point-cloud-generation",
+            "stars": 451
           }
         },
         {
@@ -515,7 +515,7 @@
             "last_commit": "2019-07-04T07:22:32Z",
             "owner": "yewzijian",
             "repo": "3DFeatNet",
-            "stars": 222
+            "stars": 221
           }
         },
         {
@@ -674,20 +674,6 @@
         },
         {
           "node_type": "item",
-          "title": "[CVPR",
-          "description": "] Density Adaptive Point Set Registration. [code] []",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2021-11-27T22:04:27Z",
-            "owner": "felja633",
-            "repo": "DARE",
-            "stars": 69
-          }
-        },
-        {
-          "node_type": "item",
           "title": "[arXiv",
           "description": "] Point Cloud GAN. [pytorch] []",
           "children": [],
@@ -698,6 +684,20 @@
             "owner": "chunliangli",
             "repo": "Point-Cloud-GAN",
             "stars": 69
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[CVPR",
+          "description": "] Density Adaptive Point Set Registration. [code] []",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-11-27T22:04:27Z",
+            "owner": "felja633",
+            "repo": "DARE",
+            "stars": 68
           }
         },
         {
@@ -781,7 +781,7 @@
             "last_commit": "2020-09-11T06:09:52Z",
             "owner": "kangxue",
             "repo": "P2P-NET",
-            "stars": 55
+            "stars": 54
           }
         },
         {
@@ -939,7 +939,7 @@
             "last_commit": "2020-05-15T09:45:34Z",
             "owner": "nutonomy",
             "repo": "second.pytorch",
-            "stars": 1024
+            "stars": 1023
           }
         },
         {
@@ -1037,7 +1037,7 @@
             "last_commit": "2023-03-24T21:55:02Z",
             "owner": "zgojcic",
             "repo": "3DSmoothNet",
-            "stars": 515
+            "stars": 514
           }
         },
         {
@@ -1079,7 +1079,7 @@
             "last_commit": "2019-06-23T05:03:11Z",
             "owner": "hmgoforth",
             "repo": "PointNetLK",
-            "stars": 492
+            "stars": 491
           }
         },
         {
@@ -1093,7 +1093,7 @@
             "last_commit": "2019-06-23T05:03:11Z",
             "owner": "hmgoforth",
             "repo": "PointNetLK",
-            "stars": 492
+            "stars": 491
           }
         },
         {
@@ -2405,7 +2405,7 @@
             "last_commit": "2022-08-14T06:45:46Z",
             "owner": "hehefan",
             "repo": "P4Transformer",
-            "stars": 188
+            "stars": 189
           }
         },
         {
@@ -2455,7 +2455,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T03:57:09.195Z",
+    "last_updated": "2026-08-13T16:08:11.184Z",
     "original_repository": "Yochengliu/awesome-point-cloud-analysis",
     "original_repository_sha": "a0ec37f228c11089473b3f8626851feba9b86989",
     "enhanced_repository": "enhansome/enhansome-point-cloud-analysis",
