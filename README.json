@@ -33,7 +33,7 @@
             "last_commit": "2022-08-26T00:39:24Z",
             "owner": "charlesq34",
             "repo": "pointnet2",
-            "stars": 3695
+            "stars": 3696
           }
         },
         {
@@ -145,7 +145,7 @@
             "last_commit": "2019-03-16T12:55:46Z",
             "owner": "yanx27",
             "repo": "3DGNN_pytorch",
-            "stars": 234
+            "stars": 235
           }
         },
         {
@@ -515,7 +515,7 @@
             "last_commit": "2019-07-04T07:22:32Z",
             "owner": "yewzijian",
             "repo": "3DFeatNet",
-            "stars": 221
+            "stars": 220
           }
         },
         {
@@ -883,7 +883,7 @@
             "last_commit": "2022-05-20T07:11:52Z",
             "owner": "WangYueFt",
             "repo": "dgcnn",
-            "stars": 1847
+            "stars": 1848
           }
         },
         {
@@ -2217,7 +2217,7 @@
             "last_commit": "2021-05-26T07:02:23Z",
             "owner": "zztianzz",
             "repo": "PF-Net-Point-Fractal-Network",
-            "stars": 371
+            "stars": 372
           }
         },
         {
@@ -2455,7 +2455,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T16:08:11.184Z",
+    "last_updated": "2026-08-14T16:04:17.086Z",
     "original_repository": "Yochengliu/awesome-point-cloud-analysis",
     "original_repository_sha": "a0ec37f228c11089473b3f8626851feba9b86989",
     "enhanced_repository": "enhansome/enhansome-point-cloud-analysis",
