@@ -235,7 +235,7 @@
             "last_commit": "2024-08-17T07:20:25Z",
             "owner": "RobustFieldAutonomyLab",
             "repo": "LeGO-LOAM",
-            "stars": 2751
+            "stars": 2752
           }
         },
         {
@@ -869,7 +869,7 @@
             "last_commit": "2026-06-22T19:13:51Z",
             "owner": "tensorflow",
             "repo": "lingvo",
-            "stars": 2863
+            "stars": 2864
           }
         },
         {
@@ -2405,7 +2405,7 @@
             "last_commit": "2022-08-14T06:45:46Z",
             "owner": "hehefan",
             "repo": "P4Transformer",
-            "stars": 189
+            "stars": 190
           }
         },
         {
@@ -2455,7 +2455,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T16:04:17.086Z",
+    "last_updated": "2026-08-15T15:33:50.829Z",
     "original_repository": "Yochengliu/awesome-point-cloud-analysis",
     "original_repository_sha": "a0ec37f228c11089473b3f8626851feba9b86989",
     "enhanced_repository": "enhansome/enhansome-point-cloud-analysis",
