@@ -61,7 +61,7 @@
             "last_commit": "2025-04-16T09:17:29Z",
             "owner": "LiangliangNan",
             "repo": "PolyFit",
-            "stars": 826
+            "stars": 827
           }
         },
         {
@@ -925,7 +925,7 @@
             "last_commit": "2021-06-08T07:29:25Z",
             "owner": "QingyongHu",
             "repo": "SoTA-Point-Cloud",
-            "stars": 1633
+            "stars": 1634
           }
         },
         {
@@ -1009,7 +1009,7 @@
             "last_commit": "2026-07-02T10:25:19Z",
             "owner": "chrischoy",
             "repo": "FCGF",
-            "stars": 732
+            "stars": 733
           }
         },
         {
@@ -2455,7 +2455,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T15:33:50.829Z",
+    "last_updated": "2026-08-16T15:34:27.881Z",
     "original_repository": "Yochengliu/awesome-point-cloud-analysis",
     "original_repository_sha": "a0ec37f228c11089473b3f8626851feba9b86989",
     "enhanced_repository": "enhansome/enhansome-point-cloud-analysis",
