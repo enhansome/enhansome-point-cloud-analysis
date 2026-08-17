@@ -19,7 +19,7 @@
             "last_commit": "2023-11-30T03:26:15Z",
             "owner": "charlesq34",
             "repo": "pointnet",
-            "stars": 5452
+            "stars": 5454
           }
         },
         {
@@ -33,7 +33,7 @@
             "last_commit": "2022-08-26T00:39:24Z",
             "owner": "charlesq34",
             "repo": "pointnet2",
-            "stars": 3696
+            "stars": 3697
           }
         },
         {
@@ -235,7 +235,7 @@
             "last_commit": "2024-08-17T07:20:25Z",
             "owner": "RobustFieldAutonomyLab",
             "repo": "LeGO-LOAM",
-            "stars": 2752
+            "stars": 2753
           }
         },
         {
@@ -2161,7 +2161,7 @@
             "last_commit": "2023-07-11T22:42:23Z",
             "owner": "QingyongHu",
             "repo": "RandLA-Net",
-            "stars": 1558
+            "stars": 1559
           }
         },
         {
@@ -2455,7 +2455,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T15:34:27.881Z",
+    "last_updated": "2026-08-17T15:38:31.948Z",
     "original_repository": "Yochengliu/awesome-point-cloud-analysis",
     "original_repository_sha": "a0ec37f228c11089473b3f8626851feba9b86989",
     "enhanced_repository": "enhansome/enhansome-point-cloud-analysis",
