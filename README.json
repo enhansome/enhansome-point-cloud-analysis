@@ -61,7 +61,7 @@
             "last_commit": "2025-04-16T09:17:29Z",
             "owner": "LiangliangNan",
             "repo": "PolyFit",
-            "stars": 827
+            "stars": 828
           }
         },
         {
@@ -855,7 +855,7 @@
             "last_commit": "2024-03-05T16:00:19Z",
             "owner": "NVIDIA",
             "repo": "MinkowskiEngine",
-            "stars": 2953
+            "stars": 2955
           }
         },
         {
@@ -1079,7 +1079,7 @@
             "last_commit": "2019-06-23T05:03:11Z",
             "owner": "hmgoforth",
             "repo": "PointNetLK",
-            "stars": 491
+            "stars": 492
           }
         },
         {
@@ -1093,7 +1093,7 @@
             "last_commit": "2019-06-23T05:03:11Z",
             "owner": "hmgoforth",
             "repo": "PointNetLK",
-            "stars": 491
+            "stars": 492
           }
         },
         {
@@ -1135,7 +1135,7 @@
             "last_commit": "2021-09-30T11:36:21Z",
             "owner": "Yochengliu",
             "repo": "Relation-Shape-CNN",
-            "stars": 426
+            "stars": 425
           }
         },
         {
@@ -2455,7 +2455,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T15:38:31.948Z",
+    "last_updated": "2026-08-18T15:44:52.127Z",
     "original_repository": "Yochengliu/awesome-point-cloud-analysis",
     "original_repository_sha": "a0ec37f228c11089473b3f8626851feba9b86989",
     "enhanced_repository": "enhansome/enhansome-point-cloud-analysis",
