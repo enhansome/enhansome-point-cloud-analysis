@@ -15,7 +15,7 @@
             "last_commit": "2023-11-30T03:26:15Z",
             "owner": "charlesq34",
             "repo": "pointnet",
-            "stars": 5454
+            "stars": 5455
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2022-08-26T00:39:24Z",
             "owner": "charlesq34",
             "repo": "pointnet2",
-            "stars": 3697
+            "stars": 3696
           }
         },
         {
@@ -261,7 +261,7 @@
             "last_commit": "2024-01-09T01:47:27Z",
             "owner": "facebookresearch",
             "repo": "SparseConvNet",
-            "stars": 2146
+            "stars": 2145
           }
         },
         {
@@ -321,7 +321,7 @@
             "last_commit": "2023-07-19T20:50:48Z",
             "owner": "loicland",
             "repo": "superpoint_graph",
-            "stars": 801
+            "stars": 800
           }
         },
         {
@@ -927,7 +927,7 @@
             "last_commit": "2022-05-20T07:11:52Z",
             "owner": "WangYueFt",
             "repo": "dgcnn",
-            "stars": 1848
+            "stars": 1846
           }
         },
         {
@@ -1062,7 +1062,7 @@
             "last_commit": "2026-07-02T10:25:19Z",
             "owner": "chrischoy",
             "repo": "FCGF",
-            "stars": 733
+            "stars": 732
           }
         },
         {
@@ -1212,7 +1212,7 @@
             "last_commit": "2023-02-02T21:04:41Z",
             "owner": "daerduoCarey",
             "repo": "partnet_dataset",
-            "stars": 422
+            "stars": 421
           }
         },
         {
@@ -1227,7 +1227,7 @@
             "last_commit": "2025-05-30T19:14:53Z",
             "owner": "lianghongzhuo",
             "repo": "PointNetGPD",
-            "stars": 399
+            "stars": 398
           }
         },
         {
@@ -1473,21 +1473,6 @@
         {
           "node_type": "item",
           "title": "[CVPR",
-          "description": "] Octree guided CNN with Spherical Kernels for 3D Point Clouds. [extension] [code] [ ]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 209757862,
-            "language": "Python",
-            "last_commit": "2020-12-08T13:28:54Z",
-            "owner": "EnyaHermite",
-            "repo": "SPH3D-GCN",
-            "stars": 172
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "[CVPR",
           "description": "] Patch-based Progressive 3D Point Set Upsampling. [tensorflow] []",
           "children": [],
           "repo_info": {
@@ -1498,6 +1483,21 @@
             "owner": "yifita",
             "repo": "3PU",
             "stars": 172
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[CVPR",
+          "description": "] Octree guided CNN with Spherical Kernels for 3D Point Clouds. [extension] [code] [ ]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 209757862,
+            "language": "Python",
+            "last_commit": "2020-12-08T13:28:54Z",
+            "owner": "EnyaHermite",
+            "repo": "SPH3D-GCN",
+            "stars": 171
           }
         },
         {
@@ -2283,7 +2283,7 @@
             "last_commit": "2023-07-11T22:42:23Z",
             "owner": "QingyongHu",
             "repo": "RandLA-Net",
-            "stars": 1559
+            "stars": 1558
           }
         },
         {
@@ -2672,7 +2672,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T15:47:06.849Z",
+    "last_updated": "2026-08-21T15:46:32.450Z",
     "original_repository": "Yochengliu/awesome-point-cloud-analysis",
     "original_repository_id": 183274427,
     "original_repository_sha": "a0ec37f228c11089473b3f8626851feba9b86989",
