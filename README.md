@@ -4,7 +4,7 @@ for anyone who wants to do research about 3D point cloud.
 
 If you find the awesome paper/code/dataset or have some suggestions, please contact <hualin.vvv@gmail.com>. Thanks for your valuable contribution to the research community :smiley:
 
-### For more recent papers, please visit [awesome-point-cloud-analysis-2020](https://github.com/NUAAXQ/awesome-point-cloud-analysis-2020) ⭐ 1,591 | 🐛 5 | 📅 2024-04-10
+### For more recent papers, please visit [awesome-point-cloud-analysis-2020](https://github.com/NUAAXQ/awesome-point-cloud-analysis-2020) ⭐ 1,592 | 🐛 5 | 📅 2024-04-10
 
 <h1> 
 
@@ -244,8 +244,8 @@ Statistics: :fire: code is available & stars >= 100  |  :star: citation >= 5
 * \[[ICRA](https://arxiv.org/abs/1903.06405v1)] BLVD: Building A Large-scale 5D Semantics Benchmark for Autonomous Driving. \[[project](https://github.com/VCCIV/BLVD) ⭐ 174 | 🐛 6 | 🌐 Python | 📅 2020-02-16] \[**`dat.`** **`det.`** **`tra.`** **`aut.`** **`oth.`**]
 * \[[CVPR](https://arxiv.org/abs/1811.11286)] Patch-based Progressive 3D Point Set Upsampling. \[[tensorflow](https://github.com/yifita/3PU) ⭐ 172 | 🐛 7 | 🌐 C++ | 📅 2024-09-10] \[**`oth.`**]
 * \[[CVPR](https://arxiv.org/abs/1903.00343)] Octree guided CNN with Spherical Kernels for 3D Point Clouds. \[[extension](https://arxiv.org/pdf/1909.09287.pdf)] \[[code](https://github.com/hlei-ziyan/SPH3D-GCN) ⭐ 171 | 🐛 17 | 🌐 Python | 📅 2020-12-08] \[**`cls.`** **`seg.`**]
-* \[[ICCV](http://openaccess.thecvf.com/content_ICCV_2019/papers/Liu_MeteorNet_Deep_Learning_on_Dynamic_3D_Point_Cloud_Sequences_ICCV_2019_paper.pdf)] MeteorNet: Deep Learning on Dynamic 3D Point Cloud Sequences. \[[code](https://github.com/xingyul/meteornet) ⭐ 157 | 🐛 1 | 🌐 Python | 📅 2021-11-19] \[**`cls.`** **`seg.`** **`oth.`**]
-* \[[arXiv](https://arxiv.org/pdf/1910.08287.pdf)] PointRNN: Point Recurrent Neural Network for Moving Point Cloud Processing. \[[tensorflow](https://github.com/hehefan/PointRNN) ⭐ 153 | 🐛 4 | 🌐 Python | 📅 2021-04-06] \[**`tra.`** **`oth.`** **`aut.`**]
+* \[[ICCV](http://openaccess.thecvf.com/content_ICCV_2019/papers/Liu_MeteorNet_Deep_Learning_on_Dynamic_3D_Point_Cloud_Sequences_ICCV_2019_paper.pdf)] MeteorNet: Deep Learning on Dynamic 3D Point Cloud Sequences. \[[code](https://github.com/xingyul/meteornet) ⭐ 156 | 🐛 1 | 🌐 Python | 📅 2021-11-19] \[**`cls.`** **`seg.`** **`oth.`**]
+* \[[arXiv](https://arxiv.org/pdf/1910.08287.pdf)] PointRNN: Point Recurrent Neural Network for Moving Point Cloud Processing. \[[tensorflow](https://github.com/hehefan/PointRNN) ⭐ 152 | 🐛 4 | 🌐 Python | 📅 2021-04-06] \[**`tra.`** **`oth.`** **`aut.`**]
 * \[[CVPR](https://www.researchgate.net/publication/332240602_Robust_Point_Cloud_Based_Reconstruction_of_Large-Scale_Outdoor_Scenes)] Robust Point Cloud Based Reconstruction of Large-Scale Outdoor Scenes. \[[code](https://github.com/ziquan111/RobustPCLReconstruction) ⭐ 142 | 🐛 1 | 🌐 C++ | 📅 2019-06-19] \[**`rec.`**]
 * \[[NeurIPS](http://papers.nips.cc/paper/8940-pointdan-a-multi-scale-3d-domain-adaption-network-for-point-cloud-representation.pdf)] PointDAN: A Multi-Scale 3D Domain Adaption Network for Point Cloud Representation. \[[code](https://github.com/canqin001/PointDAN) ⭐ 135 | 🐛 5 | 🌐 Python | 📅 2021-01-24] \[**`cls.`** **`oth.`**]
 * \[[CVPR](https://arxiv.org/abs/1904.12304)] RL-GAN-Net: A Reinforcement Learning Agent Controlled GAN Network for Real-Time Point Cloud Shape Completion. \[[code](https://github.com/iSarmad/RL-GAN-Net) ⭐ 129 | 🐛 22 | 🌐 Python | 📅 2022-12-08] \[**`oth.`**]
@@ -524,4 +524,4 @@ Statistics: :fire: code is available & stars >= 100  |  :star: citation >= 5
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._

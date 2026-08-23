@@ -1512,7 +1512,7 @@
             "last_commit": "2021-11-19T02:28:27Z",
             "owner": "xingyul",
             "repo": "meteornet",
-            "stars": 157
+            "stars": 156
           }
         },
         {
@@ -1527,7 +1527,7 @@
             "last_commit": "2021-04-06T11:11:31Z",
             "owner": "hehefan",
             "repo": "PointRNN",
-            "stars": 153
+            "stars": 152
           }
         },
         {
@@ -2672,7 +2672,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T15:33:55.964Z",
+    "last_updated": "2026-08-23T15:34:37.951Z",
     "original_repository": "Yochengliu/awesome-point-cloud-analysis",
     "original_repository_id": 183274427,
     "original_repository_sha": "a0ec37f228c11089473b3f8626851feba9b86989",
