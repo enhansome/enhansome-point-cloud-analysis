@@ -4,6 +4,27 @@
       "description": null,
       "items": [
         {
+          "children": [],
+          "description": ": dataset | : classification | : retrieval | : segmentation: detection | : tracking | : pose | : depth: registration | : reconstruction | : autonomous driving: other, including normal-related, correspondence, mapping, matching, alignment, compression, generative model...\nStatistics: :fire: code is available & stars >= 100 | :star: citation >= 50",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 249245204,
+            "language": null,
+            "last_commit": "2024-04-10T08:25:30Z",
+            "owner": "NUAAXQ",
+            "repo": "awesome-point-cloud-analysis-2023",
+            "stars": 1592
+          },
+          "title": "For more recent papers, please visit awesome-point-cloud-analysis-2020"
+        }
+      ],
+      "title": "Overview"
+    },
+    {
+      "description": null,
+      "items": [
+        {
           "node_type": "item",
           "title": "[CVPR",
           "description": "] PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation. [tensorflow][pytorch] [ ] :fire: :star:",
@@ -15,7 +36,7 @@
             "last_commit": "2023-11-30T03:26:15Z",
             "owner": "charlesq34",
             "repo": "pointnet",
-            "stars": 5455
+            "stars": 5457
           }
         },
         {
@@ -30,7 +51,7 @@
             "last_commit": "2022-08-26T00:39:24Z",
             "owner": "charlesq34",
             "repo": "pointnet2",
-            "stars": 3696
+            "stars": 3697
           }
         },
         {
@@ -306,7 +327,7 @@
             "last_commit": "2026-03-12T12:31:09Z",
             "owner": "yangyanli",
             "repo": "PointCNN",
-            "stars": 1433
+            "stars": 1434
           }
         },
         {
@@ -366,7 +387,7 @@
             "last_commit": "2023-11-09T22:22:05Z",
             "owner": "wentaoyuan",
             "repo": "pcn",
-            "stars": 485
+            "stars": 486
           }
         },
         {
@@ -1032,7 +1053,7 @@
             "last_commit": "2022-08-31T04:44:19Z",
             "owner": "iMoonLab",
             "repo": "HGNN",
-            "stars": 847
+            "stars": 846
           }
         },
         {
@@ -1227,7 +1248,7 @@
             "last_commit": "2025-05-30T19:14:53Z",
             "owner": "lianghongzhuo",
             "repo": "PointNetGPD",
-            "stars": 398
+            "stars": 400
           }
         },
         {
@@ -2672,7 +2693,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T15:34:37.951Z",
+    "last_updated": "2026-08-24T13:55:43.098Z",
     "original_repository": "Yochengliu/awesome-point-cloud-analysis",
     "original_repository_id": 183274427,
     "original_repository_sha": "a0ec37f228c11089473b3f8626851feba9b86989",
