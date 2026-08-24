@@ -918,7 +918,7 @@
             "last_commit": "2024-03-05T16:00:19Z",
             "owner": "NVIDIA",
             "repo": "MinkowskiEngine",
-            "stars": 2955
+            "stars": 2956
           }
         },
         {
@@ -2424,7 +2424,7 @@
             "last_commit": "2021-06-04T13:21:49Z",
             "owner": "anshulpaigwar",
             "repo": "GndNet",
-            "stars": 219
+            "stars": 218
           }
         },
         {
@@ -2693,7 +2693,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T13:55:43.098Z",
+    "last_updated": "2026-08-24T15:53:34.495Z",
     "original_repository": "Yochengliu/awesome-point-cloud-analysis",
     "original_repository_id": 183274427,
     "original_repository_sha": "a0ec37f228c11089473b3f8626851feba9b86989",

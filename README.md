@@ -203,7 +203,7 @@ Statistics: :fire: code is available & stars >= 100  |  :star: citation >= 5
 
 ## 2019
 
-* \[[CVPR](http://export.arxiv.org/abs/1904.08755)] 4D Spatio-Temporal ConvNets: Minkowski Convolutional Neural Networks. \[[pytorch](https://github.com/StanfordVL/MinkowskiEngine) ⭐ 2,955 | 🐛 234 | 🌐 Python | 📅 2024-03-05] \[**`seg.`**] :fire:
+* \[[CVPR](http://export.arxiv.org/abs/1904.08755)] 4D Spatio-Temporal ConvNets: Minkowski Convolutional Neural Networks. \[[pytorch](https://github.com/StanfordVL/MinkowskiEngine) ⭐ 2,956 | 🐛 234 | 🌐 Python | 📅 2024-03-05] \[**`seg.`**] :fire:
 * \[[arXiv](https://arxiv.org/pdf/1908.11069v1.pdf)] StarNet: Targeted Computation for Object Detection in Point Clouds. \[[tensorflow](https://github.com/tensorflow/lingvo) ⭐ 2,864 | 🐛 156 | 🌐 Python | 📅 2026-06-22] \[**`det.`**]
 * \[[TOG](https://arxiv.org/abs/1801.07829)] Dynamic Graph CNN for Learning on Point Clouds. \[[tensorflow](https://github.com/WangYueFt/dgcnn) ⭐ 1,846 | 🐛 29 | 🌐 Python | 📅 2022-05-20]\[[pytorch](https://github.com/WangYueFt/dgcnn) ⭐ 1,846 | 🐛 29 | 🌐 Python | 📅 2022-05-20] \[**`cls.`** **`seg.`**] :fire: :star:
 * \[[CVPR](https://arxiv.org/abs/1812.04244)] PointRCNN: 3D Object Proposal Generation and Detection from Point Cloud. \[[pytorch](https://github.com/sshaoshuai/PointRCNN) ⭐ 1,817 | 🐛 144 | 🌐 Python | 📅 2022-09-01] \[**`det.`** **`aut.`**] :fire:
@@ -437,7 +437,7 @@ Statistics: :fire: code is available & stars >= 100  |  :star: citation >= 5
 * \[[CVPR](https://arxiv.org/pdf/2003.01456.pdf)] Implicit Functions in Feature Space for Shape Reconstruction and Completion. \[[code](https://github.com/jchibane/if-net) ⭐ 324 | 🐛 8 | 🌐 Python | 📅 2023-07-24] \[**`oth.`**]
 * \[[arXiv](https://arxiv.org/abs/2006.04569)] Parameter-Efficient Person Re-identification in the 3D Space. [\[code\]](https://github.com/layumi/person-reid-3d) ⭐ 271 | 🐛 11 | 🌐 Python | 📅 2026-07-06\[**`rel.`**] :fire:
 * \[[AAAI](https://arxiv.org/pdf/1912.05163.pdf)] TANet: Robust 3D Object Detection from Point Clouds with Triple Attention. \[[code](https://github.com/happinesslz/TANet) ⭐ 259 | 🐛 6 | 🌐 Python | 📅 2020-11-23] \[**`det.`** **`aut.`**]
-* \[[IROS](https://hal.inria.fr/hal-02927350/document)] GndNet: Fast Ground Plane Estimation and Point Cloud Segmentation for Autonomous Vehicles. \[[code](https://github.com/anshulpaigwar/GndNet) ⭐ 219 | 🐛 6 | 🌐 Python | 📅 2021-06-04] \[**`seg.`** **`aut.`**]
+* \[[IROS](https://hal.inria.fr/hal-02927350/document)] GndNet: Fast Ground Plane Estimation and Point Cloud Segmentation for Autonomous Vehicles. \[[code](https://github.com/anshulpaigwar/GndNet) ⭐ 218 | 🐛 6 | 🌐 Python | 📅 2021-06-04] \[**`seg.`** **`aut.`**]
 * \[[CVPR](https://arxiv.org/abs/1912.00195)] SGAS: Sequential Greedy Architecture Search. \[[code](https://github.com/lightaime/sgas) ⭐ 162 | 🐛 2 | 🌐 Python | 📅 2021-06-05] \[**`cls.`** **`oth.`**]
 * \[[CVPR](https://arxiv.org/abs/2005.01014)] Feature-metric Registration: A Fast Semi-supervised Approach for Robust Point Cloud Registration without Correspondences. \[[code](https://github.com/XiaoshuiHuang/fmr) ⭐ 158 | 🐛 9 | 🌐 Python | 📅 2021-04-26] \[**`reg.`**]
 * \[[ECCV](https://arxiv.org/abs/2003.10826)] DeepFit: 3D Surface Fitting via Neural Network Weighted Least Squares. \[[code](https://github.com/sitzikbs/DeepFit) ⭐ 149 | 🐛 2 | 🌐 Python | 📅 2023-07-06] \[**`oth.`**]
