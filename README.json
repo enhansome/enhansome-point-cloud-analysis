@@ -51,7 +51,7 @@
             "last_commit": "2022-08-26T00:39:24Z",
             "owner": "charlesq34",
             "repo": "pointnet2",
-            "stars": 3698
+            "stars": 3699
           }
         },
         {
@@ -2693,7 +2693,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:51:46.619Z",
+    "last_updated": "2026-08-25T15:57:52.306Z",
     "original_repository": "Yochengliu/awesome-point-cloud-analysis",
     "original_repository_id": 183274427,
     "original_repository_sha": "a0ec37f228c11089473b3f8626851feba9b86989",
