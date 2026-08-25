@@ -51,7 +51,7 @@
             "last_commit": "2022-08-26T00:39:24Z",
             "owner": "charlesq34",
             "repo": "pointnet2",
-            "stars": 3697
+            "stars": 3698
           }
         },
         {
@@ -66,7 +66,7 @@
             "last_commit": "2025-10-14T03:38:57Z",
             "owner": "andyzeng",
             "repo": "3dmatch-toolbox",
-            "stars": 904
+            "stars": 905
           }
         },
         {
@@ -347,7 +347,7 @@
         },
         {
           "node_type": "item",
-          "title": "[arXiv",
+          "title": "tensorflow",
           "description": "] PointSIFT: A SIFT-like Network Module for 3D Point Cloud Semantic Segmentation. [tensorflow] [] :fire:",
           "children": [],
           "repo_info": {
@@ -407,7 +407,7 @@
         },
         {
           "node_type": "item",
-          "title": "[arXiv",
+          "title": "pytorch",
           "description": "] Complex-YOLO: Real-time 3D Object Detection on Point Clouds. [pytorch] [ ] :fire:",
           "children": [],
           "repo_info": {
@@ -482,7 +482,7 @@
         },
         {
           "node_type": "item",
-          "title": "[arXiv",
+          "title": "pytorch",
           "description": "] POINTCLEANNET: Learning to Denoise and Remove Outliers from Dense Point Clouds. [pytorch] []",
           "children": [],
           "repo_info": {
@@ -737,7 +737,7 @@
         },
         {
           "node_type": "item",
-          "title": "[arXiv",
+          "title": "pytorch",
           "description": "] Point Cloud GAN. [pytorch] []",
           "children": [],
           "repo_info": {
@@ -923,7 +923,7 @@
         },
         {
           "node_type": "item",
-          "title": "[arXiv",
+          "title": "tensorflow",
           "description": "] StarNet: Targeted Computation for Object Detection in Point Clouds. [tensorflow] []",
           "children": [],
           "repo_info": {
@@ -1178,7 +1178,7 @@
         },
         {
           "node_type": "item",
-          "title": "[arXiv",
+          "title": "pytorch",
           "description": "] Complexer-YOLO: Real-Time 3D Object Detection and Tracking on Semantic Point Clouds. [pytorch] [ ] :fire:",
           "children": [],
           "repo_info": {
@@ -1193,7 +1193,7 @@
         },
         {
           "node_type": "item",
-          "title": "[arXiv",
+          "title": "pytorch",
           "description": "] Differentiable Surface Splatting for Point-based Geometry Processing. [pytorch] []",
           "children": [],
           "repo_info": {
@@ -1268,7 +1268,7 @@
         },
         {
           "node_type": "item",
-          "title": "[arXiv",
+          "title": "tensorflow",
           "description": "] Learning Object Bounding Boxes for 3D Instance Segmentation on Point Clouds. [tensorflow] [ ]",
           "children": [],
           "repo_info": {
@@ -1538,7 +1538,7 @@
         },
         {
           "node_type": "item",
-          "title": "[arXiv",
+          "title": "tensorflow",
           "description": "] PointRNN: Point Recurrent Neural Network for Moving Point Cloud Processing. [tensorflow] [ ]",
           "children": [],
           "repo_info": {
@@ -1748,7 +1748,7 @@
         },
         {
           "node_type": "item",
-          "title": "[arXiv",
+          "title": "tensorflow",
           "description": "] Point-Cloud Saliency Maps. [tensorflow] [ ]",
           "children": [],
           "repo_info": {
@@ -1823,7 +1823,7 @@
         },
         {
           "node_type": "item",
-          "title": "[arXiv",
+          "title": "pytorch",
           "description": "] Adversarial Autoencoders for Compact Representations of 3D Point Clouds. [pytorch] [ ]",
           "children": [],
           "repo_info": {
@@ -1853,7 +1853,7 @@
         },
         {
           "node_type": "item",
-          "title": "[arXiv",
+          "title": "tensorflow",
           "description": "] Point Cloud Super Resolution with Adversarial Residual Graph Networks. [] [tensorflow]",
           "children": [],
           "repo_info": {
@@ -1868,7 +1868,7 @@
         },
         {
           "node_type": "item",
-          "title": "[arXiv",
+          "title": "Benzlxs/tDBN",
           "description": "] 3D Backbone Network for 3D Object Detection. [code] [ ]",
           "children": [],
           "repo_info": {
@@ -1913,7 +1913,7 @@
         },
         {
           "node_type": "item",
-          "title": "[arXiv",
+          "title": "pytorch",
           "description": "] Geometry Sharing Network for 3D Point Cloud Classification and Segmentation. [pytorch] [ ]",
           "children": [],
           "repo_info": {
@@ -1943,7 +1943,7 @@
         },
         {
           "node_type": "item",
-          "title": "[arXiv",
+          "title": "tensorflow",
           "description": "] GAPNet: Graph Attention based Point Neural Network for Exploiting Local Feature of Point Cloud. [tensorflow] [ ]",
           "children": [],
           "repo_info": {
@@ -2048,7 +2048,7 @@
         },
         {
           "node_type": "item",
-          "title": "[arXiv",
+          "title": "daerduoCarey/structedit",
           "description": "] StructEdit: Learning Structural Shape Variations. [project] []",
           "children": [],
           "repo_info": {
@@ -2063,7 +2063,7 @@
         },
         {
           "node_type": "item",
-          "title": "[arXiv",
+          "title": "tensorflow",
           "description": "] PointAtrousGraph: Deep Hierarchical Encoder-Decoder with Point Atrous Convolution for Unorganized 3D Points. [tensorflow] [ ]",
           "children": [],
           "repo_info": {
@@ -2078,7 +2078,7 @@
         },
         {
           "node_type": "item",
-          "title": "[arXiv",
+          "title": "Daniel-Liu-c0deb0t/3D-Neural-Network-Adversarial-Attacks",
           "description": "] Extending Adversarial Attacks and Defenses to Deep 3D Point Cloud Classifiers. [code] []",
           "children": [],
           "repo_info": {
@@ -2168,7 +2168,7 @@
         },
         {
           "node_type": "item",
-          "title": "[arXiv",
+          "title": "LordLiang/FVNet",
           "description": "] FVNet: 3D Front-View Proposal Generation for Real-Time Object Detection from Point Clouds. [code] [ ]",
           "children": [],
           "repo_info": {
@@ -2258,7 +2258,7 @@
         },
         {
           "node_type": "item",
-          "title": "[arXiv",
+          "title": "tensorflow",
           "description": "] SAWNet: A Spatially Aware Deep Neural Network for 3D Point Cloud Processing. [tensorflow] [ ]",
           "children": [],
           "repo_info": {
@@ -2273,7 +2273,7 @@
         },
         {
           "node_type": "item",
-          "title": "[arXiv",
+          "title": "alichr/Zero-shot-Learning-of-3D-Point-Cloud-Objects",
           "description": "] Zero-shot Learning of 3D Point Cloud Objects. [code] []",
           "children": [],
           "repo_info": {
@@ -2384,7 +2384,7 @@
         },
         {
           "node_type": "item",
-          "title": "[arXiv",
+          "title": "layumi/person-reid-3d",
           "description": "] Parameter-Efficient Person Re-identification in the 3D Space. [code][] :fire:",
           "children": [],
           "repo_info": {
@@ -2693,7 +2693,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T15:53:34.495Z",
+    "last_updated": "2026-08-25T05:51:46.619Z",
     "original_repository": "Yochengliu/awesome-point-cloud-analysis",
     "original_repository_id": 183274427,
     "original_repository_sha": "a0ec37f228c11089473b3f8626851feba9b86989",
