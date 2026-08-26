@@ -27,10 +27,10 @@ Statistics: :fire: code is available & stars >= 100  |  :star: citation >= 5
 
 ## 2017
 
-* \[[CVPR](http://openaccess.thecvf.com/content_cvpr_2017/papers/Qi_PointNet_Deep_Learning_CVPR_2017_paper.pdf)] PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation. \[[tensorflow](https://github.com/charlesq34/pointnet) ⭐ 5,457 | 🐛 186 | 🌐 Python | 📅 2023-11-30]\[[pytorch](https://github.com/fxia22/pointnet.pytorch) ⭐ 2,354 | 🐛 59 | 🌐 Python | 📅 2023-03-23] \[**`cls.`** **`seg.`** **`det.`**] :fire: :star:
+* \[[CVPR](http://openaccess.thecvf.com/content_cvpr_2017/papers/Qi_PointNet_Deep_Learning_CVPR_2017_paper.pdf)] PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation. \[[tensorflow](https://github.com/charlesq34/pointnet) ⭐ 5,458 | 🐛 186 | 🌐 Python | 📅 2023-11-30]\[[pytorch](https://github.com/fxia22/pointnet.pytorch) ⭐ 2,354 | 🐛 59 | 🌐 Python | 📅 2023-03-23] \[**`cls.`** **`seg.`** **`det.`**] :fire: :star:
 * \[[NeurIPS](https://papers.nips.cc/paper/7095-pointnet-deep-hierarchical-feature-learning-on-point-sets-in-a-metric-space)] PointNet++: Deep Hierarchical Feature Learning on Point Sets in a Metric Space. \[[tensorflow](https://github.com/charlesq34/pointnet2) ⭐ 3,699 | 🐛 183 | 🌐 Python | 📅 2022-08-26]\[[pytorch](https://github.com/erikwijmans/Pointnet2_PyTorch) ⭐ 1,812 | 🐛 71 | 🌐 Python | 📅 2026-05-18] \[**`cls.`** **`seg.`**] :fire: :star:
 * \[[CVPR](http://openaccess.thecvf.com/content_cvpr_2017/papers/Zeng_3DMatch_Learning_Local_CVPR_2017_paper.pdf)] 3DMatch: Learning Local Geometric Descriptors from RGB-D Reconstructions. \[[code](https://github.com/andyzeng/3dmatch-toolbox) ⭐ 905 | 🐛 23 | 🌐 C++ | 📅 2025-10-14] \[**`dat.`** **`pos.`** **`reg.`** **`rec.`** **`oth.`**] :fire: :star:
-* \[[ICCV](http://openaccess.thecvf.com/content_ICCV_2017/papers/Nan_PolyFit_Polygonal_Surface_ICCV_2017_paper.pdf)] PolyFit: Polygonal Surface Reconstruction from Point Clouds. \[[code](https://github.com/LiangliangNan/PolyFit) ⭐ 828 | 🐛 1 | 🌐 C++ | 📅 2025-04-16] \[**`rec.`**] :fire:
+* \[[ICCV](http://openaccess.thecvf.com/content_ICCV_2017/papers/Nan_PolyFit_Polygonal_Surface_ICCV_2017_paper.pdf)] PolyFit: Polygonal Surface Reconstruction from Point Clouds. \[[code](https://github.com/LiangliangNan/PolyFit) ⭐ 828 | 🐛 0 | 🌐 C++ | 📅 2025-04-16] \[**`rec.`**] :fire:
 * \[[CVPR](http://openaccess.thecvf.com/content_cvpr_2017/papers/Riegler_OctNet_Learning_Deep_CVPR_2017_paper.pdf)] OctNet: Learning Deep 3D Representations at High Resolutions. \[[torch](https://github.com/griegler/octnet) ⭐ 504 | 🐛 11 | 🌐 C++ | 📅 2020-09-02] \[**`cls.`** **`seg.`** **`oth.`**] :fire: :star:
 * \[[CVPR](http://openaccess.thecvf.com/content_cvpr_2017/papers/Chen_Multi-View_3D_Object_CVPR_2017_paper.pdf)] Multi-View 3D Object Detection Network for Autonomous Driving. \[[tensorflow](https://github.com/bostondiditeam/MV3D) ⭐ 495 | 🐛 31 | 🌐 Jupyter Notebook | 📅 2025-11-15] \[**`det.`** **`aut.`**] :fire: :star:
 * \[[ICRA](https://ieeexplore.ieee.org/document/7989591)] Fast segmentation of 3D point clouds: A paradigm on LiDAR data for autonomous vehicle applications. \[[code](https://github.com/VincentCheungM/Run_based_segmentation) ⭐ 397 | 🐛 15 | 🌐 C++ | 📅 2018-10-05] \[**`seg.`** **`aut.`**]
@@ -238,7 +238,7 @@ Statistics: :fire: code is available & stars >= 100  |  :star: citation >= 5
 * \[[CVPR](http://jiaya.me/papers/pointweb_cvpr19.pdf)] PointWeb: Enhancing Local Neighborhood Features for Point Cloud Processing. \[[pytorch](https://github.com/hszhao/PointWeb) ⭐ 212 | 🐛 13 | 🌐 Python | 📅 2020-01-17] \[**`cls.`** **`seg.`**]
 * \[[ICCV](http://openaccess.thecvf.com/content_ICCV_2019/papers/Prokudin_Efficient_Learning_on_Point_Clouds_With_Basis_Point_Sets_ICCV_2019_paper.pdf)] Efficient Learning on Point Clouds with Basis Point Sets. \[[code](https://github.com/sergeyprokudin/bps) ⭐ 203 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2023-12-01] \[**`cls.`** **`reg.`**]
 * \[[Eurographics Workshop](https://arxiv.org/abs/1904.02375)] Generalizing Discrete Convolutions for Unstructured Point Clouds. \[[pytorch](https://github.com/aboulch/ConvPoint) ⭐ 190 | 🐛 21 | 🌐 C++ | 📅 2021-04-26] \[**`cls.`** **`seg.`**]
-* \[[CVPR](https://arxiv.org/abs/1811.08988)] Supervised Fitting of Geometric Primitives to 3D Point Clouds. \[[tensorflow](https://github.com/csimstu2/SPFN) ⭐ 184 | 🐛 13 | 🌐 Python | 📅 2020-12-03] \[**`oth.`**]
+* \[[CVPR](https://arxiv.org/abs/1811.08988)] Supervised Fitting of Geometric Primitives to 3D Point Clouds. \[[tensorflow](https://github.com/csimstu2/SPFN) ⭐ 183 | 🐛 13 | 🌐 Python | 📅 2020-12-03] \[**`oth.`**]
 * \[[CVPR](https://arxiv.org/abs/1904.00699v1)] JSIS3D: Joint Semantic-Instance Segmentation of 3D Point Clouds with Multi-Task Pointwise Networks and Multi-Value Conditional Random Fields. \[[pytorch](https://github.com/pqhieu/JSIS3D) ⭐ 183 | 🐛 2 | 🌐 Python | 📅 2020-07-08] \[**`seg.`**]
 * \[[CVPR](http://openaccess.thecvf.com/content_CVPR_2019/papers/Dovrat_Learning_to_Sample_CVPR_2019_paper.pdf)] Learning to Sample. \[[tensorflow](https://github.com/orendv/learning_to_sample) ⭐ 182 | 🐛 0 | 🌐 Python | 📅 2024-05-05] \[**`cls.`** **`rec.`**]
 * \[[ICRA](https://arxiv.org/abs/1903.06405v1)] BLVD: Building A Large-scale 5D Semantics Benchmark for Autonomous Driving. \[[project](https://github.com/VCCIV/BLVD) ⭐ 174 | 🐛 6 | 🌐 Python | 📅 2020-02-16] \[**`dat.`** **`det.`** **`tra.`** **`aut.`** **`oth.`**]
@@ -429,7 +429,7 @@ Statistics: :fire: code is available & stars >= 100  |  :star: citation >= 5
 
 ## 2020
 
-* \[[CVPR](https://arxiv.org/pdf/1911.11236.pdf)] RandLA-Net: Efficient Semantic Segmentation of Large-Scale Point Clouds. \[[tensorflow](https://github.com/QingyongHu/RandLA-Net) ⭐ 1,558 | 🐛 194 | 🌐 Python | 📅 2023-07-11] \[**`seg.`**]
+* \[[CVPR](https://arxiv.org/pdf/1911.11236.pdf)] RandLA-Net: Efficient Semantic Segmentation of Large-Scale Point Clouds. \[[tensorflow](https://github.com/QingyongHu/RandLA-Net) ⭐ 1,559 | 🐛 194 | 🌐 Python | 📅 2023-07-11] \[**`seg.`**]
 * \[[AAAI](https://arxiv.org/abs/1912.00280)] Morphing and Sampling Network for Dense Point Cloud Completion. \[[pytorch](https://github.com/Colin97/MSN-Point-Cloud-Completion) ⭐ 448 | 🐛 12 | 🌐 Python | 📅 2022-04-08] \[**`oth.`**]
 * \[[CVPR](https://arxiv.org/abs/2001.05119)] Learning multiview 3D point cloud registration. \[[code](https://github.com/zgojcic/3D_multiview_reg) ⭐ 403 | 🐛 14 | 🌐 Python | 📅 2020-07-22] \[**`reg.`**]
 * \[[CVPR](http://openaccess.thecvf.com/content_CVPR_2020/papers/Lang_SampleNet_Differentiable_Point_Cloud_Sampling_CVPR_2020_paper.pdf)] SampleNet: Differentiable Point Cloud Sampling. \[[code](https://github.com/itailang/SampleNet) ⭐ 392 | 🐛 0 | 🌐 Python | 📅 2023-06-25] \[**`cls.`** **`reg.`** **`rec.`** **`oth.`**]
@@ -524,4 +524,4 @@ Statistics: :fire: code is available & stars >= 100  |  :star: citation >= 5
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-26._

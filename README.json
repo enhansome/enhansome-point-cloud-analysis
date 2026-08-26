@@ -36,7 +36,7 @@
             "last_commit": "2023-11-30T03:26:15Z",
             "owner": "charlesq34",
             "repo": "pointnet",
-            "stars": 5457
+            "stars": 5458
           }
         },
         {
@@ -1443,7 +1443,7 @@
             "last_commit": "2020-12-03T19:16:52Z",
             "owner": "lingxiaoli94",
             "repo": "SPFN",
-            "stars": 184
+            "stars": 183
           }
         },
         {
@@ -2304,7 +2304,7 @@
             "last_commit": "2023-07-11T22:42:23Z",
             "owner": "QingyongHu",
             "repo": "RandLA-Net",
-            "stars": 1558
+            "stars": 1559
           }
         },
         {
@@ -2693,7 +2693,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T15:57:52.306Z",
+    "last_updated": "2026-08-26T16:34:01.644Z",
     "original_repository": "Yochengliu/awesome-point-cloud-analysis",
     "original_repository_id": 183274427,
     "original_repository_sha": "a0ec37f228c11089473b3f8626851feba9b86989",
