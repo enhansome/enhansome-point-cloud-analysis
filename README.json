@@ -74,7 +74,7 @@
             "open_issues": 183,
             "owner": "charlesq34",
             "repo": "pointnet2",
-            "stars": 3701,
+            "stars": 3700,
             "topics": [
               "3d-shape",
               "classification",
@@ -510,7 +510,7 @@
             "open_issues": 90,
             "owner": "charlesq34",
             "repo": "frustum-pointnets",
-            "stars": 1669,
+            "stars": 1668,
             "topics": [
               "3d",
               "deep-learning",
@@ -537,7 +537,7 @@
             "open_issues": 61,
             "owner": "yangyanli",
             "repo": "PointCNN",
-            "stars": 1434,
+            "stars": 1433,
             "topics": [
               "autonomous-driving",
               "classification",
@@ -696,7 +696,7 @@
             "open_issues": 25,
             "owner": "AI-liu",
             "repo": "Complex-YOLO",
-            "stars": 453,
+            "stars": 452,
             "topics": []
           },
           "first_seen": "2026-08-29T00:00:20.524Z"
@@ -1935,7 +1935,7 @@
             "open_issues": 25,
             "owner": "AI-liu",
             "repo": "Complex-YOLO",
-            "stars": 453,
+            "stars": 452,
             "topics": []
           },
           "first_seen": "2026-08-29T00:00:20.524Z"
@@ -4234,7 +4234,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:16:56.919Z",
+    "last_updated": "2026-08-29T18:26:13.798Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of papers and datasets about point cloud analysis (processing)",
