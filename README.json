@@ -3819,7 +3819,7 @@
             "open_issues": 6,
             "owner": "anshulpaigwar",
             "repo": "GndNet",
-            "stars": 218,
+            "stars": 219,
             "topics": [
               "autonomous-vehicles",
               "deep-learning",
@@ -4137,7 +4137,7 @@
             "open_issues": 58,
             "owner": "niessner",
             "repo": "Matterport",
-            "stars": 1245,
+            "stars": 1244,
             "topics": [
               "3d-reconstruction",
               "semantic-scene-understanding"
@@ -4234,7 +4234,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T18:26:13.798Z",
+    "last_updated": "2026-08-30T18:37:27.795Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of papers and datasets about point cloud analysis (processing)",
@@ -4246,7 +4246,7 @@
       "open_issues": 3,
       "owner": "Yochengliu",
       "repo": "awesome-point-cloud-analysis",
-      "stars": 4219,
+      "stars": 4220,
       "topics": [
         "3d-graphics",
         "3d-reconstruction",
