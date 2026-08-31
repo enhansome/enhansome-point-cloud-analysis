@@ -426,7 +426,7 @@
             "open_issues": 40,
             "owner": "RobustFieldAutonomyLab",
             "repo": "LeGO-LOAM",
-            "stars": 2753,
+            "stars": 2754,
             "topics": [
               "gtsam",
               "ieee",
@@ -1985,7 +1985,7 @@
             "open_issues": 20,
             "owner": "Yochengliu",
             "repo": "Relation-Shape-CNN",
-            "stars": 425,
+            "stars": 424,
             "topics": [
               "3d-convolutional-network",
               "3d-graphics",
@@ -4137,7 +4137,7 @@
             "open_issues": 58,
             "owner": "niessner",
             "repo": "Matterport",
-            "stars": 1244,
+            "stars": 1245,
             "topics": [
               "3d-reconstruction",
               "semantic-scene-understanding"
@@ -4234,7 +4234,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T18:37:27.795Z",
+    "last_updated": "2026-08-31T20:48:50.345Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of papers and datasets about point cloud analysis (processing)",
