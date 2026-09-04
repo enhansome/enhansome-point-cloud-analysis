@@ -46,7 +46,7 @@
             "open_issues": 186,
             "owner": "charlesq34",
             "repo": "pointnet",
-            "stars": 5462,
+            "stars": 5463,
             "topics": [
               "classification",
               "geometry-processing",
@@ -603,7 +603,7 @@
             "open_issues": 35,
             "owner": "MVIG-SJTU",
             "repo": "pointSIFT",
-            "stars": 659,
+            "stars": 660,
             "topics": []
           },
           "first_seen": "2026-08-29T00:00:20.524Z"
@@ -738,7 +738,7 @@
             "open_issues": 8,
             "owner": "mikacuy",
             "repo": "pointnetvlad",
-            "stars": 400,
+            "stars": 401,
             "topics": [
               "computer-vision",
               "deep-learning",
@@ -1720,7 +1720,7 @@
             "open_issues": 4,
             "owner": "iMoonLab",
             "repo": "HGNN",
-            "stars": 846,
+            "stars": 847,
             "topics": [
               "complex-data",
               "deep-learning",
@@ -3609,7 +3609,7 @@
             "open_issues": 194,
             "owner": "QingyongHu",
             "repo": "RandLA-Net",
-            "stars": 1561,
+            "stars": 1560,
             "topics": [
               "3d-vision",
               "computer-vision",
@@ -4224,7 +4224,7 @@
             "open_issues": 3,
             "owner": "shinke-li",
             "repo": "Campus3D",
-            "stars": 50,
+            "stars": 51,
             "topics": []
           },
           "first_seen": "2026-08-29T00:00:20.524Z"
@@ -4234,7 +4234,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T18:35:59.874Z",
+    "last_updated": "2026-09-04T18:21:49.691Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of papers and datasets about point cloud analysis (processing)",
