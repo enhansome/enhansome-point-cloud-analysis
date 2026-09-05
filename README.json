@@ -1720,7 +1720,7 @@
             "open_issues": 4,
             "owner": "iMoonLab",
             "repo": "HGNN",
-            "stars": 847,
+            "stars": 848,
             "topics": [
               "complex-data",
               "deep-learning",
@@ -1825,7 +1825,7 @@
             "open_issues": 5,
             "owner": "zgojcic",
             "repo": "3DSmoothNet",
-            "stars": 515,
+            "stars": 516,
             "topics": []
           },
           "first_seen": "2026-08-29T00:00:20.524Z"
@@ -2017,7 +2017,7 @@
             "open_issues": 12,
             "owner": "daerduoCarey",
             "repo": "partnet_dataset",
-            "stars": 421,
+            "stars": 422,
             "topics": []
           },
           "first_seen": "2026-08-29T00:00:20.524Z"
@@ -3609,7 +3609,7 @@
             "open_issues": 194,
             "owner": "QingyongHu",
             "repo": "RandLA-Net",
-            "stars": 1560,
+            "stars": 1561,
             "topics": [
               "3d-vision",
               "computer-vision",
@@ -4056,7 +4056,7 @@
             "open_issues": 4,
             "owner": "ajhamdi",
             "repo": "MVTN",
-            "stars": 107,
+            "stars": 108,
             "topics": [
               "3d",
               "3d-models",
@@ -4234,7 +4234,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T18:21:49.691Z",
+    "last_updated": "2026-09-05T17:19:15.301Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of papers and datasets about point cloud analysis (processing)",

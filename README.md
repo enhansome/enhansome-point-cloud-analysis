@@ -212,11 +212,11 @@ Statistics: :fire: code is available & stars >= 100  |  :star: citation >= 5
 * \[[CVPR](https://arxiv.org/abs/1812.05784)] PointPillars: Fast Encoders for Object Detection from Point Clouds. \[[pytorch](https://github.com/nutonomy/second.pytorch) ⚠️ Archived] \[**`det.`**] :fire:
 * \[[CVPR](https://arxiv.org/abs/1812.07179)] Pseudo-LiDAR from Visual Depth Estimation: Bridging the Gap in 3D Object Detection for Autonomous Driving. \[[code](https://github.com/mileyan/pseudo_lidar) ⭐ 1,005 | 🐛 30 | 🌐 Jupyter Notebook | 📅 2020-07-02] \[**`det.`** **`dep.`** **`aut.`**]
 * \[[ICCV](https://arxiv.org/pdf/1906.12320.pdf)] PointFlow: 3D Point Cloud Generation with Continuous Normalizing Flows. \[[pytorch](https://github.com/stevenygd/PointFlow) ⭐ 868 | 🐛 8 | 🌐 Python | 📅 2024-08-07] \[**`oth.`**]
-* \[[AAAI](http://gaoyue.org/paper/HGNN.pdf)] Hypergraph Neural Networks. \[[pytorch](https://github.com/iMoonLab/HGNN) ⭐ 847 | 🐛 4 | 🌐 Python | 📅 2022-08-31] \[**`cls.`**]
+* \[[AAAI](http://gaoyue.org/paper/HGNN.pdf)] Hypergraph Neural Networks. \[[pytorch](https://github.com/iMoonLab/HGNN) ⭐ 848 | 🐛 4 | 🌐 Python | 📅 2022-08-31] \[**`cls.`**]
 * \[[ICCV](https://arxiv.org/abs/1904.08889)] KPConv: Flexible and Deformable Convolution for Point Clouds. \[[tensorflow](https://github.com/HuguesTHOMAS/KPConv) ⭐ 785 | 🐛 36 | 🌐 Python | 📅 2021-02-23] \[**`cls.`** **`seg.`**] :fire:
 * \[[ICCV](http://openaccess.thecvf.com/content_ICCV_2019/html/Choy_Fully_Convolutional_Geometric_Features_ICCV_2019_paper.html)] Fully Convolutional Geometric Features. \[[pytorch](https://github.com/chrischoy/FCGF) ⭐ 732 | 🐛 35 | 🌐 Python | 📅 2026-07-02] \[**`reg.`**]
 * \[[ICCV](https://arxiv.org/abs/1904.03751)] DeepGCNs: Can GCNs Go as Deep as CNNs? \[[tensorflow](https://github.com/lightaime/deep_gcns) ⭐ 629 | 🐛 1 | 🌐 Python | 📅 2020-01-23] [\[pytorch\]](https://github.com/lightaime/deep_gcns_torch) ⭐ 1,187 | 🐛 7 | 🌐 Python | 📅 2022-07-31 \[**`seg.`**] :fire:
-* \[[CVPR](https://arxiv.org/abs/1811.06879v2)] The Perfect Match: 3D Point Cloud Matching with Smoothed Densities. \[[tensorflow](https://github.com/zgojcic/3DSmoothNet) ⭐ 515 | 🐛 5 | 🌐 Python | 📅 2023-03-24] \[**`oth.`**]
+* \[[CVPR](https://arxiv.org/abs/1811.06879v2)] The Perfect Match: 3D Point Cloud Matching with Smoothed Densities. \[[tensorflow](https://github.com/zgojcic/3DSmoothNet) ⭐ 516 | 🐛 5 | 🌐 Python | 📅 2023-03-24] \[**`oth.`**]
 * \[[ICCV](https://arxiv.org/pdf/1908.04422.pdf)] Point-Based Multi-View Stereo Network. \[[pytorch](https://github.com/callmeray/PointMVSNet) ⭐ 505 | 🐛 19 | 🌐 Python | 📅 2020-08-05] \[**`rec.`**]
 * \[[CVPR](https://arxiv.org/abs/1811.07246)] PointConv: Deep Convolutional Networks on 3D Point Clouds. \[[tensorflow](https://github.com/DylanWusee/pointconv) ⭐ 498 | 🐛 21 | 🌐 Python | 📅 2019-10-01] \[**`cls.`** **`seg.`**] :fire:
 * \[[CVPR](https://arxiv.org/abs/1903.05711)] PointNetLK: Point Cloud Registration using PointNet. \[[pytorch](https://github.com/hmgoforth/PointNetLK) ⭐ 492 | 🐛 14 | 🌐 Python | 📅 2019-06-23] \[**`reg.`**]
@@ -224,7 +224,7 @@ Statistics: :fire: code is available & stars >= 100  |  :star: citation >= 5
 * \[[arXiv](https://arxiv.org/abs/1904.07537)] Complexer-YOLO: Real-Time 3D Object Detection and Tracking on Semantic Point Clouds. \[[pytorch](https://github.com/AI-liu/Complex-YOLO) ⭐ 452 | 🐛 25 | 🌐 Python | 📅 2019-03-21] \[**`det.`** **`tra.`** **`aut.`**] :fire:
 * \[[arXiv](https://export.arxiv.org/abs/1906.04173)] Differentiable Surface Splatting for Point-based Geometry Processing. \[[pytorch](https://github.com/yifita/DSS) ⭐ 447 | 🐛 12 | 🌐 Python | 📅 2026-04-13] \[**`oth.`**]
 * \[[CVPR](http://export.arxiv.org/abs/1904.07601)] Relation-Shape Convolutional Neural Network for Point Cloud Analysis. \[[pytorch](https://github.com/Yochengliu/Relation-Shape-CNN) ⭐ 424 | 🐛 20 | 🌐 Python | 📅 2021-09-30] \[**`cls.`** **`seg.`** **`oth.`**] :fire:
-* \[[CVPR](https://arxiv.org/abs/1812.02713)] PartNet: A Large-scale Benchmark for Fine-grained and Hierarchical Part-level 3D Object Understanding. \[[code](https://github.com/daerduoCarey/partnet_dataset) ⭐ 421 | 🐛 12 | 🌐 Python | 📅 2023-02-02] \[**`dat.`** **`seg.`**]
+* \[[CVPR](https://arxiv.org/abs/1812.02713)] PartNet: A Large-scale Benchmark for Fine-grained and Hierarchical Part-level 3D Object Understanding. \[[code](https://github.com/daerduoCarey/partnet_dataset) ⭐ 422 | 🐛 12 | 🌐 Python | 📅 2023-02-02] \[**`dat.`** **`seg.`**]
 * \[[ICRA](https://arxiv.org/abs/1809.06267)] PointNetGPD: Detecting Grasp Configurations from Point Sets. \[[pytorch](https://github.com/lianghongzhuo/PointNetGPD) ⭐ 400 | 🐛 21 | 🌐 Python | 📅 2025-05-30] \[**`det.`** **`seg.`**]
 * \[[NeurIPS](https://arxiv.org/abs/1906.01140)] Learning Object Bounding Boxes for 3D Instance Segmentation on Point Clouds. \[[tensorflow](https://github.com/Yang7879/3D-BoNet) ⭐ 397 | 🐛 54 | 🌐 Python | 📅 2021-03-02] \[**`det.`** **`seg.`**]
 * \[[arXiv](https://arxiv.org/abs/1906.01140)] Learning Object Bounding Boxes for 3D Instance Segmentation on Point Clouds. \[[tensorflow](https://github.com/Yang7879/3D-BoNet) ⭐ 397 | 🐛 54 | 🌐 Python | 📅 2021-03-02] \[**`det.`** **`seg.`**]
@@ -429,7 +429,7 @@ Statistics: :fire: code is available & stars >= 100  |  :star: citation >= 5
 
 ## 2020
 
-* \[[CVPR](https://arxiv.org/pdf/1911.11236.pdf)] RandLA-Net: Efficient Semantic Segmentation of Large-Scale Point Clouds. \[[tensorflow](https://github.com/QingyongHu/RandLA-Net) ⭐ 1,560 | 🐛 194 | 🌐 Python | 📅 2023-07-11] \[**`seg.`**]
+* \[[CVPR](https://arxiv.org/pdf/1911.11236.pdf)] RandLA-Net: Efficient Semantic Segmentation of Large-Scale Point Clouds. \[[tensorflow](https://github.com/QingyongHu/RandLA-Net) ⭐ 1,561 | 🐛 194 | 🌐 Python | 📅 2023-07-11] \[**`seg.`**]
 * \[[AAAI](https://arxiv.org/abs/1912.00280)] Morphing and Sampling Network for Dense Point Cloud Completion. \[[pytorch](https://github.com/Colin97/MSN-Point-Cloud-Completion) ⭐ 448 | 🐛 12 | 🌐 Python | 📅 2022-04-08] \[**`oth.`**]
 * \[[CVPR](https://arxiv.org/abs/2001.05119)] Learning multiview 3D point cloud registration. \[[code](https://github.com/zgojcic/3D_multiview_reg) ⭐ 403 | 🐛 14 | 🌐 Python | 📅 2020-07-22] \[**`reg.`**]
 * \[[CVPR](http://openaccess.thecvf.com/content_CVPR_2020/papers/Lang_SampleNet_Differentiable_Point_Cloud_Sampling_CVPR_2020_paper.pdf)] SampleNet: Differentiable Point Cloud Sampling. \[[code](https://github.com/itailang/SampleNet) ⭐ 392 | 🐛 0 | 🌐 Python | 📅 2023-06-25] \[**`cls.`** **`reg.`** **`rec.`** **`oth.`**]
@@ -463,7 +463,7 @@ Statistics: :fire: code is available & stars >= 100  |  :star: citation >= 5
 ## 2021
 
 * \[[CVPR](https://hehefan.github.io/pdfs/p4transformer.pdf)] Point 4D Transformer Networks for Spatio-Temporal Modeling in Point Cloud Videos. \[[code](https://github.com/hehefan/P4Transformer) ⭐ 191 | 🐛 13 | 🌐 Python | 📅 2022-08-14]\[**`cls.`** **`seg.`**]
-* \[[ICCV](https://openaccess.thecvf.com/content/ICCV2021/papers/Hamdi_MVTN_Multi-View_Transformation_Network_for_3D_Shape_Recognition_ICCV_2021_paper.pdf)] MVTN: Multi-View Transformation Network for 3D Shape Recognition. \[[code](https://github.com/ajhamdi/MVTN) ⭐ 107 | 🐛 4 | 🌐 Python | 📅 2025-12-15]\[**`det.`** **`rel.`**]
+* \[[ICCV](https://openaccess.thecvf.com/content/ICCV2021/papers/Hamdi_MVTN_Multi-View_Transformation_Network_for_3D_Shape_Recognition_ICCV_2021_paper.pdf)] MVTN: Multi-View Transformation Network for 3D Shape Recognition. \[[code](https://github.com/ajhamdi/MVTN) ⭐ 108 | 🐛 4 | 🌐 Python | 📅 2025-12-15]\[**`det.`** **`rel.`**]
 * \[[CVPR](https://arxiv.org/pdf/2012.00987)] PV-RAFT: Point-Voxel Correlation Fields for Scene Flow Estimation of Point Clouds. \[[code](https://github.com/weiyithu/PV-RAFT) ⭐ 81 | 🐛 4 | 🌐 Python | 📅 2023-07-28]\[**`oth.`**]
 * \[[ICRA](https://arxiv.org/abs/2105.07647)] FGR: Frustum-Aware Geometric Reasoning for Weakly Supervised 3D Vehicle Detection. \[[code](https://github.com/weiyithu/FGR) ⭐ 44 | 🐛 2 | 🌐 Python | 📅 2021-05-18]\[**`det.`** **`seg.`**]
 * \[[ICLR](https://openreview.net/pdf?id=O3bqkf_Puys)] PSTNet: Point Spatio-Temporal Convolution on Point Cloud Sequences. \[**`cls.`** **`seg.`**]
@@ -524,4 +524,4 @@ Statistics: :fire: code is available & stars >= 100  |  :star: citation >= 5
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
