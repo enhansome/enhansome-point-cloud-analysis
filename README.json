@@ -463,7 +463,7 @@
             "open_issues": 56,
             "owner": "facebookresearch",
             "repo": "SparseConvNet",
-            "stars": 2145,
+            "stars": 2144,
             "topics": []
           },
           "first_seen": "2026-08-29T00:00:20.524Z"
@@ -1469,7 +1469,7 @@
             "open_issues": 236,
             "owner": "NVIDIA",
             "repo": "MinkowskiEngine",
-            "stars": 2958,
+            "stars": 2960,
             "topics": [
               "3d-convolutional-network",
               "3d-vision",
@@ -3609,7 +3609,7 @@
             "open_issues": 194,
             "owner": "QingyongHu",
             "repo": "RandLA-Net",
-            "stars": 1561,
+            "stars": 1562,
             "topics": [
               "3d-vision",
               "computer-vision",
@@ -4234,7 +4234,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T17:19:15.301Z",
+    "last_updated": "2026-09-06T17:36:06.218Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of papers and datasets about point cloud analysis (processing)",
@@ -4246,7 +4246,7 @@
       "open_issues": 3,
       "owner": "Yochengliu",
       "repo": "awesome-point-cloud-analysis",
-      "stars": 4222,
+      "stars": 4223,
       "topics": [
         "3d-graphics",
         "3d-reconstruction",
