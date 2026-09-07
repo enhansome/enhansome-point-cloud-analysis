@@ -46,7 +46,7 @@
             "open_issues": 186,
             "owner": "charlesq34",
             "repo": "pointnet",
-            "stars": 5463,
+            "stars": 5465,
             "topics": [
               "classification",
               "geometry-processing",
@@ -3720,7 +3720,7 @@
             "open_issues": 46,
             "owner": "zztianzz",
             "repo": "PF-Net-Point-Fractal-Network",
-            "stars": 372,
+            "stars": 373,
             "topics": []
           },
           "first_seen": "2026-08-29T00:00:20.524Z"
@@ -4234,7 +4234,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T17:36:06.218Z",
+    "last_updated": "2026-09-07T19:07:59.039Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of papers and datasets about point cloud analysis (processing)",
