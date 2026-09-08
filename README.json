@@ -74,7 +74,7 @@
             "open_issues": 183,
             "owner": "charlesq34",
             "repo": "pointnet2",
-            "stars": 3701,
+            "stars": 3703,
             "topics": [
               "3d-shape",
               "classification",
@@ -484,7 +484,7 @@
             "open_issues": 300,
             "owner": "traveller59",
             "repo": "second.pytorch",
-            "stars": 1778,
+            "stars": 1777,
             "topics": [
               "kitti",
               "nuscenes",
@@ -1379,7 +1379,7 @@
             "open_issues": 2,
             "owner": "kangxue",
             "repo": "P2P-NET",
-            "stars": 54,
+            "stars": 55,
             "topics": []
           },
           "first_seen": "2026-08-29T00:00:20.524Z"
@@ -1550,7 +1550,7 @@
             "open_issues": 29,
             "owner": "WangYueFt",
             "repo": "dgcnn",
-            "stars": 1846,
+            "stars": 1847,
             "topics": []
           },
           "first_seen": "2026-08-29T00:00:20.524Z"
@@ -1571,7 +1571,7 @@
             "open_issues": 144,
             "owner": "sshaoshuai",
             "repo": "PointRCNN",
-            "stars": 1817,
+            "stars": 1816,
             "topics": []
           },
           "first_seen": "2026-08-29T00:00:20.524Z"
@@ -1620,7 +1620,7 @@
             "open_issues": 4,
             "owner": "QingyongHu",
             "repo": "SoTA-Point-Cloud",
-            "stars": 1634,
+            "stars": 1635,
             "topics": [
               "3d-classification",
               "3d-deep-learning",
@@ -1650,7 +1650,7 @@
             "open_issues": 1,
             "owner": "nutonomy",
             "repo": "second.pytorch",
-            "stars": 1023,
+            "stars": 1022,
             "topics": []
           },
           "first_seen": "2026-08-29T00:00:20.524Z"
@@ -1720,7 +1720,7 @@
             "open_issues": 4,
             "owner": "iMoonLab",
             "repo": "HGNN",
-            "stars": 848,
+            "stars": 849,
             "topics": [
               "complex-data",
               "deep-learning",
@@ -3720,7 +3720,7 @@
             "open_issues": 46,
             "owner": "zztianzz",
             "repo": "PF-Net-Point-Fractal-Network",
-            "stars": 373,
+            "stars": 374,
             "topics": []
           },
           "first_seen": "2026-08-29T00:00:20.524Z"
@@ -4234,7 +4234,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T19:07:59.039Z",
+    "last_updated": "2026-09-08T18:37:02.097Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of papers and datasets about point cloud analysis (processing)",
@@ -4246,7 +4246,7 @@
       "open_issues": 3,
       "owner": "Yochengliu",
       "repo": "awesome-point-cloud-analysis",
-      "stars": 4223,
+      "stars": 4222,
       "topics": [
         "3d-graphics",
         "3d-reconstruction",
