@@ -1469,7 +1469,7 @@
             "open_issues": 236,
             "owner": "NVIDIA",
             "repo": "MinkowskiEngine",
-            "stars": 2960,
+            "stars": 2959,
             "topics": [
               "3d-convolutional-network",
               "3d-vision",
@@ -1550,7 +1550,7 @@
             "open_issues": 29,
             "owner": "WangYueFt",
             "repo": "dgcnn",
-            "stars": 1847,
+            "stars": 1846,
             "topics": []
           },
           "first_seen": "2026-08-29T00:00:20.524Z"
@@ -1620,7 +1620,7 @@
             "open_issues": 4,
             "owner": "QingyongHu",
             "repo": "SoTA-Point-Cloud",
-            "stars": 1635,
+            "stars": 1636,
             "topics": [
               "3d-classification",
               "3d-deep-learning",
@@ -4035,7 +4035,7 @@
             "open_issues": 13,
             "owner": "hehefan",
             "repo": "P4Transformer",
-            "stars": 191,
+            "stars": 192,
             "topics": []
           },
           "first_seen": "2026-08-29T00:00:20.524Z"
@@ -4137,7 +4137,7 @@
             "open_issues": 58,
             "owner": "niessner",
             "repo": "Matterport",
-            "stars": 1250,
+            "stars": 1252,
             "topics": [
               "3d-reconstruction",
               "semantic-scene-understanding"
@@ -4234,7 +4234,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T18:37:02.097Z",
+    "last_updated": "2026-09-09T18:33:12.762Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of papers and datasets about point cloud analysis (processing)",
