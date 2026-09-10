@@ -510,7 +510,7 @@
             "open_issues": 90,
             "owner": "charlesq34",
             "repo": "frustum-pointnets",
-            "stars": 1668,
+            "stars": 1669,
             "topics": [
               "3d",
               "deep-learning",
@@ -1671,7 +1671,7 @@
             "open_issues": 30,
             "owner": "mileyan",
             "repo": "pseudo_lidar",
-            "stars": 1005,
+            "stars": 1006,
             "topics": []
           },
           "first_seen": "2026-08-29T00:00:20.524Z"
@@ -4035,7 +4035,7 @@
             "open_issues": 13,
             "owner": "hehefan",
             "repo": "P4Transformer",
-            "stars": 192,
+            "stars": 194,
             "topics": []
           },
           "first_seen": "2026-08-29T00:00:20.524Z"
@@ -4234,7 +4234,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T18:33:12.762Z",
+    "last_updated": "2026-09-10T18:24:47.383Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of papers and datasets about point cloud analysis (processing)",
