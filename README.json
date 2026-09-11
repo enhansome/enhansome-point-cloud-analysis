@@ -1720,7 +1720,7 @@
             "open_issues": 4,
             "owner": "iMoonLab",
             "repo": "HGNN",
-            "stars": 849,
+            "stars": 850,
             "topics": [
               "complex-data",
               "deep-learning",
@@ -2017,7 +2017,7 @@
             "open_issues": 12,
             "owner": "daerduoCarey",
             "repo": "partnet_dataset",
-            "stars": 422,
+            "stars": 423,
             "topics": []
           },
           "first_seen": "2026-08-29T00:00:20.524Z"
@@ -4035,7 +4035,7 @@
             "open_issues": 13,
             "owner": "hehefan",
             "repo": "P4Transformer",
-            "stars": 194,
+            "stars": 195,
             "topics": []
           },
           "first_seen": "2026-08-29T00:00:20.524Z"
@@ -4234,7 +4234,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T18:24:47.383Z",
+    "last_updated": "2026-09-11T18:29:04.023Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of papers and datasets about point cloud analysis (processing)",
@@ -4246,7 +4246,7 @@
       "open_issues": 3,
       "owner": "Yochengliu",
       "repo": "awesome-point-cloud-analysis",
-      "stars": 4222,
+      "stars": 4223,
       "topics": [
         "3d-graphics",
         "3d-reconstruction",
