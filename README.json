@@ -101,7 +101,7 @@
             "open_issues": 23,
             "owner": "andyzeng",
             "repo": "3dmatch-toolbox",
-            "stars": 905,
+            "stars": 906,
             "topics": [
               "3d",
               "3d-deep-learning",
@@ -426,7 +426,7 @@
             "open_issues": 40,
             "owner": "RobustFieldAutonomyLab",
             "repo": "LeGO-LOAM",
-            "stars": 2754,
+            "stars": 2753,
             "topics": [
               "gtsam",
               "ieee",
@@ -1720,7 +1720,7 @@
             "open_issues": 4,
             "owner": "iMoonLab",
             "repo": "HGNN",
-            "stars": 850,
+            "stars": 851,
             "topics": [
               "complex-data",
               "deep-learning",
@@ -4234,7 +4234,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T17:45:02.448Z",
+    "last_updated": "2026-09-13T18:10:03.890Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of papers and datasets about point cloud analysis (processing)",
