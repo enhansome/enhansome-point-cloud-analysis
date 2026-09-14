@@ -46,7 +46,7 @@
             "open_issues": 186,
             "owner": "charlesq34",
             "repo": "pointnet",
-            "stars": 5465,
+            "stars": 5467,
             "topics": [
               "classification",
               "geometry-processing",
@@ -101,7 +101,7 @@
             "open_issues": 23,
             "owner": "andyzeng",
             "repo": "3dmatch-toolbox",
-            "stars": 906,
+            "stars": 907,
             "topics": [
               "3d",
               "3d-deep-learning",
@@ -133,7 +133,7 @@
             "open_issues": 0,
             "owner": "LiangliangNan",
             "repo": "PolyFit",
-            "stars": 829,
+            "stars": 830,
             "topics": [
               "hypothesis-and-selection",
               "linear-integer-programming",
@@ -484,7 +484,7 @@
             "open_issues": 300,
             "owner": "traveller59",
             "repo": "second.pytorch",
-            "stars": 1777,
+            "stars": 1776,
             "topics": [
               "kitti",
               "nuscenes",
@@ -507,7 +507,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2020-03-24T20:42:38Z",
-            "open_issues": 90,
+            "open_issues": 91,
             "owner": "charlesq34",
             "repo": "frustum-pointnets",
             "stars": 1669,
@@ -570,7 +570,7 @@
             "open_issues": 16,
             "owner": "loicland",
             "repo": "superpoint_graph",
-            "stars": 800,
+            "stars": 801,
             "topics": [
               "clustering",
               "large-scale",
@@ -645,7 +645,7 @@
             "open_issues": 30,
             "owner": "wentaoyuan",
             "repo": "pcn",
-            "stars": 486,
+            "stars": 488,
             "topics": [
               "3d-reconstruction",
               "computer-vision",
@@ -1571,7 +1571,7 @@
             "open_issues": 144,
             "owner": "sshaoshuai",
             "repo": "PointRCNN",
-            "stars": 1816,
+            "stars": 1817,
             "topics": []
           },
           "first_seen": "2026-08-29T00:00:20.524Z"
@@ -2056,7 +2056,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2021-03-02T12:54:20Z",
-            "open_issues": 54,
+            "open_issues": 55,
             "owner": "Yang7879",
             "repo": "3D-BoNet",
             "stars": 397,
@@ -2083,7 +2083,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2021-03-02T12:54:20Z",
-            "open_issues": 54,
+            "open_issues": 55,
             "owner": "Yang7879",
             "repo": "3D-BoNet",
             "stars": 397,
@@ -4137,7 +4137,7 @@
             "open_issues": 58,
             "owner": "niessner",
             "repo": "Matterport",
-            "stars": 1252,
+            "stars": 1253,
             "topics": [
               "3d-reconstruction",
               "semantic-scene-understanding"
@@ -4234,7 +4234,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T18:10:03.890Z",
+    "last_updated": "2026-09-14T19:50:09.665Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of papers and datasets about point cloud analysis (processing)",
