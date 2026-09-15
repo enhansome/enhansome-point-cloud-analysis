@@ -510,7 +510,7 @@
             "open_issues": 91,
             "owner": "charlesq34",
             "repo": "frustum-pointnets",
-            "stars": 1669,
+            "stars": 1670,
             "topics": [
               "3d",
               "deep-learning",
@@ -1692,7 +1692,7 @@
             "open_issues": 8,
             "owner": "stevenygd",
             "repo": "PointFlow",
-            "stars": 868,
+            "stars": 869,
             "topics": [
               "3d-point-clouds",
               "computer-vision",
@@ -4234,7 +4234,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T19:50:09.665Z",
+    "last_updated": "2026-09-15T18:57:33.899Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of papers and datasets about point cloud analysis (processing)",
