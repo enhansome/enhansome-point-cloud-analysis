@@ -738,7 +738,7 @@
             "open_issues": 8,
             "owner": "mikacuy",
             "repo": "pointnetvlad",
-            "stars": 401,
+            "stars": 402,
             "topics": [
               "computer-vision",
               "deep-learning",
@@ -2250,7 +2250,7 @@
             "open_issues": 14,
             "owner": "lijx10",
             "repo": "USIP",
-            "stars": 221,
+            "stars": 222,
             "topics": []
           },
           "first_seen": "2026-08-29T00:00:20.524Z"
@@ -4234,7 +4234,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T18:57:33.899Z",
+    "last_updated": "2026-09-16T18:52:27.694Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of papers and datasets about point cloud analysis (processing)",
