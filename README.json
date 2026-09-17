@@ -74,7 +74,7 @@
             "open_issues": 183,
             "owner": "charlesq34",
             "repo": "pointnet2",
-            "stars": 3703,
+            "stars": 3704,
             "topics": [
               "3d-shape",
               "classification",
@@ -764,7 +764,7 @@
             "open_issues": 22,
             "owner": "yulequan",
             "repo": "PU-Net",
-            "stars": 364,
+            "stars": 363,
             "topics": []
           },
           "first_seen": "2026-08-29T00:00:20.524Z"
@@ -1550,7 +1550,7 @@
             "open_issues": 29,
             "owner": "WangYueFt",
             "repo": "dgcnn",
-            "stars": 1846,
+            "stars": 1845,
             "topics": []
           },
           "first_seen": "2026-08-29T00:00:20.524Z"
@@ -1692,7 +1692,7 @@
             "open_issues": 8,
             "owner": "stevenygd",
             "repo": "PointFlow",
-            "stars": 869,
+            "stars": 868,
             "topics": [
               "3d-point-clouds",
               "computer-vision",
@@ -1720,7 +1720,7 @@
             "open_issues": 4,
             "owner": "iMoonLab",
             "repo": "HGNN",
-            "stars": 851,
+            "stars": 852,
             "topics": [
               "complex-data",
               "deep-learning",
@@ -1747,7 +1747,7 @@
             "open_issues": 36,
             "owner": "HuguesTHOMAS",
             "repo": "KPConv",
-            "stars": 785,
+            "stars": 786,
             "topics": []
           },
           "first_seen": "2026-08-29T00:00:20.524Z"
@@ -1985,7 +1985,7 @@
             "open_issues": 20,
             "owner": "Yochengliu",
             "repo": "Relation-Shape-CNN",
-            "stars": 424,
+            "stars": 423,
             "topics": [
               "3d-convolutional-network",
               "3d-graphics",
@@ -3690,7 +3690,7 @@
             "open_issues": 0,
             "owner": "itailang",
             "repo": "SampleNet",
-            "stars": 392,
+            "stars": 391,
             "topics": [
               "cvpr2020",
               "deep-learning",
@@ -4234,7 +4234,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T18:52:27.694Z",
+    "last_updated": "2026-09-17T19:00:06.079Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of papers and datasets about point cloud analysis (processing)",
