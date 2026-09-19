@@ -4,7 +4,7 @@ for anyone who wants to do research about 3D point cloud.
 
 If you find the awesome paper/code/dataset or have some suggestions, please contact <hualin.vvv@gmail.com>. Thanks for your valuable contribution to the research community :smiley:
 
-### For more recent papers, please visit [awesome-point-cloud-analysis-2020](https://github.com/NUAAXQ/awesome-point-cloud-analysis-2020) ⭐ 1,592 | 🐛 5 | 📅 2024-04-10
+### For more recent papers, please visit [awesome-point-cloud-analysis-2020](https://github.com/NUAAXQ/awesome-point-cloud-analysis-2020) ⭐ 1,591 | 🐛 5 | 📅 2024-04-10
 
 <h1> 
 
@@ -81,7 +81,7 @@ Statistics: :fire: code is available & stars >= 100  |  :star: citation >= 5
 * \[[arXiv](https://arxiv.org/abs/1803.06199)] Complex-YOLO: Real-time 3D Object Detection on Point Clouds. \[[pytorch](https://github.com/AI-liu/Complex-YOLO) ⭐ 452 | 🐛 25 | 🌐 Python | 📅 2019-03-21] \[**`det.`** **`aut.`**] :fire:
 * \[[AAAI](https://aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16530/16302)] Learning Efficient Point Cloud Generation for Dense 3D Object Reconstruction. \[[tensorflow](https://github.com/chenhsuanlin/3D-point-cloud-generation) ⭐ 451 | 🐛 7 | 🌐 Python | 📅 2019-04-10] \[**`rec.`**] :fire:
 * \[[CVPR](http://openaccess.thecvf.com/content_cvpr_2018/papers/Uy_PointNetVLAD_Deep_Point_CVPR_2018_paper.pdf)] PointNetVLAD: Deep Point Cloud Based Retrieval for Large-Scale Place Recognition. \[[tensorflow](https://github.com/mikacuy/pointnetvlad.git) ⭐ 402 | 🐛 8 | 🌐 Python | 📅 2020-01-19] \[**`rel.`**] :fire:
-* \[[CVPR](http://openaccess.thecvf.com/content_cvpr_2018/papers/Yu_PU-Net_Point_Cloud_CVPR_2018_paper.pdf)] PU-Net: Point Cloud Upsampling Network. \[[tensorflow](https://github.com/yulequan/PU-Net) ⭐ 363 | 🐛 22 | 🌐 Python | 📅 2019-10-10] \[**`rec.`** **`oth.`**] :fire:
+* \[[CVPR](http://openaccess.thecvf.com/content_cvpr_2018/papers/Yu_PU-Net_Point_Cloud_CVPR_2018_paper.pdf)] PU-Net: Point Cloud Upsampling Network. \[[tensorflow](https://github.com/yulequan/PU-Net) ⭐ 362 | 🐛 22 | 🌐 Python | 📅 2019-10-10] \[**`rec.`** **`oth.`**] :fire:
 * \[[CVPR](http://openaccess.thecvf.com/content_cvpr_2018/papers/Li_SO-Net_Self-Organizing_Network_CVPR_2018_paper.pdf)] SO-Net: Self-Organizing Network for Point Cloud Analysis. \[[pytorch](https://github.com/lijx10/SO-Net) ⭐ 345 | 🐛 10 | 🌐 Python | 📅 2021-02-24] \[**`cls.`** **`seg.`**] :fire: :star:
 * \[[arXiv](https://arxiv.org/abs/1901.01060)] POINTCLEANNET: Learning to Denoise and Remove Outliers from Dense Point Clouds. \[[pytorch](https://github.com/mrakotosaon/pointcleannet) ⭐ 293 | 🐛 2 | 🌐 Python | 📅 2020-07-29] \[**`oth.`**]
 * \[[CVPR](http://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_SGPN_Similarity_Group_CVPR_2018_paper.pdf)] SGPN: Similarity Group Proposal Network for 3D Point Cloud Instance Segmentation. \[[tensorflow](https://github.com/laughtervv/SGPN) ⭐ 273 | 🐛 33 | 🌐 Python | 📅 2019-05-30] \[**`seg.`**] :fire:
@@ -208,11 +208,11 @@ Statistics: :fire: code is available & stars >= 100  |  :star: citation >= 5
 * \[[TOG](https://arxiv.org/abs/1801.07829)] Dynamic Graph CNN for Learning on Point Clouds. \[[tensorflow](https://github.com/WangYueFt/dgcnn) ⭐ 1,845 | 🐛 29 | 🌐 Python | 📅 2022-05-20]\[[pytorch](https://github.com/WangYueFt/dgcnn) ⭐ 1,845 | 🐛 29 | 🌐 Python | 📅 2022-05-20] \[**`cls.`** **`seg.`**] :fire: :star:
 * \[[CVPR](https://arxiv.org/abs/1812.04244)] PointRCNN: 3D Object Proposal Generation and Detection from Point Cloud. \[[pytorch](https://github.com/sshaoshuai/PointRCNN) ⭐ 1,817 | 🐛 144 | 🌐 Python | 📅 2022-09-01] \[**`det.`** **`aut.`**] :fire:
 * \[[ICCV](https://arxiv.org/abs/1904.09664v1)] Deep Hough Voting for 3D Object Detection in Point Clouds. \[[pytorch](https://github.com/facebookresearch/votenet) ⚠️ Archived] \[[tensorflow](https://github.com/qq456cvb/VoteNet) ⭐ 141 | 🐛 3 | 🌐 Python | 📅 2026-06-13] \[**`det.`**] :fire:
-* \[[arvix](https://arxiv.org/abs/1912.12033)] Deep Learning for 3D Point Clouds: A Survey. \[[code](https://github.com/QingyongHu/SoTA-Point-Cloud) ⭐ 1,637 | 🐛 4 | 📅 2021-06-08] \[**`cls.`** **`det.`** **`tra.`** **`seg.`**]
+* \[[arvix](https://arxiv.org/abs/1912.12033)] Deep Learning for 3D Point Clouds: A Survey. \[[code](https://github.com/QingyongHu/SoTA-Point-Cloud) ⭐ 1,636 | 🐛 4 | 📅 2021-06-08] \[**`cls.`** **`det.`** **`tra.`** **`seg.`**]
 * \[[CVPR](https://arxiv.org/abs/1812.05784)] PointPillars: Fast Encoders for Object Detection from Point Clouds. \[[pytorch](https://github.com/nutonomy/second.pytorch) ⚠️ Archived] \[**`det.`**] :fire:
 * \[[CVPR](https://arxiv.org/abs/1812.07179)] Pseudo-LiDAR from Visual Depth Estimation: Bridging the Gap in 3D Object Detection for Autonomous Driving. \[[code](https://github.com/mileyan/pseudo_lidar) ⭐ 1,006 | 🐛 30 | 🌐 Jupyter Notebook | 📅 2020-07-02] \[**`det.`** **`dep.`** **`aut.`**]
-* \[[ICCV](https://arxiv.org/pdf/1906.12320.pdf)] PointFlow: 3D Point Cloud Generation with Continuous Normalizing Flows. \[[pytorch](https://github.com/stevenygd/PointFlow) ⭐ 868 | 🐛 8 | 🌐 Python | 📅 2024-08-07] \[**`oth.`**]
-* \[[AAAI](http://gaoyue.org/paper/HGNN.pdf)] Hypergraph Neural Networks. \[[pytorch](https://github.com/iMoonLab/HGNN) ⭐ 852 | 🐛 4 | 🌐 Python | 📅 2022-08-31] \[**`cls.`**]
+* \[[ICCV](https://arxiv.org/pdf/1906.12320.pdf)] PointFlow: 3D Point Cloud Generation with Continuous Normalizing Flows. \[[pytorch](https://github.com/stevenygd/PointFlow) ⭐ 867 | 🐛 8 | 🌐 Python | 📅 2024-08-07] \[**`oth.`**]
+* \[[AAAI](http://gaoyue.org/paper/HGNN.pdf)] Hypergraph Neural Networks. \[[pytorch](https://github.com/iMoonLab/HGNN) ⭐ 853 | 🐛 4 | 🌐 Python | 📅 2022-08-31] \[**`cls.`**]
 * \[[ICCV](https://arxiv.org/abs/1904.08889)] KPConv: Flexible and Deformable Convolution for Point Clouds. \[[tensorflow](https://github.com/HuguesTHOMAS/KPConv) ⭐ 787 | 🐛 36 | 🌐 Python | 📅 2021-02-23] \[**`cls.`** **`seg.`**] :fire:
 * \[[ICCV](http://openaccess.thecvf.com/content_ICCV_2019/html/Choy_Fully_Convolutional_Geometric_Features_ICCV_2019_paper.html)] Fully Convolutional Geometric Features. \[[pytorch](https://github.com/chrischoy/FCGF) ⭐ 732 | 🐛 35 | 🌐 Python | 📅 2026-07-02] \[**`reg.`**]
 * \[[ICCV](https://arxiv.org/abs/1904.03751)] DeepGCNs: Can GCNs Go as Deep as CNNs? \[[tensorflow](https://github.com/lightaime/deep_gcns) ⭐ 629 | 🐛 1 | 🌐 Python | 📅 2020-01-23] [\[pytorch\]](https://github.com/lightaime/deep_gcns_torch) ⭐ 1,187 | 🐛 7 | 🌐 Python | 📅 2022-07-31 \[**`seg.`**] :fire:
@@ -524,4 +524,4 @@ Statistics: :fire: code is available & stars >= 100  |  :star: citation >= 5
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-19._

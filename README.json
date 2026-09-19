@@ -18,7 +18,7 @@
             "open_issues": 5,
             "owner": "NUAAXQ",
             "repo": "awesome-point-cloud-analysis-2023",
-            "stars": 1592,
+            "stars": 1591,
             "topics": []
           },
           "title": "For more recent papers, please visit awesome-point-cloud-analysis-2020",
@@ -764,7 +764,7 @@
             "open_issues": 22,
             "owner": "yulequan",
             "repo": "PU-Net",
-            "stars": 363,
+            "stars": 362,
             "topics": []
           },
           "first_seen": "2026-08-29T00:00:20.524Z"
@@ -1620,7 +1620,7 @@
             "open_issues": 4,
             "owner": "QingyongHu",
             "repo": "SoTA-Point-Cloud",
-            "stars": 1637,
+            "stars": 1636,
             "topics": [
               "3d-classification",
               "3d-deep-learning",
@@ -1692,7 +1692,7 @@
             "open_issues": 8,
             "owner": "stevenygd",
             "repo": "PointFlow",
-            "stars": 868,
+            "stars": 867,
             "topics": [
               "3d-point-clouds",
               "computer-vision",
@@ -1720,7 +1720,7 @@
             "open_issues": 4,
             "owner": "iMoonLab",
             "repo": "HGNN",
-            "stars": 852,
+            "stars": 853,
             "topics": [
               "complex-data",
               "deep-learning",
@@ -4234,7 +4234,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T18:25:29.460Z",
+    "last_updated": "2026-09-19T17:58:51.483Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of papers and datasets about point cloud analysis (processing)",
