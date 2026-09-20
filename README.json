@@ -46,7 +46,7 @@
             "open_issues": 186,
             "owner": "charlesq34",
             "repo": "pointnet",
-            "stars": 5469,
+            "stars": 5470,
             "topics": [
               "classification",
               "geometry-processing",
@@ -510,7 +510,7 @@
             "open_issues": 91,
             "owner": "charlesq34",
             "repo": "frustum-pointnets",
-            "stars": 1670,
+            "stars": 1671,
             "topics": [
               "3d",
               "deep-learning",
@@ -1720,7 +1720,7 @@
             "open_issues": 4,
             "owner": "iMoonLab",
             "repo": "HGNN",
-            "stars": 853,
+            "stars": 854,
             "topics": [
               "complex-data",
               "deep-learning",
@@ -4234,7 +4234,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T17:58:51.483Z",
+    "last_updated": "2026-09-20T18:11:33.366Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of papers and datasets about point cloud analysis (processing)",
