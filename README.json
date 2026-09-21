@@ -46,7 +46,7 @@
             "open_issues": 186,
             "owner": "charlesq34",
             "repo": "pointnet",
-            "stars": 5470,
+            "stars": 5471,
             "topics": [
               "classification",
               "geometry-processing",
@@ -813,7 +813,7 @@
             "open_issues": 2,
             "owner": "mrakotosaon",
             "repo": "pointcleannet",
-            "stars": 293,
+            "stars": 294,
             "topics": []
           },
           "first_seen": "2026-08-29T00:00:20.524Z"
@@ -3609,7 +3609,7 @@
             "open_issues": 194,
             "owner": "QingyongHu",
             "repo": "RandLA-Net",
-            "stars": 1562,
+            "stars": 1563,
             "topics": [
               "3d-vision",
               "computer-vision",
@@ -4234,7 +4234,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T18:11:33.366Z",
+    "last_updated": "2026-09-21T19:58:53.652Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of papers and datasets about point cloud analysis (processing)",
