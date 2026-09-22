@@ -46,7 +46,7 @@
             "open_issues": 186,
             "owner": "charlesq34",
             "repo": "pointnet",
-            "stars": 5471,
+            "stars": 5474,
             "topics": [
               "classification",
               "geometry-processing",
@@ -74,7 +74,7 @@
             "open_issues": 183,
             "owner": "charlesq34",
             "repo": "pointnet2",
-            "stars": 3706,
+            "stars": 3708,
             "topics": [
               "3d-shape",
               "classification",
@@ -1085,7 +1085,7 @@
             "open_issues": 2,
             "owner": "sitzikbs",
             "repo": "3DmFV-Net",
-            "stars": 110,
+            "stars": 111,
             "topics": []
           },
           "first_seen": "2026-08-29T00:00:20.524Z"
@@ -1720,7 +1720,7 @@
             "open_issues": 4,
             "owner": "iMoonLab",
             "repo": "HGNN",
-            "stars": 854,
+            "stars": 855,
             "topics": [
               "complex-data",
               "deep-learning",
@@ -1747,7 +1747,7 @@
             "open_issues": 36,
             "owner": "HuguesTHOMAS",
             "repo": "KPConv",
-            "stars": 787,
+            "stars": 788,
             "topics": []
           },
           "first_seen": "2026-08-29T00:00:20.524Z"
@@ -1972,6 +1972,27 @@
         {
           "node_type": "item",
           "title": "[CVPR",
+          "description": "] PartNet: A Large-scale Benchmark for Fine-grained and Hierarchical Part-level 3D Object Understanding. [code] [ ]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "PartNet Dataset Official Release Repo",
+            "homepage": "https://cs.stanford.edu/~kaichun/partnet/",
+            "id": 174434121,
+            "language": "Python",
+            "license": "NOASSERTION",
+            "last_commit": "2023-02-02T21:04:41Z",
+            "open_issues": 12,
+            "owner": "daerduoCarey",
+            "repo": "partnet_dataset",
+            "stars": 424,
+            "topics": []
+          },
+          "first_seen": "2026-08-29T00:00:20.524Z"
+        },
+        {
+          "node_type": "item",
+          "title": "[CVPR",
           "description": "] Relation-Shape Convolutional Neural Network for Point Cloud Analysis. [pytorch] [ ] :fire:",
           "children": [],
           "repo_info": {
@@ -1998,27 +2019,6 @@
               "geometric-deep-learning",
               "normal-estimation"
             ]
-          },
-          "first_seen": "2026-08-29T00:00:20.524Z"
-        },
-        {
-          "node_type": "item",
-          "title": "[CVPR",
-          "description": "] PartNet: A Large-scale Benchmark for Fine-grained and Hierarchical Part-level 3D Object Understanding. [code] [ ]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "PartNet Dataset Official Release Repo",
-            "homepage": "https://cs.stanford.edu/~kaichun/partnet/",
-            "id": 174434121,
-            "language": "Python",
-            "license": "NOASSERTION",
-            "last_commit": "2023-02-02T21:04:41Z",
-            "open_issues": 12,
-            "owner": "daerduoCarey",
-            "repo": "partnet_dataset",
-            "stars": 423,
-            "topics": []
           },
           "first_seen": "2026-08-29T00:00:20.524Z"
         },
@@ -3609,7 +3609,7 @@
             "open_issues": 194,
             "owner": "QingyongHu",
             "repo": "RandLA-Net",
-            "stars": 1563,
+            "stars": 1564,
             "topics": [
               "3d-vision",
               "computer-vision",
@@ -3897,7 +3897,7 @@
             "open_issues": 2,
             "owner": "sitzikbs",
             "repo": "DeepFit",
-            "stars": 149,
+            "stars": 150,
             "topics": []
           },
           "first_seen": "2026-08-29T00:00:20.524Z"
@@ -4234,7 +4234,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T19:58:53.652Z",
+    "last_updated": "2026-09-22T18:51:17.796Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of papers and datasets about point cloud analysis (processing)",
