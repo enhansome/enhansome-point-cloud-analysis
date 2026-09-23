@@ -46,7 +46,7 @@
             "open_issues": 186,
             "owner": "charlesq34",
             "repo": "pointnet",
-            "stars": 5474,
+            "stars": 5475,
             "topics": [
               "classification",
               "geometry-processing",
@@ -74,7 +74,7 @@
             "open_issues": 183,
             "owner": "charlesq34",
             "repo": "pointnet2",
-            "stars": 3708,
+            "stars": 3709,
             "topics": [
               "3d-shape",
               "classification",
@@ -426,7 +426,7 @@
             "open_issues": 40,
             "owner": "RobustFieldAutonomyLab",
             "repo": "LeGO-LOAM",
-            "stars": 2753,
+            "stars": 2754,
             "topics": [
               "gtsam",
               "ieee",
@@ -463,7 +463,7 @@
             "open_issues": 56,
             "owner": "facebookresearch",
             "repo": "SparseConvNet",
-            "stars": 2144,
+            "stars": 2145,
             "topics": []
           },
           "first_seen": "2026-08-29T00:00:20.524Z"
@@ -1720,7 +1720,7 @@
             "open_issues": 4,
             "owner": "iMoonLab",
             "repo": "HGNN",
-            "stars": 855,
+            "stars": 856,
             "topics": [
               "complex-data",
               "deep-learning",
@@ -3669,7 +3669,7 @@
             "open_issues": 14,
             "owner": "zgojcic",
             "repo": "3D_multiview_reg",
-            "stars": 403,
+            "stars": 404,
             "topics": []
           },
           "first_seen": "2026-08-29T00:00:20.524Z"
@@ -4234,7 +4234,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T18:51:17.796Z",
+    "last_updated": "2026-09-23T19:02:17.332Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of papers and datasets about point cloud analysis (processing)",
