@@ -74,7 +74,7 @@
             "open_issues": 183,
             "owner": "charlesq34",
             "repo": "pointnet2",
-            "stars": 3709,
+            "stars": 3711,
             "topics": [
               "3d-shape",
               "classification",
@@ -133,7 +133,7 @@
             "open_issues": 0,
             "owner": "LiangliangNan",
             "repo": "PolyFit",
-            "stars": 831,
+            "stars": 832,
             "topics": [
               "hypothesis-and-selection",
               "linear-integer-programming",
@@ -484,7 +484,7 @@
             "open_issues": 300,
             "owner": "traveller59",
             "repo": "second.pytorch",
-            "stars": 1776,
+            "stars": 1777,
             "topics": [
               "kitti",
               "nuscenes",
@@ -3609,7 +3609,7 @@
             "open_issues": 194,
             "owner": "QingyongHu",
             "repo": "RandLA-Net",
-            "stars": 1564,
+            "stars": 1563,
             "topics": [
               "3d-vision",
               "computer-vision",
@@ -4220,7 +4220,7 @@
             "id": 285211703,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2022-03-28T05:44:37Z",
+            "last_commit": "2026-09-24T03:13:35Z",
             "open_issues": 3,
             "owner": "shinke-li",
             "repo": "Campus3D",
@@ -4234,7 +4234,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T19:02:17.332Z",
+    "last_updated": "2026-09-24T19:06:43.397Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of papers and datasets about point cloud analysis (processing)",
