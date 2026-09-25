@@ -18,7 +18,7 @@
             "open_issues": 5,
             "owner": "NUAAXQ",
             "repo": "awesome-point-cloud-analysis-2023",
-            "stars": 1591,
+            "stars": 1590,
             "topics": []
           },
           "title": "For more recent papers, please visit awesome-point-cloud-analysis-2020",
@@ -74,7 +74,7 @@
             "open_issues": 183,
             "owner": "charlesq34",
             "repo": "pointnet2",
-            "stars": 3711,
+            "stars": 3712,
             "topics": [
               "3d-shape",
               "classification",
@@ -2480,7 +2480,7 @@
             "open_issues": 1,
             "owner": "xingyul",
             "repo": "meteornet",
-            "stars": 156,
+            "stars": 157,
             "topics": []
           },
           "first_seen": "2026-08-29T00:00:20.524Z"
@@ -4234,7 +4234,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T19:06:43.397Z",
+    "last_updated": "2026-09-25T19:14:07.669Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of papers and datasets about point cloud analysis (processing)",
