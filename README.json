@@ -46,7 +46,7 @@
             "open_issues": 186,
             "owner": "charlesq34",
             "repo": "pointnet",
-            "stars": 5475,
+            "stars": 5476,
             "topics": [
               "classification",
               "geometry-processing",
@@ -534,7 +534,7 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-03-12T12:31:09Z",
-            "open_issues": 61,
+            "open_issues": 60,
             "owner": "yangyanli",
             "repo": "PointCNN",
             "stars": 1433,
@@ -3606,7 +3606,7 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2023-07-11T22:42:23Z",
-            "open_issues": 194,
+            "open_issues": 192,
             "owner": "QingyongHu",
             "repo": "RandLA-Net",
             "stars": 1563,
@@ -4234,7 +4234,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T19:14:07.669Z",
+    "last_updated": "2026-09-26T18:34:51.679Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of papers and datasets about point cloud analysis (processing)",
@@ -4246,7 +4246,7 @@
       "open_issues": 3,
       "owner": "Yochengliu",
       "repo": "awesome-point-cloud-analysis",
-      "stars": 4223,
+      "stars": 4224,
       "topics": [
         "3d-graphics",
         "3d-reconstruction",
