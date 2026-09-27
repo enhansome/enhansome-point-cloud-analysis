@@ -1550,7 +1550,7 @@
             "open_issues": 29,
             "owner": "WangYueFt",
             "repo": "dgcnn",
-            "stars": 1845,
+            "stars": 1846,
             "topics": []
           },
           "first_seen": "2026-08-29T00:00:20.524Z"
@@ -1620,7 +1620,7 @@
             "open_issues": 4,
             "owner": "QingyongHu",
             "repo": "SoTA-Point-Cloud",
-            "stars": 1636,
+            "stars": 1637,
             "topics": [
               "3d-classification",
               "3d-deep-learning",
@@ -1747,7 +1747,7 @@
             "open_issues": 36,
             "owner": "HuguesTHOMAS",
             "repo": "KPConv",
-            "stars": 788,
+            "stars": 789,
             "topics": []
           },
           "first_seen": "2026-08-29T00:00:20.524Z"
@@ -4137,7 +4137,7 @@
             "open_issues": 58,
             "owner": "niessner",
             "repo": "Matterport",
-            "stars": 1256,
+            "stars": 1255,
             "topics": [
               "3d-reconstruction",
               "semantic-scene-understanding"
@@ -4234,7 +4234,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T18:34:51.679Z",
+    "last_updated": "2026-09-27T18:58:23.571Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of papers and datasets about point cloud analysis (processing)",
