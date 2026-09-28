@@ -671,7 +671,7 @@
             "open_issues": 39,
             "owner": "tsinghua-rll",
             "repo": "VoxelNet-tensorflow",
-            "stars": 466,
+            "stars": 467,
             "topics": [
               "detection",
               "tensorflow",
@@ -1469,7 +1469,7 @@
             "open_issues": 236,
             "owner": "NVIDIA",
             "repo": "MinkowskiEngine",
-            "stars": 2960,
+            "stars": 2961,
             "topics": [
               "3d-convolutional-network",
               "3d-vision",
@@ -1692,7 +1692,7 @@
             "open_issues": 8,
             "owner": "stevenygd",
             "repo": "PointFlow",
-            "stars": 867,
+            "stars": 866,
             "topics": [
               "3d-point-clouds",
               "computer-vision",
@@ -3897,7 +3897,7 @@
             "open_issues": 2,
             "owner": "sitzikbs",
             "repo": "DeepFit",
-            "stars": 150,
+            "stars": 149,
             "topics": []
           },
           "first_seen": "2026-08-29T00:00:20.524Z"
@@ -4234,7 +4234,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T18:58:23.571Z",
+    "last_updated": "2026-09-28T21:13:04.203Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of papers and datasets about point cloud analysis (processing)",
