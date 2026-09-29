@@ -46,7 +46,7 @@
             "open_issues": 186,
             "owner": "charlesq34",
             "repo": "pointnet",
-            "stars": 5476,
+            "stars": 5477,
             "topics": [
               "classification",
               "geometry-processing",
@@ -510,7 +510,7 @@
             "open_issues": 91,
             "owner": "charlesq34",
             "repo": "frustum-pointnets",
-            "stars": 1671,
+            "stars": 1672,
             "topics": [
               "3d",
               "deep-learning",
@@ -537,7 +537,7 @@
             "open_issues": 60,
             "owner": "yangyanli",
             "repo": "PointCNN",
-            "stars": 1433,
+            "stars": 1434,
             "topics": [
               "autonomous-driving",
               "classification",
@@ -1152,7 +1152,7 @@
             "open_issues": 1,
             "owner": "viscom-ulm",
             "repo": "MCCNN",
-            "stars": 91,
+            "stars": 92,
             "topics": []
           },
           "first_seen": "2026-08-29T00:00:20.524Z"
@@ -1299,6 +1299,27 @@
         },
         {
           "node_type": "item",
+          "title": "[CVPR",
+          "description": "] Hand PointNet: 3D Hand Pose Estimation using Point Sets. [pytorch] []",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Hand PointNet: 3D Hand Pose Estimation using Point Sets",
+            "homepage": null,
+            "id": 159474091,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2018-11-28T09:13:55Z",
+            "open_issues": 3,
+            "owner": "3huo",
+            "repo": "Hand-Pointnet",
+            "stars": 58,
+            "topics": []
+          },
+          "first_seen": "2026-08-29T00:00:20.524Z"
+        },
+        {
+          "node_type": "item",
           "title": "[TOG",
           "description": "] Point Convolutional Neural Networks by Extension Operators. [tensorflow] [ ]",
           "children": [],
@@ -1339,27 +1360,6 @@
               "deep-learning",
               "point-cloud"
             ]
-          },
-          "first_seen": "2026-08-29T00:00:20.524Z"
-        },
-        {
-          "node_type": "item",
-          "title": "[CVPR",
-          "description": "] Hand PointNet: 3D Hand Pose Estimation using Point Sets. [pytorch] []",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Hand PointNet: 3D Hand Pose Estimation using Point Sets",
-            "homepage": null,
-            "id": 159474091,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2018-11-28T09:13:55Z",
-            "open_issues": 3,
-            "owner": "3huo",
-            "repo": "Hand-Pointnet",
-            "stars": 57,
-            "topics": []
           },
           "first_seen": "2026-08-29T00:00:20.524Z"
         },
@@ -1550,7 +1550,7 @@
             "open_issues": 29,
             "owner": "WangYueFt",
             "repo": "dgcnn",
-            "stars": 1846,
+            "stars": 1847,
             "topics": []
           },
           "first_seen": "2026-08-29T00:00:20.524Z"
@@ -1571,7 +1571,7 @@
             "open_issues": 144,
             "owner": "sshaoshuai",
             "repo": "PointRCNN",
-            "stars": 1817,
+            "stars": 1818,
             "topics": []
           },
           "first_seen": "2026-08-29T00:00:20.524Z"
@@ -1768,7 +1768,7 @@
             "open_issues": 35,
             "owner": "chrischoy",
             "repo": "FCGF",
-            "stars": 732,
+            "stars": 733,
             "topics": [
               "3d",
               "correspondence",
@@ -4234,7 +4234,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T21:13:04.203Z",
+    "last_updated": "2026-09-29T19:58:09.067Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of papers and datasets about point cloud analysis (processing)",
