@@ -46,7 +46,7 @@
             "open_issues": 186,
             "owner": "charlesq34",
             "repo": "pointnet",
-            "stars": 5478,
+            "stars": 5479,
             "topics": [
               "classification",
               "geometry-processing",
@@ -133,7 +133,7 @@
             "open_issues": 0,
             "owner": "LiangliangNan",
             "repo": "PolyFit",
-            "stars": 832,
+            "stars": 834,
             "topics": [
               "hypothesis-and-selection",
               "linear-integer-programming",
@@ -484,7 +484,7 @@
             "open_issues": 300,
             "owner": "traveller59",
             "repo": "second.pytorch",
-            "stars": 1777,
+            "stars": 1778,
             "topics": [
               "kitti",
               "nuscenes",
@@ -1469,7 +1469,7 @@
             "open_issues": 236,
             "owner": "NVIDIA",
             "repo": "MinkowskiEngine",
-            "stars": 2962,
+            "stars": 2961,
             "topics": [
               "3d-convolutional-network",
               "3d-vision",
@@ -1571,7 +1571,7 @@
             "open_issues": 144,
             "owner": "sshaoshuai",
             "repo": "PointRCNN",
-            "stars": 1818,
+            "stars": 1819,
             "topics": []
           },
           "first_seen": "2026-08-29T00:00:20.524Z"
@@ -1592,7 +1592,7 @@
             "open_issues": 88,
             "owner": "facebookresearch",
             "repo": "votenet",
-            "stars": 1761,
+            "stars": 1762,
             "topics": [
               "3d",
               "deep-learning",
@@ -1620,7 +1620,7 @@
             "open_issues": 4,
             "owner": "QingyongHu",
             "repo": "SoTA-Point-Cloud",
-            "stars": 1637,
+            "stars": 1638,
             "topics": [
               "3d-classification",
               "3d-deep-learning",
@@ -1650,7 +1650,7 @@
             "open_issues": 1,
             "owner": "nutonomy",
             "repo": "second.pytorch",
-            "stars": 1022,
+            "stars": 1023,
             "topics": []
           },
           "first_seen": "2026-08-29T00:00:20.524Z"
@@ -3609,7 +3609,7 @@
             "open_issues": 192,
             "owner": "QingyongHu",
             "repo": "RandLA-Net",
-            "stars": 1562,
+            "stars": 1563,
             "topics": [
               "3d-vision",
               "computer-vision",
@@ -4234,7 +4234,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T20:20:32.440Z",
+    "last_updated": "2026-10-02T19:55:54.790Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of papers and datasets about point cloud analysis (processing)",
@@ -4246,7 +4246,7 @@
       "open_issues": 3,
       "owner": "Yochengliu",
       "repo": "awesome-point-cloud-analysis",
-      "stars": 4224,
+      "stars": 4225,
       "topics": [
         "3d-graphics",
         "3d-reconstruction",
