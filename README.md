@@ -34,7 +34,7 @@ Statistics: :fire: code is available & stars >= 100  |  :star: citation >= 5
 * \[[CVPR](http://openaccess.thecvf.com/content_cvpr_2017/papers/Riegler_OctNet_Learning_Deep_CVPR_2017_paper.pdf)] OctNet: Learning Deep 3D Representations at High Resolutions. \[[torch](https://github.com/griegler/octnet) ⭐ 504 | 🐛 11 | 🌐 C++ | 📅 2020-09-02] \[**`cls.`** **`seg.`** **`oth.`**] :fire: :star:
 * \[[CVPR](http://openaccess.thecvf.com/content_cvpr_2017/papers/Chen_Multi-View_3D_Object_CVPR_2017_paper.pdf)] Multi-View 3D Object Detection Network for Autonomous Driving. \[[tensorflow](https://github.com/bostondiditeam/MV3D) ⭐ 495 | 🐛 31 | 🌐 Jupyter Notebook | 📅 2025-11-15] \[**`det.`** **`aut.`**] :fire: :star:
 * \[[ICRA](https://ieeexplore.ieee.org/document/7989591)] Fast segmentation of 3D point clouds: A paradigm on LiDAR data for autonomous vehicle applications. \[[code](https://github.com/VincentCheungM/Run_based_segmentation) ⭐ 397 | 🐛 15 | 🌐 C++ | 📅 2018-10-05] \[**`seg.`** **`aut.`**]
-* \[[NeurIPS](https://papers.nips.cc/paper/6931-deep-sets)] Deep Sets. \[[pytorch](https://github.com/manzilzaheer/DeepSets) ⭐ 319 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2023-01-21] \[**`cls.`**] :star:
+* \[[NeurIPS](https://papers.nips.cc/paper/6931-deep-sets)] Deep Sets. \[[pytorch](https://github.com/manzilzaheer/DeepSets) ⭐ 320 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2023-01-21] \[**`cls.`**] :star:
 * \[[IROS](https://ieeexplore.ieee.org/document/8205955)] 3D fully convolutional network for vehicle detection in point cloud. \[[tensorflow](https://github.com/yukitsuji/3D_CNN_tensorflow) ⭐ 285 | 🐛 22 | 🌐 Python | 📅 2019-04-18] \[**`det.`** **`aut.`**] :fire: :star:
 * \[[ICCV](http://openaccess.thecvf.com/content_ICCV_2017/papers/Qi_3D_Graph_Neural_ICCV_2017_paper.pdf)] 3D Graph Neural Networks for RGBD Semantic Segmentation. \[[pytorch](https://github.com/yanx27/3DGNN_pytorch) ⭐ 235 | 🐛 15 | 🌐 Python | 📅 2019-03-16] \[**`seg.`**]
 * \[[ICCV](http://openaccess.thecvf.com/content_ICCV_2017/papers/Klokov_Escape_From_Cells_ICCV_2017_paper.pdf)] Escape from Cells: Deep Kd-Networks for the Recognition of 3D Point Cloud Models. \[[pytorch](https://github.com/fxia22/kdnet.pytorch) ⭐ 119 | 🐛 4 | 🌐 Python | 📅 2018-07-07] \[**`cls.`** **`rel.`** **`seg.`**] :star:
@@ -479,7 +479,7 @@ Statistics: :fire: code is available & stars >= 100  |  :star: citation >= 5
 
 </h1>
 
-* \[[Matterport3D](https://niessner.github.io/Matterport/)] RGB-D: 10,800 panoramic views from 194,400 RGB-D images. Annotations: surface reconstructions, camera poses, and 2D and 3D semantic segmentations. Keypoint matching, view overlap prediction, normal prediction from color, semantic segmentation, and scene classification. \[[3DV 2017 paper](https://arxiv.org/abs/1709.06158)] \[[code](https://github.com/niessner/Matterport) ⭐ 1,257 | 🐛 58 | 🌐 C++ | 📅 2025-11-03] \[[blog](https://matterport.com/blog/2017/09/20/announcing-matterport3d-research-dataset/)]
+* \[[Matterport3D](https://niessner.github.io/Matterport/)] RGB-D: 10,800 panoramic views from 194,400 RGB-D images. Annotations: surface reconstructions, camera poses, and 2D and 3D semantic segmentations. Keypoint matching, view overlap prediction, normal prediction from color, semantic segmentation, and scene classification. \[[3DV 2017 paper](https://arxiv.org/abs/1709.06158)] \[[code](https://github.com/niessner/Matterport) ⭐ 1,258 | 🐛 58 | 🌐 C++ | 📅 2025-11-03] \[[blog](https://matterport.com/blog/2017/09/20/announcing-matterport3d-research-dataset/)]
 * \[[BLVD](https://github.com/VCCIV/BLVD) ⭐ 174 | 🐛 6 | 🌐 Python | 📅 2020-02-16] (a) 3D detection, (b) 4D tracking, (c) 5D interactive event recognition and (d) 5D intention prediction. \[[ICRA 2019 paper](https://arxiv.org/abs/1903.06405v1)] \[**`det.`** **`tra.`** **`aut.`** **`oth.`**]
 * \[[PointDA-10 Dataset](https://github.com/canqin001/PointDAN) ⭐ 135 | 🐛 5 | 🌐 Python | 📅 2021-01-24] Domain Adaptation for point clouds.
 * \[[A\*3D: An Autonomous Driving Dataset in Challeging Environments](https://github.com/I2RDL2/ASTAR-3D) ⭐ 123 | 🐛 6 | 📅 2020-10-19] A\*3D: An Autonomous Driving Dataset in Challeging Environments. \[**`det.`**]
@@ -524,4 +524,4 @@ Statistics: :fire: code is available & stars >= 100  |  :star: citation >= 5
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._

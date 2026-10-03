@@ -232,7 +232,7 @@
             "open_issues": 1,
             "owner": "manzilzaheer",
             "repo": "DeepSets",
-            "stars": 319,
+            "stars": 320,
             "topics": []
           },
           "first_seen": "2026-08-29T00:00:20.524Z"
@@ -4137,7 +4137,7 @@
             "open_issues": 58,
             "owner": "niessner",
             "repo": "Matterport",
-            "stars": 1257,
+            "stars": 1258,
             "topics": [
               "3d-reconstruction",
               "semantic-scene-understanding"
@@ -4234,7 +4234,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T19:55:54.790Z",
+    "last_updated": "2026-10-03T05:03:46.009Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of papers and datasets about point cloud analysis (processing)",
