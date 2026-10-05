@@ -46,7 +46,7 @@
             "open_issues": 186,
             "owner": "charlesq34",
             "repo": "pointnet",
-            "stars": 5479,
+            "stars": 5480,
             "topics": [
               "classification",
               "geometry-processing",
@@ -1469,7 +1469,7 @@
             "open_issues": 236,
             "owner": "NVIDIA",
             "repo": "MinkowskiEngine",
-            "stars": 2962,
+            "stars": 2963,
             "topics": [
               "3d-convolutional-network",
               "3d-vision",
@@ -4234,7 +4234,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T18:37:44.190Z",
+    "last_updated": "2026-10-05T21:59:37.024Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of papers and datasets about point cloud analysis (processing)",
