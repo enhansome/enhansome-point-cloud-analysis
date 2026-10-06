@@ -204,8 +204,8 @@ Statistics: :fire: code is available & stars >= 100  |  :star: citation >= 5
 ## 2019
 
 * \[[CVPR](http://export.arxiv.org/abs/1904.08755)] 4D Spatio-Temporal ConvNets: Minkowski Convolutional Neural Networks. \[[pytorch](https://github.com/StanfordVL/MinkowskiEngine) ⭐ 2,963 | 🐛 236 | 🌐 Python | 📅 2024-03-05] \[**`seg.`**] :fire:
-* \[[arXiv](https://arxiv.org/pdf/1908.11069v1.pdf)] StarNet: Targeted Computation for Object Detection in Point Clouds. \[[tensorflow](https://github.com/tensorflow/lingvo) ⭐ 2,864 | 🐛 156 | 🌐 Python | 📅 2026-06-22] \[**`det.`**]
-* \[[TOG](https://arxiv.org/abs/1801.07829)] Dynamic Graph CNN for Learning on Point Clouds. \[[tensorflow](https://github.com/WangYueFt/dgcnn) ⭐ 1,849 | 🐛 29 | 🌐 Python | 📅 2022-05-20]\[[pytorch](https://github.com/WangYueFt/dgcnn) ⭐ 1,849 | 🐛 29 | 🌐 Python | 📅 2022-05-20] \[**`cls.`** **`seg.`**] :fire: :star:
+* \[[arXiv](https://arxiv.org/pdf/1908.11069v1.pdf)] StarNet: Targeted Computation for Object Detection in Point Clouds. \[[tensorflow](https://github.com/tensorflow/lingvo) ⭐ 2,864 | 🐛 155 | 🌐 Python | 📅 2026-10-05] \[**`det.`**]
+* \[[TOG](https://arxiv.org/abs/1801.07829)] Dynamic Graph CNN for Learning on Point Clouds. \[[tensorflow](https://github.com/WangYueFt/dgcnn) ⭐ 1,850 | 🐛 29 | 🌐 Python | 📅 2022-05-20]\[[pytorch](https://github.com/WangYueFt/dgcnn) ⭐ 1,850 | 🐛 29 | 🌐 Python | 📅 2022-05-20] \[**`cls.`** **`seg.`**] :fire: :star:
 * \[[CVPR](https://arxiv.org/abs/1812.04244)] PointRCNN: 3D Object Proposal Generation and Detection from Point Cloud. \[[pytorch](https://github.com/sshaoshuai/PointRCNN) ⭐ 1,820 | 🐛 144 | 🌐 Python | 📅 2022-09-01] \[**`det.`** **`aut.`**] :fire:
 * \[[ICCV](https://arxiv.org/abs/1904.09664v1)] Deep Hough Voting for 3D Object Detection in Point Clouds. \[[pytorch](https://github.com/facebookresearch/votenet) ⚠️ Archived] \[[tensorflow](https://github.com/qq456cvb/VoteNet) ⭐ 141 | 🐛 3 | 🌐 Python | 📅 2026-06-13] \[**`det.`**] :fire:
 * \[[arvix](https://arxiv.org/abs/1912.12033)] Deep Learning for 3D Point Clouds: A Survey. \[[code](https://github.com/QingyongHu/SoTA-Point-Cloud) ⭐ 1,638 | 🐛 4 | 📅 2021-06-08] \[**`cls.`** **`det.`** **`tra.`** **`seg.`**]
@@ -225,7 +225,7 @@ Statistics: :fire: code is available & stars >= 100  |  :star: citation >= 5
 * \[[arXiv](https://export.arxiv.org/abs/1906.04173)] Differentiable Surface Splatting for Point-based Geometry Processing. \[[pytorch](https://github.com/yifita/DSS) ⭐ 447 | 🐛 12 | 🌐 Python | 📅 2026-04-13] \[**`oth.`**]
 * \[[CVPR](https://arxiv.org/abs/1812.02713)] PartNet: A Large-scale Benchmark for Fine-grained and Hierarchical Part-level 3D Object Understanding. \[[code](https://github.com/daerduoCarey/partnet_dataset) ⭐ 425 | 🐛 12 | 🌐 Python | 📅 2023-02-02] \[**`dat.`** **`seg.`**]
 * \[[CVPR](http://export.arxiv.org/abs/1904.07601)] Relation-Shape Convolutional Neural Network for Point Cloud Analysis. \[[pytorch](https://github.com/Yochengliu/Relation-Shape-CNN) ⭐ 423 | 🐛 20 | 🌐 Python | 📅 2021-09-30] \[**`cls.`** **`seg.`** **`oth.`**] :fire:
-* \[[ICRA](https://arxiv.org/abs/1809.06267)] PointNetGPD: Detecting Grasp Configurations from Point Sets. \[[pytorch](https://github.com/lianghongzhuo/PointNetGPD) ⭐ 401 | 🐛 21 | 🌐 Python | 📅 2025-05-30] \[**`det.`** **`seg.`**]
+* \[[ICRA](https://arxiv.org/abs/1809.06267)] PointNetGPD: Detecting Grasp Configurations from Point Sets. \[[pytorch](https://github.com/lianghongzhuo/PointNetGPD) ⭐ 400 | 🐛 21 | 🌐 Python | 📅 2025-05-30] \[**`det.`** **`seg.`**]
 * \[[NeurIPS](https://arxiv.org/abs/1906.01140)] Learning Object Bounding Boxes for 3D Instance Segmentation on Point Clouds. \[[tensorflow](https://github.com/Yang7879/3D-BoNet) ⭐ 397 | 🐛 55 | 🌐 Python | 📅 2021-03-02] \[**`det.`** **`seg.`**]
 * \[[arXiv](https://arxiv.org/abs/1906.01140)] Learning Object Bounding Boxes for 3D Instance Segmentation on Point Clouds. \[[tensorflow](https://github.com/Yang7879/3D-BoNet) ⭐ 397 | 🐛 55 | 🌐 Python | 📅 2021-03-02] \[**`det.`** **`seg.`**]
 * \[[ICCV](https://arxiv.org/pdf/1907.10844.pdf)] PU-GAN: a Point Cloud Upsampling Adversarial Network. \[[tensorflow](https://github.com/liruihui/PU-GAN) ⭐ 300 | 🐛 21 | 🌐 Makefile | 📅 2020-11-25] \[**`oth.`**]
@@ -282,7 +282,7 @@ Statistics: :fire: code is available & stars >= 100  |  :star: citation >= 5
 * \[[arXiv](https://arxiv.org/pdf/1911.11098.pdf)] StructEdit: Learning Structural Shape Variations. \[[project](https://github.com/daerduoCarey/structedit) ⭐ 34 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2020-03-08] \[**`rec.`**]
 * \[[arXiv](https://arxiv.org/abs/1907.09798)] PointAtrousGraph: Deep Hierarchical Encoder-Decoder with Point Atrous Convolution for Unorganized 3D Points. \[[tensorflow](https://github.com/paul007pl/PointAtrousGraph) ⭐ 29 | 🐛 0 | 🌐 Python | 📅 2020-02-26] \[**`cls.`** **`seg.`**]
 * \[[arXiv](https://export.arxiv.org/abs/1901.03006)] Extending Adversarial Attacks and Defenses to Deep 3D Point Cloud Classifiers. \[[code](https://github.com/Daniel-Liu-c0deb0t/3D-Neural-Network-Adversarial-Attacks) ⭐ 28 | 🐛 4 | 🌐 Python | 📅 2020-05-22] \[**`oth.`**]
-* \[[SIGGRAPH Asia](https://dl.acm.org/doi/10.1145/3355089.3356573)] RPM-Net: recurrent prediction of motion and parts from point cloud. \[[tensorflow](https://github.com/Salingo/RPM-Net) ⭐ 26 | 🐛 1 | 🌐 Python | 📅 2023-12-19] \[**`seg.`**]
+* \[[SIGGRAPH Asia](https://dl.acm.org/doi/10.1145/3355089.3356573)] RPM-Net: recurrent prediction of motion and parts from point cloud. \[[tensorflow](https://github.com/Salingo/RPM-Net) ⭐ 25 | 🐛 1 | 🌐 Python | 📅 2023-12-19] \[**`seg.`**]
 * \[[ICRA](https://arxiv.org/abs/1904.00319)] Discrete Rotation Equivariance for Point Cloud Recognition. \[[pytorch](https://github.com/lijx10/rot-equ-net) ⭐ 23 | 🐛 1 | 🌐 Python | 📅 2019-04-01] \[**`cls.`**]
 * \[[CVPR](https://arxiv.org/abs/1806.02170)] PointFlowNet: Learning Representations for Rigid Motion Estimation from Point Clouds. \[[code](https://github.com/aseembehl/pointflownet) ⭐ 21 | 🐛 3 | 📅 2019-04-05] \[**`det.`** **`dat.`** **`oth.`**]
 * \[[AAAI](https://arxiv.org/abs/1811.11731)] CAPNet: Continuous Approximation Projection For 3D Point Cloud Reconstruction Using 2D Supervision. \[[code](https://github.com/val-iisc/capnet) ⭐ 21 | 🐛 1 | 🌐 Python | 📅 2019-05-06] \[**`rec.`**]
@@ -524,4 +524,4 @@ Statistics: :fire: code is available & stars >= 100  |  :star: citation >= 5
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._
