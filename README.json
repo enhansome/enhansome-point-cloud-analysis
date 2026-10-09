@@ -18,7 +18,7 @@
             "open_issues": 5,
             "owner": "NUAAXQ",
             "repo": "awesome-point-cloud-analysis-2023",
-            "stars": 1590,
+            "stars": 1585,
             "topics": []
           },
           "title": "For more recent papers, please visit awesome-point-cloud-analysis-2020",
@@ -46,7 +46,7 @@
             "open_issues": 186,
             "owner": "charlesq34",
             "repo": "pointnet",
-            "stars": 5483,
+            "stars": 5482,
             "topics": [
               "classification",
               "geometry-processing",
@@ -74,7 +74,7 @@
             "open_issues": 183,
             "owner": "charlesq34",
             "repo": "pointnet2",
-            "stars": 3713,
+            "stars": 3712,
             "topics": [
               "3d-shape",
               "classification",
@@ -101,7 +101,7 @@
             "open_issues": 23,
             "owner": "andyzeng",
             "repo": "3dmatch-toolbox",
-            "stars": 908,
+            "stars": 907,
             "topics": [
               "3d",
               "3d-deep-learning",
@@ -232,7 +232,7 @@
             "open_issues": 1,
             "owner": "manzilzaheer",
             "repo": "DeepSets",
-            "stars": 320,
+            "stars": 321,
             "topics": []
           },
           "first_seen": "2026-08-29T00:00:20.524Z"
@@ -484,7 +484,7 @@
             "open_issues": 300,
             "owner": "traveller59",
             "repo": "second.pytorch",
-            "stars": 1778,
+            "stars": 1777,
             "topics": [
               "kitti",
               "nuscenes",
@@ -537,7 +537,7 @@
             "open_issues": 60,
             "owner": "yangyanli",
             "repo": "PointCNN",
-            "stars": 1434,
+            "stars": 1435,
             "topics": [
               "autonomous-driving",
               "classification",
@@ -1720,7 +1720,7 @@
             "open_issues": 4,
             "owner": "iMoonLab",
             "repo": "HGNN",
-            "stars": 858,
+            "stars": 859,
             "topics": [
               "complex-data",
               "deep-learning",
@@ -3690,7 +3690,7 @@
             "open_issues": 0,
             "owner": "itailang",
             "repo": "SampleNet",
-            "stars": 391,
+            "stars": 390,
             "topics": [
               "cvpr2020",
               "deep-learning",
@@ -4234,7 +4234,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T20:40:58.111Z",
+    "last_updated": "2026-10-09T20:05:42.180Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of papers and datasets about point cloud analysis (processing)",
