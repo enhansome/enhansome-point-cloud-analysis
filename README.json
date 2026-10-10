@@ -510,7 +510,7 @@
             "open_issues": 91,
             "owner": "charlesq34",
             "repo": "frustum-pointnets",
-            "stars": 1672,
+            "stars": 1671,
             "topics": [
               "3d",
               "deep-learning",
@@ -1469,7 +1469,7 @@
             "open_issues": 236,
             "owner": "NVIDIA",
             "repo": "MinkowskiEngine",
-            "stars": 2964,
+            "stars": 2965,
             "topics": [
               "3d-convolutional-network",
               "3d-vision",
@@ -1507,11 +1507,11 @@
             "id": 142219189,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-06T20:41:52Z",
+            "last_commit": "2026-10-10T07:10:17Z",
             "open_issues": 155,
             "owner": "tensorflow",
             "repo": "lingvo",
-            "stars": 2864,
+            "stars": 2865,
             "topics": [
               "asr",
               "distributed",
@@ -1720,7 +1720,7 @@
             "open_issues": 4,
             "owner": "iMoonLab",
             "repo": "HGNN",
-            "stars": 859,
+            "stars": 860,
             "topics": [
               "complex-data",
               "deep-learning",
@@ -1956,7 +1956,7 @@
             "open_issues": 12,
             "owner": "yifita",
             "repo": "DSS",
-            "stars": 447,
+            "stars": 446,
             "topics": [
               "differentiable-renderer",
               "differentiable-rendering",
@@ -4234,7 +4234,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T20:05:42.180Z",
+    "last_updated": "2026-10-10T19:15:46.974Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of papers and datasets about point cloud analysis (processing)",
