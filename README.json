@@ -46,7 +46,7 @@
             "open_issues": 186,
             "owner": "charlesq34",
             "repo": "pointnet",
-            "stars": 5483,
+            "stars": 5484,
             "topics": [
               "classification",
               "geometry-processing",
@@ -74,7 +74,7 @@
             "open_issues": 183,
             "owner": "charlesq34",
             "repo": "pointnet2",
-            "stars": 3713,
+            "stars": 3714,
             "topics": [
               "3d-shape",
               "classification",
@@ -232,7 +232,7 @@
             "open_issues": 1,
             "owner": "manzilzaheer",
             "repo": "DeepSets",
-            "stars": 321,
+            "stars": 322,
             "topics": []
           },
           "first_seen": "2026-08-29T00:00:20.524Z"
@@ -426,7 +426,7 @@
             "open_issues": 40,
             "owner": "RobustFieldAutonomyLab",
             "repo": "LeGO-LOAM",
-            "stars": 2758,
+            "stars": 2757,
             "topics": [
               "gtsam",
               "ieee",
@@ -1511,7 +1511,7 @@
             "open_issues": 155,
             "owner": "tensorflow",
             "repo": "lingvo",
-            "stars": 2865,
+            "stars": 2864,
             "topics": [
               "asr",
               "distributed",
@@ -2038,7 +2038,7 @@
             "open_issues": 21,
             "owner": "lianghongzhuo",
             "repo": "PointNetGPD",
-            "stars": 400,
+            "stars": 401,
             "topics": []
           },
           "first_seen": "2026-08-29T00:00:20.524Z"
@@ -2522,7 +2522,7 @@
             "open_issues": 1,
             "owner": "ziquan111",
             "repo": "RobustPCLReconstruction",
-            "stars": 142,
+            "stars": 141,
             "topics": []
           },
           "first_seen": "2026-08-29T00:00:20.524Z"
@@ -2701,7 +2701,7 @@
             "open_issues": 3,
             "owner": "francescopittaluga",
             "repo": "invsfm",
-            "stars": 107,
+            "stars": 106,
             "topics": [
               "deep-learning",
               "privacy",
@@ -4234,7 +4234,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T19:32:15.509Z",
+    "last_updated": "2026-10-12T22:29:05.559Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of papers and datasets about point cloud analysis (processing)",
@@ -4246,7 +4246,7 @@
       "open_issues": 3,
       "owner": "Yochengliu",
       "repo": "awesome-point-cloud-analysis",
-      "stars": 4225,
+      "stars": 4226,
       "topics": [
         "3d-graphics",
         "3d-reconstruction",
