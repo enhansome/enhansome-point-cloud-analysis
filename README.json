@@ -133,7 +133,7 @@
             "open_issues": 0,
             "owner": "LiangliangNan",
             "repo": "PolyFit",
-            "stars": 835,
+            "stars": 836,
             "topics": [
               "hypothesis-and-selection",
               "linear-integer-programming",
@@ -1469,7 +1469,7 @@
             "open_issues": 236,
             "owner": "NVIDIA",
             "repo": "MinkowskiEngine",
-            "stars": 2965,
+            "stars": 2966,
             "topics": [
               "3d-convolutional-network",
               "3d-vision",
@@ -1511,7 +1511,7 @@
             "open_issues": 155,
             "owner": "tensorflow",
             "repo": "lingvo",
-            "stars": 2864,
+            "stars": 2865,
             "topics": [
               "asr",
               "distributed",
@@ -4234,7 +4234,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T20:38:49.107Z",
+    "last_updated": "2026-10-14T19:20:07.916Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of papers and datasets about point cloud analysis (processing)",
