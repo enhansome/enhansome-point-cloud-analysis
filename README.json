@@ -133,7 +133,7 @@
             "open_issues": 0,
             "owner": "LiangliangNan",
             "repo": "PolyFit",
-            "stars": 836,
+            "stars": 835,
             "topics": [
               "hypothesis-and-selection",
               "linear-integer-programming",
@@ -426,7 +426,7 @@
             "open_issues": 40,
             "owner": "RobustFieldAutonomyLab",
             "repo": "LeGO-LOAM",
-            "stars": 2757,
+            "stars": 2756,
             "topics": [
               "gtsam",
               "ieee",
@@ -1507,7 +1507,7 @@
             "id": 142219189,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-10T07:10:17Z",
+            "last_commit": "2026-10-15T10:40:12Z",
             "open_issues": 155,
             "owner": "tensorflow",
             "repo": "lingvo",
@@ -4234,7 +4234,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T19:20:07.916Z",
+    "last_updated": "2026-10-15T19:05:34.556Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of papers and datasets about point cloud analysis (processing)",
@@ -4246,7 +4246,7 @@
       "open_issues": 3,
       "owner": "Yochengliu",
       "repo": "awesome-point-cloud-analysis",
-      "stars": 4226,
+      "stars": 4227,
       "topics": [
         "3d-graphics",
         "3d-reconstruction",
