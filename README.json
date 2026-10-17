@@ -74,7 +74,7 @@
             "open_issues": 183,
             "owner": "charlesq34",
             "repo": "pointnet2",
-            "stars": 3714,
+            "stars": 3715,
             "topics": [
               "3d-shape",
               "classification",
@@ -1893,7 +1893,7 @@
             "open_issues": 14,
             "owner": "hmgoforth",
             "repo": "PointNetLK",
-            "stars": 493,
+            "stars": 494,
             "topics": []
           },
           "first_seen": "2026-08-29T00:00:20.524Z"
@@ -1914,7 +1914,7 @@
             "open_issues": 14,
             "owner": "hmgoforth",
             "repo": "PointNetLK",
-            "stars": 493,
+            "stars": 494,
             "topics": []
           },
           "first_seen": "2026-08-29T00:00:20.524Z"
@@ -4234,7 +4234,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T18:46:56.268Z",
+    "last_updated": "2026-10-17T17:51:30.132Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of papers and datasets about point cloud analysis (processing)",
