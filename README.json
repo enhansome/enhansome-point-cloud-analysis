@@ -1106,7 +1106,7 @@
             "open_issues": 3,
             "owner": "yulequan",
             "repo": "EC-Net",
-            "stars": 104,
+            "stars": 105,
             "topics": [
               "3d-shape",
               "point-cloud",
@@ -1507,7 +1507,7 @@
             "id": 142219189,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-15T10:40:12Z",
+            "last_commit": "2026-10-19T06:46:09Z",
             "open_issues": 155,
             "owner": "tensorflow",
             "repo": "lingvo",
@@ -1550,7 +1550,7 @@
             "open_issues": 29,
             "owner": "WangYueFt",
             "repo": "dgcnn",
-            "stars": 1851,
+            "stars": 1852,
             "topics": []
           },
           "first_seen": "2026-08-29T00:00:20.524Z"
@@ -4234,7 +4234,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T18:03:56.654Z",
+    "last_updated": "2026-10-19T20:33:53.627Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of papers and datasets about point cloud analysis (processing)",
@@ -4246,7 +4246,7 @@
       "open_issues": 3,
       "owner": "Yochengliu",
       "repo": "awesome-point-cloud-analysis",
-      "stars": 4228,
+      "stars": 4230,
       "topics": [
         "3d-graphics",
         "3d-reconstruction",

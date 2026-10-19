@@ -95,7 +95,7 @@ Statistics: :fire: code is available & stars >= 100  |  :star: citation >= 5
 * \[[CVPR](http://openaccess.thecvf.com/content_cvpr_2018/papers/Huang_Recurrent_Slice_Networks_CVPR_2018_paper.pdf)] Recurrent Slice Networks for 3D Segmentation of Point Clouds. \[[pytorch](https://github.com/qianguih/RSNet) ⚠️ Archived] \[**`seg.`**]
 * \[[ACCV](https://arxiv.org/abs/1803.07289)] Flex-Convolution (Million-Scale Point-Cloud Learning Beyond Grid-Worlds). \[[tensorflow](https://github.com/cgtuebingen/Flex-Convolution) ⭐ 119 | 🐛 3 | 🌐 C++ | 📅 2019-06-16] \[**`seg.`**]
 * \[[IROS](https://arxiv.org/abs/1711.08241)] \[[Tensorflow](https://github.com/sitzikbs/3DmFV-Net) ⭐ 111 | 🐛 2 | 🌐 Python | 📅 2019-09-27]3DmFV: Point Cloud Classification and segmentation for unstructured 3D point clouds. \[**`cls.`** ]
-* \[[ECCV](http://openaccess.thecvf.com/content_ECCV_2018/papers/Lequan_Yu_EC-Net_an_Edge-aware_ECCV_2018_paper.pdf)] EC-Net: an Edge-aware Point set Consolidation Network. \[[tensorflow](https://github.com/yulequan/EC-Net) ⭐ 104 | 🐛 3 | 🌐 Python | 📅 2022-04-07] \[**`oth.`**]
+* \[[ECCV](http://openaccess.thecvf.com/content_ECCV_2018/papers/Lequan_Yu_EC-Net_an_Edge-aware_ECCV_2018_paper.pdf)] EC-Net: an Edge-aware Point set Consolidation Network. \[[tensorflow](https://github.com/yulequan/EC-Net) ⭐ 105 | 🐛 3 | 🌐 Python | 📅 2022-04-07] \[**`oth.`**]
 * \[[CVPR](http://openaccess.thecvf.com/content_cvpr_2018/papers/Yang_PIXOR_Real-Time_3D_CVPR_2018_paper.pdf)] PIXOR: Real-time 3D Object Detection from Point Clouds. \[[pytorch](https://github.com/ankita-kalra/PIXOR) ⭐ 95 | 🐛 0 | 🌐 Python | 📅 2020-12-09] \[**`det.`** **`aut.`**]
 * \[[SIGGRAPH Asia](https://arxiv.org/abs/1806.01759)] Monte Carlo Convolution for Learning on Non-Uniformly Sampled Point Clouds. \[[tensorflow](https://github.com/viscom-ulm/MCCNN) ⭐ 92 | 🐛 1 | 🌐 Python | 📅 2019-11-09] \[**`cls.`** **`seg.`** **`oth.`**]
 * \[[ECCV](http://openaccess.thecvf.com/content_ECCV_2018/papers/Dario_Rethage_Fully-Convolutional_Point_Networks_ECCV_2018_paper.pdf)] Fully-Convolutional Point Networks for Large-Scale Point Clouds. \[[tensorflow](https://github.com/drethage/fully-convolutional-point-network) ⭐ 86 | 🐛 3 | 🌐 Python | 📅 2019-03-22] \[**`seg.`** **`oth.`**]
@@ -204,8 +204,8 @@ Statistics: :fire: code is available & stars >= 100  |  :star: citation >= 5
 ## 2019
 
 * \[[CVPR](http://export.arxiv.org/abs/1904.08755)] 4D Spatio-Temporal ConvNets: Minkowski Convolutional Neural Networks. \[[pytorch](https://github.com/StanfordVL/MinkowskiEngine) ⭐ 2,967 | 🐛 236 | 🌐 Python | 📅 2024-03-05] \[**`seg.`**] :fire:
-* \[[arXiv](https://arxiv.org/pdf/1908.11069v1.pdf)] StarNet: Targeted Computation for Object Detection in Point Clouds. \[[tensorflow](https://github.com/tensorflow/lingvo) ⭐ 2,866 | 🐛 155 | 🌐 Python | 📅 2026-10-15] \[**`det.`**]
-* \[[TOG](https://arxiv.org/abs/1801.07829)] Dynamic Graph CNN for Learning on Point Clouds. \[[tensorflow](https://github.com/WangYueFt/dgcnn) ⭐ 1,851 | 🐛 29 | 🌐 Python | 📅 2022-05-20]\[[pytorch](https://github.com/WangYueFt/dgcnn) ⭐ 1,851 | 🐛 29 | 🌐 Python | 📅 2022-05-20] \[**`cls.`** **`seg.`**] :fire: :star:
+* \[[arXiv](https://arxiv.org/pdf/1908.11069v1.pdf)] StarNet: Targeted Computation for Object Detection in Point Clouds. \[[tensorflow](https://github.com/tensorflow/lingvo) ⭐ 2,866 | 🐛 155 | 🌐 Python | 📅 2026-10-19] \[**`det.`**]
+* \[[TOG](https://arxiv.org/abs/1801.07829)] Dynamic Graph CNN for Learning on Point Clouds. \[[tensorflow](https://github.com/WangYueFt/dgcnn) ⭐ 1,852 | 🐛 29 | 🌐 Python | 📅 2022-05-20]\[[pytorch](https://github.com/WangYueFt/dgcnn) ⭐ 1,852 | 🐛 29 | 🌐 Python | 📅 2022-05-20] \[**`cls.`** **`seg.`**] :fire: :star:
 * \[[CVPR](https://arxiv.org/abs/1812.04244)] PointRCNN: 3D Object Proposal Generation and Detection from Point Cloud. \[[pytorch](https://github.com/sshaoshuai/PointRCNN) ⭐ 1,821 | 🐛 144 | 🌐 Python | 📅 2022-09-01] \[**`det.`** **`aut.`**] :fire:
 * \[[ICCV](https://arxiv.org/abs/1904.09664v1)] Deep Hough Voting for 3D Object Detection in Point Clouds. \[[pytorch](https://github.com/facebookresearch/votenet) ⚠️ Archived] \[[tensorflow](https://github.com/qq456cvb/VoteNet) ⭐ 142 | 🐛 3 | 🌐 Python | 📅 2026-06-13] \[**`det.`**] :fire:
 * \[[arvix](https://arxiv.org/abs/1912.12033)] Deep Learning for 3D Point Clouds: A Survey. \[[code](https://github.com/QingyongHu/SoTA-Point-Cloud) ⭐ 1,638 | 🐛 4 | 📅 2021-06-08] \[**`cls.`** **`det.`** **`tra.`** **`seg.`**]
@@ -524,4 +524,4 @@ Statistics: :fire: code is available & stars >= 100  |  :star: citation >= 5
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-19._
