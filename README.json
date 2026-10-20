@@ -74,7 +74,7 @@
             "open_issues": 183,
             "owner": "charlesq34",
             "repo": "pointnet2",
-            "stars": 3715,
+            "stars": 3714,
             "topics": [
               "3d-shape",
               "classification",
@@ -426,7 +426,7 @@
             "open_issues": 40,
             "owner": "RobustFieldAutonomyLab",
             "repo": "LeGO-LOAM",
-            "stars": 2758,
+            "stars": 2757,
             "topics": [
               "gtsam",
               "ieee",
@@ -671,7 +671,7 @@
             "open_issues": 39,
             "owner": "tsinghua-rll",
             "repo": "VoxelNet-tensorflow",
-            "stars": 467,
+            "stars": 468,
             "topics": [
               "detection",
               "tensorflow",
@@ -1592,7 +1592,7 @@
             "open_issues": 88,
             "owner": "facebookresearch",
             "repo": "votenet",
-            "stars": 1762,
+            "stars": 1761,
             "topics": [
               "3d",
               "deep-learning",
@@ -1620,7 +1620,7 @@
             "open_issues": 4,
             "owner": "QingyongHu",
             "repo": "SoTA-Point-Cloud",
-            "stars": 1638,
+            "stars": 1633,
             "topics": [
               "3d-classification",
               "3d-deep-learning",
@@ -1671,7 +1671,7 @@
             "open_issues": 30,
             "owner": "mileyan",
             "repo": "pseudo_lidar",
-            "stars": 1006,
+            "stars": 1007,
             "topics": []
           },
           "first_seen": "2026-08-29T00:00:20.524Z"
@@ -1720,7 +1720,7 @@
             "open_issues": 4,
             "owner": "iMoonLab",
             "repo": "HGNN",
-            "stars": 860,
+            "stars": 861,
             "topics": [
               "complex-data",
               "deep-learning",
@@ -2038,7 +2038,7 @@
             "open_issues": 21,
             "owner": "lianghongzhuo",
             "repo": "PointNetGPD",
-            "stars": 401,
+            "stars": 400,
             "topics": []
           },
           "first_seen": "2026-08-29T00:00:20.524Z"
@@ -3669,7 +3669,7 @@
             "open_issues": 14,
             "owner": "zgojcic",
             "repo": "3D_multiview_reg",
-            "stars": 404,
+            "stars": 405,
             "topics": []
           },
           "first_seen": "2026-08-29T00:00:20.524Z"
@@ -4137,7 +4137,7 @@
             "open_issues": 58,
             "owner": "niessner",
             "repo": "Matterport",
-            "stars": 1261,
+            "stars": 1264,
             "topics": [
               "3d-reconstruction",
               "semantic-scene-understanding"
@@ -4234,7 +4234,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T20:33:53.627Z",
+    "last_updated": "2026-10-20T19:12:05.080Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of papers and datasets about point cloud analysis (processing)",
@@ -4246,7 +4246,7 @@
       "open_issues": 3,
       "owner": "Yochengliu",
       "repo": "awesome-point-cloud-analysis",
-      "stars": 4230,
+      "stars": 4231,
       "topics": [
         "3d-graphics",
         "3d-reconstruction",
