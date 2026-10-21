@@ -74,7 +74,7 @@
             "open_issues": 183,
             "owner": "charlesq34",
             "repo": "pointnet2",
-            "stars": 3714,
+            "stars": 3715,
             "topics": [
               "3d-shape",
               "classification",
@@ -426,7 +426,7 @@
             "open_issues": 40,
             "owner": "RobustFieldAutonomyLab",
             "repo": "LeGO-LOAM",
-            "stars": 2757,
+            "stars": 2759,
             "topics": [
               "gtsam",
               "ieee",
@@ -1469,7 +1469,7 @@
             "open_issues": 236,
             "owner": "NVIDIA",
             "repo": "MinkowskiEngine",
-            "stars": 2967,
+            "stars": 2968,
             "topics": [
               "3d-convolutional-network",
               "3d-vision",
@@ -1511,7 +1511,7 @@
             "open_issues": 155,
             "owner": "tensorflow",
             "repo": "lingvo",
-            "stars": 2866,
+            "stars": 2867,
             "topics": [
               "asr",
               "distributed",
@@ -1747,7 +1747,7 @@
             "open_issues": 36,
             "owner": "HuguesTHOMAS",
             "repo": "KPConv",
-            "stars": 789,
+            "stars": 790,
             "topics": []
           },
           "first_seen": "2026-08-29T00:00:20.524Z"
@@ -2292,7 +2292,7 @@
             "open_issues": 0,
             "owner": "sergeyprokudin",
             "repo": "bps",
-            "stars": 203,
+            "stars": 204,
             "topics": []
           },
           "first_seen": "2026-08-29T00:00:20.524Z"
@@ -4137,7 +4137,7 @@
             "open_issues": 58,
             "owner": "niessner",
             "repo": "Matterport",
-            "stars": 1264,
+            "stars": 1265,
             "topics": [
               "3d-reconstruction",
               "semantic-scene-understanding"
@@ -4234,7 +4234,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T19:12:05.080Z",
+    "last_updated": "2026-10-21T19:16:55.606Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of papers and datasets about point cloud analysis (processing)",
