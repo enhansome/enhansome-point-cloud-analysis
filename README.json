@@ -46,7 +46,7 @@
             "open_issues": 186,
             "owner": "charlesq34",
             "repo": "pointnet",
-            "stars": 5486,
+            "stars": 5487,
             "topics": [
               "classification",
               "geometry-processing",
@@ -101,7 +101,7 @@
             "open_issues": 23,
             "owner": "andyzeng",
             "repo": "3dmatch-toolbox",
-            "stars": 907,
+            "stars": 908,
             "topics": [
               "3d",
               "3d-deep-learning",
@@ -426,7 +426,7 @@
             "open_issues": 40,
             "owner": "RobustFieldAutonomyLab",
             "repo": "LeGO-LOAM",
-            "stars": 2759,
+            "stars": 2760,
             "topics": [
               "gtsam",
               "ieee",
@@ -1469,7 +1469,7 @@
             "open_issues": 236,
             "owner": "NVIDIA",
             "repo": "MinkowskiEngine",
-            "stars": 2968,
+            "stars": 2969,
             "topics": [
               "3d-convolutional-network",
               "3d-vision",
@@ -1507,7 +1507,7 @@
             "id": 142219189,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-19T06:46:09Z",
+            "last_commit": "2026-10-22T14:26:53Z",
             "open_issues": 155,
             "owner": "tensorflow",
             "repo": "lingvo",
@@ -1825,7 +1825,7 @@
             "open_issues": 5,
             "owner": "zgojcic",
             "repo": "3DSmoothNet",
-            "stars": 516,
+            "stars": 517,
             "topics": []
           },
           "first_seen": "2026-08-29T00:00:20.524Z"
@@ -2181,7 +2181,7 @@
             "open_issues": 40,
             "owner": "JiaxiongQ",
             "repo": "DeepLiDAR",
-            "stars": 260,
+            "stars": 261,
             "topics": []
           },
           "first_seen": "2026-08-29T00:00:20.524Z"
@@ -2202,7 +2202,7 @@
             "open_issues": 13,
             "owner": "hkust-vgd",
             "repo": "scanobjectnn",
-            "stars": 255,
+            "stars": 254,
             "topics": []
           },
           "first_seen": "2026-08-29T00:00:20.524Z"
@@ -2334,7 +2334,7 @@
             "open_issues": 13,
             "owner": "lingxiaoli94",
             "repo": "SPFN",
-            "stars": 184,
+            "stars": 185,
             "topics": []
           },
           "first_seen": "2026-08-29T00:00:20.524Z"
@@ -2625,6 +2625,27 @@
         {
           "node_type": "item",
           "title": "[CVPR",
+          "description": "] PartNet: A Recursive Part Decomposition Network for Fine-grained and Hierarchical Shape Segmentation. [pytorch] [ ]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Code for PartNet: A Recursive Part Decomposition Network for Fine-grained and Hierarchical Shape Segmentation",
+            "homepage": null,
+            "id": 181693367,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2023-08-14T23:20:16Z",
+            "open_issues": 3,
+            "owner": "FENGGENYU",
+            "repo": "CVPR2019_PartNet",
+            "stars": 116,
+            "topics": []
+          },
+          "first_seen": "2026-08-29T00:00:20.524Z"
+        },
+        {
+          "node_type": "item",
+          "title": "[CVPR",
           "description": "] SDRSAC: Semidefinite-Based Randomized Approach for Robust Point Cloud Registration without Correspondences. [matlab] []",
           "children": [],
           "repo_info": {
@@ -2639,27 +2660,6 @@
             "owner": "intellhave",
             "repo": "SDRSAC",
             "stars": 116,
-            "topics": []
-          },
-          "first_seen": "2026-08-29T00:00:20.524Z"
-        },
-        {
-          "node_type": "item",
-          "title": "[CVPR",
-          "description": "] PartNet: A Recursive Part Decomposition Network for Fine-grained and Hierarchical Shape Segmentation. [pytorch] [ ]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Code for PartNet: A Recursive Part Decomposition Network for Fine-grained and Hierarchical Shape Segmentation",
-            "homepage": null,
-            "id": 181693367,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2023-08-14T23:20:16Z",
-            "open_issues": 3,
-            "owner": "FENGGENYU",
-            "repo": "CVPR2019_PartNet",
-            "stars": 115,
             "topics": []
           },
           "first_seen": "2026-08-29T00:00:20.524Z"
@@ -4234,7 +4234,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T19:16:55.606Z",
+    "last_updated": "2026-10-22T19:12:03.182Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of papers and datasets about point cloud analysis (processing)",
