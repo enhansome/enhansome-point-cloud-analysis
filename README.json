@@ -74,7 +74,7 @@
             "open_issues": 183,
             "owner": "charlesq34",
             "repo": "pointnet2",
-            "stars": 3715,
+            "stars": 3717,
             "topics": [
               "3d-shape",
               "classification",
@@ -101,7 +101,7 @@
             "open_issues": 23,
             "owner": "andyzeng",
             "repo": "3dmatch-toolbox",
-            "stars": 908,
+            "stars": 909,
             "topics": [
               "3d",
               "3d-deep-learning",
@@ -426,7 +426,7 @@
             "open_issues": 40,
             "owner": "RobustFieldAutonomyLab",
             "repo": "LeGO-LOAM",
-            "stars": 2760,
+            "stars": 2761,
             "topics": [
               "gtsam",
               "ieee",
@@ -738,7 +738,7 @@
             "open_issues": 8,
             "owner": "mikacuy",
             "repo": "pointnetvlad",
-            "stars": 402,
+            "stars": 403,
             "topics": [
               "computer-vision",
               "deep-learning",
@@ -1469,7 +1469,7 @@
             "open_issues": 236,
             "owner": "NVIDIA",
             "repo": "MinkowskiEngine",
-            "stars": 2969,
+            "stars": 2970,
             "topics": [
               "3d-convolutional-network",
               "3d-vision",
@@ -1720,7 +1720,7 @@
             "open_issues": 4,
             "owner": "iMoonLab",
             "repo": "HGNN",
-            "stars": 861,
+            "stars": 862,
             "topics": [
               "complex-data",
               "deep-learning",
@@ -1768,7 +1768,7 @@
             "open_issues": 35,
             "owner": "chrischoy",
             "repo": "FCGF",
-            "stars": 736,
+            "stars": 737,
             "topics": [
               "3d",
               "correspondence",
@@ -2177,7 +2177,7 @@
             "id": 174061283,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2020-03-23T18:02:08Z",
+            "last_commit": "2026-10-23T02:08:26Z",
             "open_issues": 40,
             "owner": "JiaxiongQ",
             "repo": "DeepLiDAR",
@@ -3609,7 +3609,7 @@
             "open_issues": 192,
             "owner": "QingyongHu",
             "repo": "RandLA-Net",
-            "stars": 1565,
+            "stars": 1566,
             "topics": [
               "3d-vision",
               "computer-vision",
@@ -4234,7 +4234,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T19:12:03.182Z",
+    "last_updated": "2026-10-23T19:09:53.635Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of papers and datasets about point cloud analysis (processing)",
