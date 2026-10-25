@@ -46,7 +46,7 @@
             "open_issues": 186,
             "owner": "charlesq34",
             "repo": "pointnet",
-            "stars": 5487,
+            "stars": 5488,
             "topics": [
               "classification",
               "geometry-processing",
@@ -74,7 +74,7 @@
             "open_issues": 183,
             "owner": "charlesq34",
             "repo": "pointnet2",
-            "stars": 3717,
+            "stars": 3718,
             "topics": [
               "3d-shape",
               "classification",
@@ -426,7 +426,7 @@
             "open_issues": 40,
             "owner": "RobustFieldAutonomyLab",
             "repo": "LeGO-LOAM",
-            "stars": 2762,
+            "stars": 2763,
             "topics": [
               "gtsam",
               "ieee",
@@ -507,7 +507,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2020-03-24T20:42:38Z",
-            "open_issues": 91,
+            "open_issues": 92,
             "owner": "charlesq34",
             "repo": "frustum-pointnets",
             "stars": 1672,
@@ -1106,7 +1106,7 @@
             "open_issues": 3,
             "owner": "yulequan",
             "repo": "EC-Net",
-            "stars": 105,
+            "stars": 106,
             "topics": [
               "3d-shape",
               "point-cloud",
@@ -1720,7 +1720,7 @@
             "open_issues": 4,
             "owner": "iMoonLab",
             "repo": "HGNN",
-            "stars": 862,
+            "stars": 863,
             "topics": [
               "complex-data",
               "deep-learning",
@@ -2059,7 +2059,7 @@
             "open_issues": 55,
             "owner": "Yang7879",
             "repo": "3D-BoNet",
-            "stars": 397,
+            "stars": 398,
             "topics": [
               "3d-object-detection",
               "3d-point-clouds",
@@ -2086,7 +2086,7 @@
             "open_issues": 55,
             "owner": "Yang7879",
             "repo": "3D-BoNet",
-            "stars": 397,
+            "stars": 398,
             "topics": [
               "3d-object-detection",
               "3d-point-clouds",
@@ -4234,7 +4234,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T18:05:45.959Z",
+    "last_updated": "2026-10-25T18:23:19.135Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of papers and datasets about point cloud analysis (processing)",
