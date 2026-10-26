@@ -18,7 +18,7 @@
             "open_issues": 5,
             "owner": "NUAAXQ",
             "repo": "awesome-point-cloud-analysis-2023",
-            "stars": 1585,
+            "stars": 1584,
             "topics": []
           },
           "title": "For more recent papers, please visit awesome-point-cloud-analysis-2020",
@@ -426,7 +426,7 @@
             "open_issues": 40,
             "owner": "RobustFieldAutonomyLab",
             "repo": "LeGO-LOAM",
-            "stars": 2763,
+            "stars": 2764,
             "topics": [
               "gtsam",
               "ieee",
@@ -484,7 +484,7 @@
             "open_issues": 300,
             "owner": "traveller59",
             "repo": "second.pytorch",
-            "stars": 1777,
+            "stars": 1778,
             "topics": [
               "kitti",
               "nuscenes",
@@ -1469,7 +1469,7 @@
             "open_issues": 236,
             "owner": "NVIDIA",
             "repo": "MinkowskiEngine",
-            "stars": 2970,
+            "stars": 2971,
             "topics": [
               "3d-convolutional-network",
               "3d-vision",
@@ -1571,7 +1571,7 @@
             "open_issues": 144,
             "owner": "sshaoshuai",
             "repo": "PointRCNN",
-            "stars": 1821,
+            "stars": 1822,
             "topics": []
           },
           "first_seen": "2026-08-29T00:00:20.524Z"
@@ -1620,7 +1620,7 @@
             "open_issues": 4,
             "owner": "QingyongHu",
             "repo": "SoTA-Point-Cloud",
-            "stars": 1633,
+            "stars": 1631,
             "topics": [
               "3d-classification",
               "3d-deep-learning",
@@ -1650,7 +1650,7 @@
             "open_issues": 1,
             "owner": "nutonomy",
             "repo": "second.pytorch",
-            "stars": 1023,
+            "stars": 1024,
             "topics": []
           },
           "first_seen": "2026-08-29T00:00:20.524Z"
@@ -1671,7 +1671,7 @@
             "open_issues": 30,
             "owner": "mileyan",
             "repo": "pseudo_lidar",
-            "stars": 1007,
+            "stars": 1008,
             "topics": []
           },
           "first_seen": "2026-08-29T00:00:20.524Z"
@@ -1720,7 +1720,7 @@
             "open_issues": 4,
             "owner": "iMoonLab",
             "repo": "HGNN",
-            "stars": 863,
+            "stars": 864,
             "topics": [
               "complex-data",
               "deep-learning",
@@ -1846,7 +1846,7 @@
             "open_issues": 19,
             "owner": "callmeray",
             "repo": "PointMVSNet",
-            "stars": 505,
+            "stars": 506,
             "topics": [
               "point-cloud",
               "stereo-network"
@@ -4234,7 +4234,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T18:23:19.135Z",
+    "last_updated": "2026-10-26T20:27:09.459Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of papers and datasets about point cloud analysis (processing)",
