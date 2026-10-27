@@ -46,7 +46,7 @@
             "open_issues": 186,
             "owner": "charlesq34",
             "repo": "pointnet",
-            "stars": 5488,
+            "stars": 5490,
             "topics": [
               "classification",
               "geometry-processing",
@@ -74,7 +74,7 @@
             "open_issues": 183,
             "owner": "charlesq34",
             "repo": "pointnet2",
-            "stars": 3718,
+            "stars": 3719,
             "topics": [
               "3d-shape",
               "classification",
@@ -426,7 +426,7 @@
             "open_issues": 40,
             "owner": "RobustFieldAutonomyLab",
             "repo": "LeGO-LOAM",
-            "stars": 2764,
+            "stars": 2765,
             "topics": [
               "gtsam",
               "ieee",
@@ -1507,11 +1507,11 @@
             "id": 142219189,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-24T18:04:13Z",
+            "last_commit": "2026-10-27T10:01:09Z",
             "open_issues": 155,
             "owner": "tensorflow",
             "repo": "lingvo",
-            "stars": 2867,
+            "stars": 2868,
             "topics": [
               "asr",
               "distributed",
@@ -1547,7 +1547,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2022-05-20T07:11:52Z",
-            "open_issues": 29,
+            "open_issues": 30,
             "owner": "WangYueFt",
             "repo": "dgcnn",
             "stars": 1852,
@@ -2006,7 +2006,7 @@
             "open_issues": 20,
             "owner": "Yochengliu",
             "repo": "Relation-Shape-CNN",
-            "stars": 423,
+            "stars": 422,
             "topics": [
               "3d-convolutional-network",
               "3d-graphics",
@@ -4234,7 +4234,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T20:27:09.459Z",
+    "last_updated": "2026-10-27T20:02:42.348Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of papers and datasets about point cloud analysis (processing)",
