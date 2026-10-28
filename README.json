@@ -46,7 +46,7 @@
             "open_issues": 186,
             "owner": "charlesq34",
             "repo": "pointnet",
-            "stars": 5490,
+            "stars": 5492,
             "topics": [
               "classification",
               "geometry-processing",
@@ -74,7 +74,7 @@
             "open_issues": 183,
             "owner": "charlesq34",
             "repo": "pointnet2",
-            "stars": 3719,
+            "stars": 3720,
             "topics": [
               "3d-shape",
               "classification",
@@ -426,7 +426,7 @@
             "open_issues": 40,
             "owner": "RobustFieldAutonomyLab",
             "repo": "LeGO-LOAM",
-            "stars": 2765,
+            "stars": 2766,
             "topics": [
               "gtsam",
               "ieee",
@@ -510,7 +510,7 @@
             "open_issues": 92,
             "owner": "charlesq34",
             "repo": "frustum-pointnets",
-            "stars": 1672,
+            "stars": 1671,
             "topics": [
               "3d",
               "deep-learning",
@@ -537,7 +537,7 @@
             "open_issues": 60,
             "owner": "yangyanli",
             "repo": "PointCNN",
-            "stars": 1435,
+            "stars": 1436,
             "topics": [
               "autonomous-driving",
               "classification",
@@ -1469,7 +1469,7 @@
             "open_issues": 236,
             "owner": "NVIDIA",
             "repo": "MinkowskiEngine",
-            "stars": 2971,
+            "stars": 2972,
             "topics": [
               "3d-convolutional-network",
               "3d-vision",
@@ -1671,7 +1671,7 @@
             "open_issues": 30,
             "owner": "mileyan",
             "repo": "pseudo_lidar",
-            "stars": 1008,
+            "stars": 1007,
             "topics": []
           },
           "first_seen": "2026-08-29T00:00:20.524Z"
@@ -4137,7 +4137,7 @@
             "open_issues": 58,
             "owner": "niessner",
             "repo": "Matterport",
-            "stars": 1265,
+            "stars": 1266,
             "topics": [
               "3d-reconstruction",
               "semantic-scene-understanding"
@@ -4234,7 +4234,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T20:02:42.348Z",
+    "last_updated": "2026-10-28T20:14:33.843Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of papers and datasets about point cloud analysis (processing)",
