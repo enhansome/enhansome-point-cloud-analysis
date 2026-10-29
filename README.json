@@ -46,7 +46,7 @@
             "open_issues": 186,
             "owner": "charlesq34",
             "repo": "pointnet",
-            "stars": 5492,
+            "stars": 5493,
             "topics": [
               "classification",
               "geometry-processing",
@@ -74,7 +74,7 @@
             "open_issues": 183,
             "owner": "charlesq34",
             "repo": "pointnet2",
-            "stars": 3720,
+            "stars": 3721,
             "topics": [
               "3d-shape",
               "classification",
@@ -426,7 +426,7 @@
             "open_issues": 40,
             "owner": "RobustFieldAutonomyLab",
             "repo": "LeGO-LOAM",
-            "stars": 2766,
+            "stars": 2768,
             "topics": [
               "gtsam",
               "ieee",
@@ -510,7 +510,7 @@
             "open_issues": 92,
             "owner": "charlesq34",
             "repo": "frustum-pointnets",
-            "stars": 1671,
+            "stars": 1673,
             "topics": [
               "3d",
               "deep-learning",
@@ -1507,7 +1507,7 @@
             "id": 142219189,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-27T10:01:09Z",
+            "last_commit": "2026-10-29T06:43:07Z",
             "open_issues": 155,
             "owner": "tensorflow",
             "repo": "lingvo",
@@ -1747,7 +1747,7 @@
             "open_issues": 36,
             "owner": "HuguesTHOMAS",
             "repo": "KPConv",
-            "stars": 790,
+            "stars": 791,
             "topics": []
           },
           "first_seen": "2026-08-29T00:00:20.524Z"
@@ -4137,7 +4137,7 @@
             "open_issues": 58,
             "owner": "niessner",
             "repo": "Matterport",
-            "stars": 1266,
+            "stars": 1267,
             "topics": [
               "3d-reconstruction",
               "semantic-scene-understanding"
@@ -4234,7 +4234,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T20:14:33.843Z",
+    "last_updated": "2026-10-29T20:15:37.733Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of papers and datasets about point cloud analysis (processing)",
