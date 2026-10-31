@@ -46,7 +46,7 @@
             "open_issues": 186,
             "owner": "charlesq34",
             "repo": "pointnet",
-            "stars": 5493,
+            "stars": 5495,
             "topics": [
               "classification",
               "geometry-processing",
@@ -74,7 +74,7 @@
             "open_issues": 183,
             "owner": "charlesq34",
             "repo": "pointnet2",
-            "stars": 3722,
+            "stars": 3723,
             "topics": [
               "3d-shape",
               "classification",
@@ -163,7 +163,7 @@
             "open_issues": 11,
             "owner": "griegler",
             "repo": "octnet",
-            "stars": 504,
+            "stars": 503,
             "topics": [
               "3d",
               "deep-learning",
@@ -426,7 +426,7 @@
             "open_issues": 40,
             "owner": "RobustFieldAutonomyLab",
             "repo": "LeGO-LOAM",
-            "stars": 2768,
+            "stars": 2769,
             "topics": [
               "gtsam",
               "ieee",
@@ -510,7 +510,7 @@
             "open_issues": 92,
             "owner": "charlesq34",
             "repo": "frustum-pointnets",
-            "stars": 1673,
+            "stars": 1674,
             "topics": [
               "3d",
               "deep-learning",
@@ -738,7 +738,7 @@
             "open_issues": 8,
             "owner": "mikacuy",
             "repo": "pointnetvlad",
-            "stars": 403,
+            "stars": 404,
             "topics": [
               "computer-vision",
               "deep-learning",
@@ -1469,7 +1469,7 @@
             "open_issues": 236,
             "owner": "NVIDIA",
             "repo": "MinkowskiEngine",
-            "stars": 2973,
+            "stars": 2972,
             "topics": [
               "3d-convolutional-network",
               "3d-vision",
@@ -1550,7 +1550,7 @@
             "open_issues": 30,
             "owner": "WangYueFt",
             "repo": "dgcnn",
-            "stars": 1849,
+            "stars": 1850,
             "topics": []
           },
           "first_seen": "2026-08-29T00:00:20.524Z"
@@ -1592,7 +1592,7 @@
             "open_issues": 88,
             "owner": "facebookresearch",
             "repo": "votenet",
-            "stars": 1762,
+            "stars": 1763,
             "topics": [
               "3d",
               "deep-learning",
@@ -1620,7 +1620,7 @@
             "open_issues": 4,
             "owner": "QingyongHu",
             "repo": "SoTA-Point-Cloud",
-            "stars": 1631,
+            "stars": 1632,
             "topics": [
               "3d-classification",
               "3d-deep-learning",
@@ -4234,7 +4234,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T19:54:53.184Z",
+    "last_updated": "2026-10-31T19:15:28.121Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of papers and datasets about point cloud analysis (processing)",
