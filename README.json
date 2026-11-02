@@ -74,7 +74,7 @@
             "open_issues": 183,
             "owner": "charlesq34",
             "repo": "pointnet2",
-            "stars": 3723,
+            "stars": 3724,
             "topics": [
               "3d-shape",
               "classification",
@@ -133,7 +133,7 @@
             "open_issues": 0,
             "owner": "LiangliangNan",
             "repo": "PolyFit",
-            "stars": 836,
+            "stars": 835,
             "topics": [
               "hypothesis-and-selection",
               "linear-integer-programming",
@@ -3637,7 +3637,7 @@
             "open_issues": 12,
             "owner": "Colin97",
             "repo": "MSN-Point-Cloud-Completion",
-            "stars": 449,
+            "stars": 448,
             "topics": [
               "3d-reconstruction",
               "auction-algorithm",
@@ -4234,7 +4234,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T19:37:41.059Z",
+    "last_updated": "2026-11-02T23:05:40.835Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of papers and datasets about point cloud analysis (processing)",
