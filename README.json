@@ -74,7 +74,7 @@
             "open_issues": 183,
             "owner": "charlesq34",
             "repo": "pointnet2",
-            "stars": 3724,
+            "stars": 3722,
             "topics": [
               "3d-shape",
               "classification",
@@ -163,7 +163,7 @@
             "open_issues": 11,
             "owner": "griegler",
             "repo": "octnet",
-            "stars": 503,
+            "stars": 504,
             "topics": [
               "3d",
               "deep-learning",
@@ -764,7 +764,7 @@
             "open_issues": 22,
             "owner": "yulequan",
             "repo": "PU-Net",
-            "stars": 362,
+            "stars": 361,
             "topics": []
           },
           "first_seen": "2026-08-29T00:00:20.524Z"
@@ -1550,7 +1550,7 @@
             "open_issues": 30,
             "owner": "WangYueFt",
             "repo": "dgcnn",
-            "stars": 1851,
+            "stars": 1852,
             "topics": []
           },
           "first_seen": "2026-08-29T00:00:20.524Z"
@@ -1720,7 +1720,7 @@
             "open_issues": 4,
             "owner": "iMoonLab",
             "repo": "HGNN",
-            "stars": 864,
+            "stars": 863,
             "topics": [
               "complex-data",
               "deep-learning",
@@ -2202,7 +2202,7 @@
             "open_issues": 13,
             "owner": "hkust-vgd",
             "repo": "scanobjectnn",
-            "stars": 254,
+            "stars": 255,
             "topics": []
           },
           "first_seen": "2026-08-29T00:00:20.524Z"
@@ -4137,7 +4137,7 @@
             "open_issues": 58,
             "owner": "niessner",
             "repo": "Matterport",
-            "stars": 1268,
+            "stars": 1269,
             "topics": [
               "3d-reconstruction",
               "semantic-scene-understanding"
@@ -4234,7 +4234,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T20:57:31.776Z",
+    "last_updated": "2026-11-04T21:16:28.354Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of papers and datasets about point cloud analysis (processing)",
@@ -4246,7 +4246,7 @@
       "open_issues": 3,
       "owner": "Yochengliu",
       "repo": "awesome-point-cloud-analysis",
-      "stars": 4232,
+      "stars": 4231,
       "topics": [
         "3d-graphics",
         "3d-reconstruction",
