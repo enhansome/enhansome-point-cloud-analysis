@@ -46,7 +46,7 @@
             "open_issues": 186,
             "owner": "charlesq34",
             "repo": "pointnet",
-            "stars": 5496,
+            "stars": 5499,
             "topics": [
               "classification",
               "geometry-processing",
@@ -133,7 +133,7 @@
             "open_issues": 0,
             "owner": "LiangliangNan",
             "repo": "PolyFit",
-            "stars": 836,
+            "stars": 837,
             "topics": [
               "hypothesis-and-selection",
               "linear-integer-programming",
@@ -426,7 +426,7 @@
             "open_issues": 40,
             "owner": "RobustFieldAutonomyLab",
             "repo": "LeGO-LOAM",
-            "stars": 2769,
+            "stars": 2770,
             "topics": [
               "gtsam",
               "ieee",
@@ -510,7 +510,7 @@
             "open_issues": 92,
             "owner": "charlesq34",
             "repo": "frustum-pointnets",
-            "stars": 1674,
+            "stars": 1675,
             "topics": [
               "3d",
               "deep-learning",
@@ -1511,7 +1511,7 @@
             "open_issues": 155,
             "owner": "tensorflow",
             "repo": "lingvo",
-            "stars": 2868,
+            "stars": 2869,
             "topics": [
               "asr",
               "distributed",
@@ -2223,7 +2223,7 @@
             "open_issues": 21,
             "owner": "xuanyuzhou98",
             "repo": "SqueezeSegV2",
-            "stars": 244,
+            "stars": 245,
             "topics": [
               "autonomous-driving",
               "computer-vision",
@@ -3609,7 +3609,7 @@
             "open_issues": 192,
             "owner": "QingyongHu",
             "repo": "RandLA-Net",
-            "stars": 1568,
+            "stars": 1569,
             "topics": [
               "3d-vision",
               "computer-vision",
@@ -4234,7 +4234,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T21:27:23.537Z",
+    "last_updated": "2026-11-06T20:51:29.304Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of papers and datasets about point cloud analysis (processing)",
