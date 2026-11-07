@@ -3637,7 +3637,7 @@
             "open_issues": 12,
             "owner": "Colin97",
             "repo": "MSN-Point-Cloud-Completion",
-            "stars": 448,
+            "stars": 447,
             "topics": [
               "3d-reconstruction",
               "auction-algorithm",
@@ -4234,7 +4234,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T20:51:29.304Z",
+    "last_updated": "2026-11-07T19:23:48.096Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of papers and datasets about point cloud analysis (processing)",
