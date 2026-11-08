@@ -2408,7 +2408,7 @@
             "language": "Python",
             "license": null,
             "last_commit": "2020-02-16T09:48:00Z",
-            "open_issues": 6,
+            "open_issues": 7,
             "owner": "VCCIV",
             "repo": "BLVD",
             "stars": 174,
@@ -4158,7 +4158,7 @@
             "language": "Python",
             "license": null,
             "last_commit": "2020-02-16T09:48:00Z",
-            "open_issues": 6,
+            "open_issues": 7,
             "owner": "VCCIV",
             "repo": "BLVD",
             "stars": 174,
@@ -4234,7 +4234,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T19:23:48.096Z",
+    "last_updated": "2026-11-08T19:38:31.836Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of papers and datasets about point cloud analysis (processing)",

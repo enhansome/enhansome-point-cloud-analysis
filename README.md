@@ -241,7 +241,7 @@ Statistics: :fire: code is available & stars >= 100  |  :star: citation >= 5
 * \[[CVPR](https://arxiv.org/abs/1811.08988)] Supervised Fitting of Geometric Primitives to 3D Point Clouds. \[[tensorflow](https://github.com/csimstu2/SPFN) ⭐ 186 | 🐛 13 | 🌐 Python | 📅 2020-12-03] \[**`oth.`**]
 * \[[CVPR](https://arxiv.org/abs/1904.00699v1)] JSIS3D: Joint Semantic-Instance Segmentation of 3D Point Clouds with Multi-Task Pointwise Networks and Multi-Value Conditional Random Fields. \[[pytorch](https://github.com/pqhieu/JSIS3D) ⭐ 183 | 🐛 2 | 🌐 Python | 📅 2020-07-08] \[**`seg.`**]
 * \[[CVPR](http://openaccess.thecvf.com/content_CVPR_2019/papers/Dovrat_Learning_to_Sample_CVPR_2019_paper.pdf)] Learning to Sample. \[[tensorflow](https://github.com/orendv/learning_to_sample) ⭐ 182 | 🐛 0 | 🌐 Python | 📅 2024-05-05] \[**`cls.`** **`rec.`**]
-* \[[ICRA](https://arxiv.org/abs/1903.06405v1)] BLVD: Building A Large-scale 5D Semantics Benchmark for Autonomous Driving. \[[project](https://github.com/VCCIV/BLVD) ⭐ 174 | 🐛 6 | 🌐 Python | 📅 2020-02-16] \[**`dat.`** **`det.`** **`tra.`** **`aut.`** **`oth.`**]
+* \[[ICRA](https://arxiv.org/abs/1903.06405v1)] BLVD: Building A Large-scale 5D Semantics Benchmark for Autonomous Driving. \[[project](https://github.com/VCCIV/BLVD) ⭐ 174 | 🐛 7 | 🌐 Python | 📅 2020-02-16] \[**`dat.`** **`det.`** **`tra.`** **`aut.`** **`oth.`**]
 * \[[CVPR](https://arxiv.org/abs/1811.11286)] Patch-based Progressive 3D Point Set Upsampling. \[[tensorflow](https://github.com/yifita/3PU) ⭐ 172 | 🐛 7 | 🌐 C++ | 📅 2024-09-10] \[**`oth.`**]
 * \[[CVPR](https://arxiv.org/abs/1903.00343)] Octree guided CNN with Spherical Kernels for 3D Point Clouds. \[[extension](https://arxiv.org/pdf/1909.09287.pdf)] \[[code](https://github.com/hlei-ziyan/SPH3D-GCN) ⭐ 171 | 🐛 17 | 🌐 Python | 📅 2020-12-08] \[**`cls.`** **`seg.`**]
 * \[[ICCV](http://openaccess.thecvf.com/content_ICCV_2019/papers/Liu_MeteorNet_Deep_Learning_on_Dynamic_3D_Point_Cloud_Sequences_ICCV_2019_paper.pdf)] MeteorNet: Deep Learning on Dynamic 3D Point Cloud Sequences. \[[code](https://github.com/xingyul/meteornet) ⭐ 157 | 🐛 1 | 🌐 Python | 📅 2021-11-19] \[**`cls.`** **`seg.`** **`oth.`**]
@@ -480,7 +480,7 @@ Statistics: :fire: code is available & stars >= 100  |  :star: citation >= 5
 </h1>
 
 * \[[Matterport3D](https://niessner.github.io/Matterport/)] RGB-D: 10,800 panoramic views from 194,400 RGB-D images. Annotations: surface reconstructions, camera poses, and 2D and 3D semantic segmentations. Keypoint matching, view overlap prediction, normal prediction from color, semantic segmentation, and scene classification. \[[3DV 2017 paper](https://arxiv.org/abs/1709.06158)] \[[code](https://github.com/niessner/Matterport) ⭐ 1,269 | 🐛 58 | 🌐 C++ | 📅 2025-11-03] \[[blog](https://matterport.com/blog/2017/09/20/announcing-matterport3d-research-dataset/)]
-* \[[BLVD](https://github.com/VCCIV/BLVD) ⭐ 174 | 🐛 6 | 🌐 Python | 📅 2020-02-16] (a) 3D detection, (b) 4D tracking, (c) 5D interactive event recognition and (d) 5D intention prediction. \[[ICRA 2019 paper](https://arxiv.org/abs/1903.06405v1)] \[**`det.`** **`tra.`** **`aut.`** **`oth.`**]
+* \[[BLVD](https://github.com/VCCIV/BLVD) ⭐ 174 | 🐛 7 | 🌐 Python | 📅 2020-02-16] (a) 3D detection, (b) 4D tracking, (c) 5D interactive event recognition and (d) 5D intention prediction. \[[ICRA 2019 paper](https://arxiv.org/abs/1903.06405v1)] \[**`det.`** **`tra.`** **`aut.`** **`oth.`**]
 * \[[PointDA-10 Dataset](https://github.com/canqin001/PointDAN) ⭐ 135 | 🐛 5 | 🌐 Python | 📅 2021-01-24] Domain Adaptation for point clouds.
 * \[[A\*3D: An Autonomous Driving Dataset in Challeging Environments](https://github.com/I2RDL2/ASTAR-3D) ⭐ 123 | 🐛 6 | 📅 2020-10-19] A\*3D: An Autonomous Driving Dataset in Challeging Environments. \[**`det.`**]
 * \[[Campus3D](https://3d.dataset.site)] The Campus3D contains a photogrametry point cloud which has 931.7 million points, covering 1.58 km2 of 6 connected campus regions of NUS. The dataset are point-wisely annotated with a hierarchical structure of 24 semantic labels and contains 2,530 instances based on the labels. \[[MM 2020 paper](https://arxiv.org/pdf/2008.04968.pdf)]\[[code](https://github.com/shinke-li/Campus3D) ⭐ 51 | 🐛 3 | 🌐 Python | 📅 2026-09-24]\[ **`det.`** **`cls.`** **`seg.`**]
@@ -524,4 +524,4 @@ Statistics: :fire: code is available & stars >= 100  |  :star: citation >= 5
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-08._
