@@ -46,7 +46,7 @@
             "open_issues": 186,
             "owner": "charlesq34",
             "repo": "pointnet",
-            "stars": 5499,
+            "stars": 5501,
             "topics": [
               "classification",
               "geometry-processing",
@@ -232,7 +232,7 @@
             "open_issues": 1,
             "owner": "manzilzaheer",
             "repo": "DeepSets",
-            "stars": 322,
+            "stars": 323,
             "topics": []
           },
           "first_seen": "2026-08-29T00:00:20.524Z"
@@ -1469,7 +1469,7 @@
             "open_issues": 236,
             "owner": "NVIDIA",
             "repo": "MinkowskiEngine",
-            "stars": 2972,
+            "stars": 2974,
             "topics": [
               "3d-convolutional-network",
               "3d-vision",
@@ -1511,7 +1511,7 @@
             "open_issues": 155,
             "owner": "tensorflow",
             "repo": "lingvo",
-            "stars": 2869,
+            "stars": 2868,
             "topics": [
               "asr",
               "distributed",
@@ -1692,7 +1692,7 @@
             "open_issues": 8,
             "owner": "stevenygd",
             "repo": "PointFlow",
-            "stars": 867,
+            "stars": 866,
             "topics": [
               "3d-point-clouds",
               "computer-vision",
@@ -2202,7 +2202,7 @@
             "open_issues": 13,
             "owner": "hkust-vgd",
             "repo": "scanobjectnn",
-            "stars": 255,
+            "stars": 256,
             "topics": []
           },
           "first_seen": "2026-08-29T00:00:20.524Z"
@@ -4137,7 +4137,7 @@
             "open_issues": 58,
             "owner": "niessner",
             "repo": "Matterport",
-            "stars": 1269,
+            "stars": 1270,
             "topics": [
               "3d-reconstruction",
               "semantic-scene-understanding"
@@ -4234,7 +4234,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T19:38:31.836Z",
+    "last_updated": "2026-11-09T23:45:59.783Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of papers and datasets about point cloud analysis (processing)",
