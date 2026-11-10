@@ -133,7 +133,7 @@
             "open_issues": 0,
             "owner": "LiangliangNan",
             "repo": "PolyFit",
-            "stars": 837,
+            "stars": 838,
             "topics": [
               "hypothesis-and-selection",
               "linear-integer-programming",
@@ -163,7 +163,7 @@
             "open_issues": 11,
             "owner": "griegler",
             "repo": "octnet",
-            "stars": 504,
+            "stars": 505,
             "topics": [
               "3d",
               "deep-learning",
@@ -232,7 +232,7 @@
             "open_issues": 1,
             "owner": "manzilzaheer",
             "repo": "DeepSets",
-            "stars": 323,
+            "stars": 324,
             "topics": []
           },
           "first_seen": "2026-08-29T00:00:20.524Z"
@@ -1620,7 +1620,7 @@
             "open_issues": 4,
             "owner": "QingyongHu",
             "repo": "SoTA-Point-Cloud",
-            "stars": 1632,
+            "stars": 1631,
             "topics": [
               "3d-classification",
               "3d-deep-learning",
@@ -2543,7 +2543,7 @@
             "open_issues": 5,
             "owner": "canqin001",
             "repo": "PointDAN",
-            "stars": 135,
+            "stars": 136,
             "topics": []
           },
           "first_seen": "2026-08-29T00:00:20.524Z"
@@ -4182,7 +4182,7 @@
             "open_issues": 5,
             "owner": "canqin001",
             "repo": "PointDAN",
-            "stars": 135,
+            "stars": 136,
             "topics": []
           },
           "first_seen": "2026-08-29T00:00:20.524Z"
@@ -4234,7 +4234,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T23:45:59.783Z",
+    "last_updated": "2026-11-10T21:16:17.968Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of papers and datasets about point cloud analysis (processing)",
@@ -4246,7 +4246,7 @@
       "open_issues": 3,
       "owner": "Yochengliu",
       "repo": "awesome-point-cloud-analysis",
-      "stars": 4230,
+      "stars": 4231,
       "topics": [
         "3d-graphics",
         "3d-reconstruction",
