@@ -426,7 +426,7 @@
             "open_issues": 40,
             "owner": "RobustFieldAutonomyLab",
             "repo": "LeGO-LOAM",
-            "stars": 2770,
+            "stars": 2771,
             "topics": [
               "gtsam",
               "ieee",
@@ -1469,7 +1469,7 @@
             "open_issues": 236,
             "owner": "NVIDIA",
             "repo": "MinkowskiEngine",
-            "stars": 2974,
+            "stars": 2975,
             "topics": [
               "3d-convolutional-network",
               "3d-vision",
@@ -1985,7 +1985,7 @@
             "open_issues": 12,
             "owner": "daerduoCarey",
             "repo": "partnet_dataset",
-            "stars": 425,
+            "stars": 426,
             "topics": []
           },
           "first_seen": "2026-08-29T00:00:20.524Z"
@@ -3609,7 +3609,7 @@
             "open_issues": 192,
             "owner": "QingyongHu",
             "repo": "RandLA-Net",
-            "stars": 1569,
+            "stars": 1570,
             "topics": [
               "3d-vision",
               "computer-vision",
@@ -4234,7 +4234,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T21:16:17.968Z",
+    "last_updated": "2026-11-11T21:53:58.532Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of papers and datasets about point cloud analysis (processing)",
