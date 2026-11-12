@@ -1571,7 +1571,7 @@
             "open_issues": 144,
             "owner": "sshaoshuai",
             "repo": "PointRCNN",
-            "stars": 1822,
+            "stars": 1821,
             "topics": []
           },
           "first_seen": "2026-08-29T00:00:20.524Z"
@@ -3609,7 +3609,7 @@
             "open_issues": 192,
             "owner": "QingyongHu",
             "repo": "RandLA-Net",
-            "stars": 1570,
+            "stars": 1571,
             "topics": [
               "3d-vision",
               "computer-vision",
@@ -4234,7 +4234,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T21:53:58.532Z",
+    "last_updated": "2026-11-12T21:49:42.218Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of papers and datasets about point cloud analysis (processing)",
@@ -4246,7 +4246,7 @@
       "open_issues": 3,
       "owner": "Yochengliu",
       "repo": "awesome-point-cloud-analysis",
-      "stars": 4231,
+      "stars": 4232,
       "topics": [
         "3d-graphics",
         "3d-reconstruction",
