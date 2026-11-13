@@ -27,8 +27,8 @@ Statistics: :fire: code is available & stars >= 100  |  :star: citation >= 5
 
 ## 2017
 
-* \[[CVPR](http://openaccess.thecvf.com/content_cvpr_2017/papers/Qi_PointNet_Deep_Learning_CVPR_2017_paper.pdf)] PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation. \[[tensorflow](https://github.com/charlesq34/pointnet) ⭐ 5,501 | 🐛 186 | 🌐 Python | 📅 2023-11-30]\[[pytorch](https://github.com/fxia22/pointnet.pytorch) ⭐ 2,365 | 🐛 59 | 🌐 Python | 📅 2023-03-23] \[**`cls.`** **`seg.`** **`det.`**] :fire: :star:
-* \[[NeurIPS](https://papers.nips.cc/paper/7095-pointnet-deep-hierarchical-feature-learning-on-point-sets-in-a-metric-space)] PointNet++: Deep Hierarchical Feature Learning on Point Sets in a Metric Space. \[[tensorflow](https://github.com/charlesq34/pointnet2) ⭐ 3,722 | 🐛 183 | 🌐 Python | 📅 2022-08-26]\[[pytorch](https://github.com/erikwijmans/Pointnet2_PyTorch) ⭐ 1,814 | 🐛 71 | 🌐 Python | 📅 2026-05-18] \[**`cls.`** **`seg.`**] :fire: :star:
+* \[[CVPR](http://openaccess.thecvf.com/content_cvpr_2017/papers/Qi_PointNet_Deep_Learning_CVPR_2017_paper.pdf)] PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation. \[[tensorflow](https://github.com/charlesq34/pointnet) ⭐ 5,502 | 🐛 186 | 🌐 Python | 📅 2023-11-30]\[[pytorch](https://github.com/fxia22/pointnet.pytorch) ⭐ 2,365 | 🐛 59 | 🌐 Python | 📅 2023-03-23] \[**`cls.`** **`seg.`** **`det.`**] :fire: :star:
+* \[[NeurIPS](https://papers.nips.cc/paper/7095-pointnet-deep-hierarchical-feature-learning-on-point-sets-in-a-metric-space)] PointNet++: Deep Hierarchical Feature Learning on Point Sets in a Metric Space. \[[tensorflow](https://github.com/charlesq34/pointnet2) ⭐ 3,724 | 🐛 183 | 🌐 Python | 📅 2022-08-26]\[[pytorch](https://github.com/erikwijmans/Pointnet2_PyTorch) ⭐ 1,815 | 🐛 71 | 🌐 Python | 📅 2026-05-18] \[**`cls.`** **`seg.`**] :fire: :star:
 * \[[CVPR](http://openaccess.thecvf.com/content_cvpr_2017/papers/Zeng_3DMatch_Learning_Local_CVPR_2017_paper.pdf)] 3DMatch: Learning Local Geometric Descriptors from RGB-D Reconstructions. \[[code](https://github.com/andyzeng/3dmatch-toolbox) ⭐ 909 | 🐛 23 | 🌐 C++ | 📅 2025-10-14] \[**`dat.`** **`pos.`** **`reg.`** **`rec.`** **`oth.`**] :fire: :star:
 * \[[ICCV](http://openaccess.thecvf.com/content_ICCV_2017/papers/Nan_PolyFit_Polygonal_Surface_ICCV_2017_paper.pdf)] PolyFit: Polygonal Surface Reconstruction from Point Clouds. \[[code](https://github.com/LiangliangNan/PolyFit) ⭐ 838 | 🐛 0 | 🌐 C++ | 📅 2025-04-16] \[**`rec.`**] :fire:
 * \[[CVPR](http://openaccess.thecvf.com/content_cvpr_2017/papers/Riegler_OctNet_Learning_Deep_CVPR_2017_paper.pdf)] OctNet: Learning Deep 3D Representations at High Resolutions. \[[torch](https://github.com/griegler/octnet) ⭐ 505 | 🐛 11 | 🌐 C++ | 📅 2020-09-02] \[**`cls.`** **`seg.`** **`oth.`**] :fire: :star:
@@ -429,7 +429,7 @@ Statistics: :fire: code is available & stars >= 100  |  :star: citation >= 5
 
 ## 2020
 
-* \[[CVPR](https://arxiv.org/pdf/1911.11236.pdf)] RandLA-Net: Efficient Semantic Segmentation of Large-Scale Point Clouds. \[[tensorflow](https://github.com/QingyongHu/RandLA-Net) ⭐ 1,571 | 🐛 192 | 🌐 Python | 📅 2023-07-11] \[**`seg.`**]
+* \[[CVPR](https://arxiv.org/pdf/1911.11236.pdf)] RandLA-Net: Efficient Semantic Segmentation of Large-Scale Point Clouds. \[[tensorflow](https://github.com/QingyongHu/RandLA-Net) ⭐ 1,572 | 🐛 192 | 🌐 Python | 📅 2023-07-11] \[**`seg.`**]
 * \[[AAAI](https://arxiv.org/abs/1912.00280)] Morphing and Sampling Network for Dense Point Cloud Completion. \[[pytorch](https://github.com/Colin97/MSN-Point-Cloud-Completion) ⭐ 447 | 🐛 12 | 🌐 Python | 📅 2022-04-08] \[**`oth.`**]
 * \[[CVPR](https://arxiv.org/abs/2001.05119)] Learning multiview 3D point cloud registration. \[[code](https://github.com/zgojcic/3D_multiview_reg) ⭐ 405 | 🐛 14 | 🌐 Python | 📅 2020-07-22] \[**`reg.`**]
 * \[[CVPR](http://openaccess.thecvf.com/content_CVPR_2020/papers/Lang_SampleNet_Differentiable_Point_Cloud_Sampling_CVPR_2020_paper.pdf)] SampleNet: Differentiable Point Cloud Sampling. \[[code](https://github.com/itailang/SampleNet) ⭐ 391 | 🐛 0 | 🌐 Python | 📅 2023-06-25] \[**`cls.`** **`reg.`** **`rec.`** **`oth.`**]
@@ -440,7 +440,7 @@ Statistics: :fire: code is available & stars >= 100  |  :star: citation >= 5
 * \[[IROS](https://hal.inria.fr/hal-02927350/document)] GndNet: Fast Ground Plane Estimation and Point Cloud Segmentation for Autonomous Vehicles. \[[code](https://github.com/anshulpaigwar/GndNet) ⭐ 219 | 🐛 6 | 🌐 Python | 📅 2021-06-04] \[**`seg.`** **`aut.`**]
 * \[[CVPR](https://arxiv.org/abs/1912.00195)] SGAS: Sequential Greedy Architecture Search. \[[code](https://github.com/lightaime/sgas) ⭐ 162 | 🐛 2 | 🌐 Python | 📅 2021-06-05] \[**`cls.`** **`oth.`**]
 * \[[CVPR](https://arxiv.org/abs/2005.01014)] Feature-metric Registration: A Fast Semi-supervised Approach for Robust Point Cloud Registration without Correspondences. \[[code](https://github.com/XiaoshuiHuang/fmr) ⭐ 158 | 🐛 9 | 🌐 Python | 📅 2021-04-26] \[**`reg.`**]
-* \[[ECCV](https://arxiv.org/abs/2003.10826)] DeepFit: 3D Surface Fitting via Neural Network Weighted Least Squares. \[[code](https://github.com/sitzikbs/DeepFit) ⭐ 149 | 🐛 2 | 🌐 Python | 📅 2023-07-06] \[**`oth.`**]
+* \[[ECCV](https://arxiv.org/abs/2003.10826)] DeepFit: 3D Surface Fitting via Neural Network Weighted Least Squares. \[[code](https://github.com/sitzikbs/DeepFit) ⭐ 150 | 🐛 2 | 🌐 Python | 📅 2023-07-06] \[**`oth.`**]
 * \[[CVPR](https://arxiv.org/pdf/2004.05679.pdf)] MLCVNet: Multi-Level Context VoteNet for 3D Object Detection. \[[code](https://github.com/NUAAXQ/MLCVNet) ⭐ 122 | 🐛 9 | 🌐 Python | 📅 2021-11-18] \[**`det.`**]
 * \[[CVPR](https://arxiv.org/abs/1912.00497)] Just Go with the Flow: Self-Supervised Scene Flow Estimation. \[[code](https://github.com/HimangiM/Just-Go-with-the-Flow-Self-Supervised-Scene-Flow-Estimation) ⭐ 68 | 🐛 27 | 🌐 Python | 📅 2023-02-15]\[**`aut.`** **`oth.`**]
 * \[[ECCV](https://arxiv.org/abs/2004.11784v2)] DPDist: Comparing Point Clouds Using Deep Point Cloud Distance. \[[code](https://github.com/dahliau/DPDist) ⭐ 65 | 🐛 0 | 🌐 Python | 📅 2022-04-23] \[**`oth.`**]
@@ -524,4 +524,4 @@ Statistics: :fire: code is available & stars >= 100  |  :star: citation >= 5
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-13._
