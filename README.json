@@ -1508,7 +1508,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-10-29T06:43:07Z",
-            "open_issues": 155,
+            "open_issues": 151,
             "owner": "tensorflow",
             "repo": "lingvo",
             "stars": 2868,
@@ -1620,7 +1620,7 @@
             "open_issues": 4,
             "owner": "QingyongHu",
             "repo": "SoTA-Point-Cloud",
-            "stars": 1631,
+            "stars": 1632,
             "topics": [
               "3d-classification",
               "3d-deep-learning",
@@ -4137,7 +4137,7 @@
             "open_issues": 58,
             "owner": "niessner",
             "repo": "Matterport",
-            "stars": 1270,
+            "stars": 1271,
             "topics": [
               "3d-reconstruction",
               "semantic-scene-understanding"
@@ -4234,7 +4234,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T21:24:22.432Z",
+    "last_updated": "2026-11-14T19:54:40.174Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of papers and datasets about point cloud analysis (processing)",
