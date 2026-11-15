@@ -1768,7 +1768,7 @@
             "open_issues": 35,
             "owner": "chrischoy",
             "repo": "FCGF",
-            "stars": 736,
+            "stars": 737,
             "topics": [
               "3d",
               "correspondence",
@@ -4234,7 +4234,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T19:54:40.174Z",
+    "last_updated": "2026-11-15T20:22:38.533Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of papers and datasets about point cloud analysis (processing)",

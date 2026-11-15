@@ -214,7 +214,7 @@ Statistics: :fire: code is available & stars >= 100  |  :star: citation >= 5
 * \[[ICCV](https://arxiv.org/pdf/1906.12320.pdf)] PointFlow: 3D Point Cloud Generation with Continuous Normalizing Flows. \[[pytorch](https://github.com/stevenygd/PointFlow) ⭐ 866 | 🐛 8 | 🌐 Python | 📅 2024-08-07] \[**`oth.`**]
 * \[[AAAI](http://gaoyue.org/paper/HGNN.pdf)] Hypergraph Neural Networks. \[[pytorch](https://github.com/iMoonLab/HGNN) ⭐ 863 | 🐛 4 | 🌐 Python | 📅 2022-08-31] \[**`cls.`**]
 * \[[ICCV](https://arxiv.org/abs/1904.08889)] KPConv: Flexible and Deformable Convolution for Point Clouds. \[[tensorflow](https://github.com/HuguesTHOMAS/KPConv) ⭐ 791 | 🐛 36 | 🌐 Python | 📅 2021-02-23] \[**`cls.`** **`seg.`**] :fire:
-* \[[ICCV](http://openaccess.thecvf.com/content_ICCV_2019/html/Choy_Fully_Convolutional_Geometric_Features_ICCV_2019_paper.html)] Fully Convolutional Geometric Features. \[[pytorch](https://github.com/chrischoy/FCGF) ⭐ 736 | 🐛 35 | 🌐 Python | 📅 2026-07-02] \[**`reg.`**]
+* \[[ICCV](http://openaccess.thecvf.com/content_ICCV_2019/html/Choy_Fully_Convolutional_Geometric_Features_ICCV_2019_paper.html)] Fully Convolutional Geometric Features. \[[pytorch](https://github.com/chrischoy/FCGF) ⭐ 737 | 🐛 35 | 🌐 Python | 📅 2026-07-02] \[**`reg.`**]
 * \[[ICCV](https://arxiv.org/abs/1904.03751)] DeepGCNs: Can GCNs Go as Deep as CNNs? \[[tensorflow](https://github.com/lightaime/deep_gcns) ⭐ 629 | 🐛 1 | 🌐 Python | 📅 2020-01-23] [\[pytorch\]](https://github.com/lightaime/deep_gcns_torch) ⭐ 1,190 | 🐛 7 | 🌐 Python | 📅 2022-07-31 \[**`seg.`**] :fire:
 * \[[CVPR](https://arxiv.org/abs/1811.06879v2)] The Perfect Match: 3D Point Cloud Matching with Smoothed Densities. \[[tensorflow](https://github.com/zgojcic/3DSmoothNet) ⭐ 517 | 🐛 5 | 🌐 Python | 📅 2023-03-24] \[**`oth.`**]
 * \[[ICCV](https://arxiv.org/pdf/1908.04422.pdf)] Point-Based Multi-View Stereo Network. \[[pytorch](https://github.com/callmeray/PointMVSNet) ⭐ 506 | 🐛 19 | 🌐 Python | 📅 2020-08-05] \[**`rec.`**]
@@ -524,4 +524,4 @@ Statistics: :fire: code is available & stars >= 100  |  :star: citation >= 5
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
