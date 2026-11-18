@@ -133,7 +133,7 @@
             "open_issues": 0,
             "owner": "LiangliangNan",
             "repo": "PolyFit",
-            "stars": 838,
+            "stars": 839,
             "topics": [
               "hypothesis-and-selection",
               "linear-integer-programming",
@@ -253,7 +253,7 @@
             "open_issues": 22,
             "owner": "yukitsuji",
             "repo": "3D_CNN_tensorflow",
-            "stars": 285,
+            "stars": 284,
             "topics": [
               "3d-cnn",
               "3d-deep-learning",
@@ -426,7 +426,7 @@
             "open_issues": 40,
             "owner": "RobustFieldAutonomyLab",
             "repo": "LeGO-LOAM",
-            "stars": 2772,
+            "stars": 2773,
             "topics": [
               "gtsam",
               "ieee",
@@ -484,7 +484,7 @@
             "open_issues": 300,
             "owner": "traveller59",
             "repo": "second.pytorch",
-            "stars": 1778,
+            "stars": 1776,
             "topics": [
               "kitti",
               "nuscenes",
@@ -1469,7 +1469,7 @@
             "open_issues": 236,
             "owner": "NVIDIA",
             "repo": "MinkowskiEngine",
-            "stars": 2975,
+            "stars": 2976,
             "topics": [
               "3d-convolutional-network",
               "3d-vision",
@@ -1571,7 +1571,7 @@
             "open_issues": 144,
             "owner": "sshaoshuai",
             "repo": "PointRCNN",
-            "stars": 1822,
+            "stars": 1821,
             "topics": []
           },
           "first_seen": "2026-08-29T00:00:20.524Z"
@@ -4234,7 +4234,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T22:51:34.838Z",
+    "last_updated": "2026-11-18T22:34:15.186Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of papers and datasets about point cloud analysis (processing)",
