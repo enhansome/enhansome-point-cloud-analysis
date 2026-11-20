@@ -479,7 +479,7 @@ Statistics: :fire: code is available & stars >= 100  |  :star: citation >= 5
 
 </h1>
 
-* \[[Matterport3D](https://niessner.github.io/Matterport/)] RGB-D: 10,800 panoramic views from 194,400 RGB-D images. Annotations: surface reconstructions, camera poses, and 2D and 3D semantic segmentations. Keypoint matching, view overlap prediction, normal prediction from color, semantic segmentation, and scene classification. \[[3DV 2017 paper](https://arxiv.org/abs/1709.06158)] \[[code](https://github.com/niessner/Matterport) ⭐ 1,269 | 🐛 58 | 🌐 C++ | 📅 2025-11-03] \[[blog](https://matterport.com/blog/2017/09/20/announcing-matterport3d-research-dataset/)]
+* \[[Matterport3D](https://niessner.github.io/Matterport/)] RGB-D: 10,800 panoramic views from 194,400 RGB-D images. Annotations: surface reconstructions, camera poses, and 2D and 3D semantic segmentations. Keypoint matching, view overlap prediction, normal prediction from color, semantic segmentation, and scene classification. \[[3DV 2017 paper](https://arxiv.org/abs/1709.06158)] \[[code](https://github.com/niessner/Matterport) ⭐ 1,270 | 🐛 58 | 🌐 C++ | 📅 2025-11-03] \[[blog](https://matterport.com/blog/2017/09/20/announcing-matterport3d-research-dataset/)]
 * \[[BLVD](https://github.com/VCCIV/BLVD) ⭐ 174 | 🐛 7 | 🌐 Python | 📅 2020-02-16] (a) 3D detection, (b) 4D tracking, (c) 5D interactive event recognition and (d) 5D intention prediction. \[[ICRA 2019 paper](https://arxiv.org/abs/1903.06405v1)] \[**`det.`** **`tra.`** **`aut.`** **`oth.`**]
 * \[[PointDA-10 Dataset](https://github.com/canqin001/PointDAN) ⭐ 136 | 🐛 5 | 🌐 Python | 📅 2021-01-24] Domain Adaptation for point clouds.
 * \[[A\*3D: An Autonomous Driving Dataset in Challeging Environments](https://github.com/I2RDL2/ASTAR-3D) ⭐ 123 | 🐛 6 | 📅 2020-10-19] A\*3D: An Autonomous Driving Dataset in Challeging Environments. \[**`det.`**]
@@ -524,4 +524,4 @@ Statistics: :fire: code is available & stars >= 100  |  :star: citation >= 5
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-20._
