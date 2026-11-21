@@ -4137,7 +4137,7 @@
             "open_issues": 58,
             "owner": "niessner",
             "repo": "Matterport",
-            "stars": 1270,
+            "stars": 1271,
             "topics": [
               "3d-reconstruction",
               "semantic-scene-understanding"
@@ -4234,7 +4234,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T22:13:28.437Z",
+    "last_updated": "2026-11-21T20:53:30.058Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of papers and datasets about point cloud analysis (processing)",
