@@ -4234,7 +4234,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T02:10:00.892Z",
+    "last_updated": "2026-11-24T23:51:59.644Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of papers and datasets about point cloud analysis (processing)",
@@ -4246,7 +4246,7 @@
       "open_issues": 3,
       "owner": "Yochengliu",
       "repo": "awesome-point-cloud-analysis",
-      "stars": 4232,
+      "stars": 4233,
       "topics": [
         "3d-graphics",
         "3d-reconstruction",
