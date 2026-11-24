@@ -68,7 +68,7 @@ Statistics: :fire: code is available & stars >= 100  |  :star: citation >= 5
 
 ## 2018
 
-* \[[IROS](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=\&arnumber=8594299)] LeGO-LOAM: Lightweight and Ground-Optimized Lidar Odometry and Mapping on Variable Terrain.\[[code](https://github.com/RobustFieldAutonomyLab/LeGO-LOAM) ⭐ 2,771 | 🐛 40 | 🌐 C++ | 📅 2024-08-17] \[**`pos.`** **`oth.`**] :fire:
+* \[[IROS](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=\&arnumber=8594299)] LeGO-LOAM: Lightweight and Ground-Optimized Lidar Odometry and Mapping on Variable Terrain.\[[code](https://github.com/RobustFieldAutonomyLab/LeGO-LOAM) ⭐ 2,772 | 🐛 40 | 🌐 C++ | 📅 2024-08-17] \[**`pos.`** **`oth.`**] :fire:
 * \[[CVPR](http://openaccess.thecvf.com/content_cvpr_2018/papers/Graham_3D_Semantic_Segmentation_CVPR_2018_paper.pdf)] 3D Semantic Segmentation with Submanifold Sparse Convolutional Networks. \[[pytorch](https://github.com/facebookresearch/SparseConvNet) ⚠️ Archived] \[**`seg.`**] :fire:
 * \[[SENSORS](https://www.mdpi.com/1424-8220/18/10/3337)] SECOND: Sparsely Embedded Convolutional Detection. \[[pytorch](https://github.com/traveller59/second.pytorch) ⭐ 1,776 | 🐛 300 | 🌐 Python | 📅 2022-10-14] \[**`det.`** **`aut.`**] :fire:
 * \[[CVPR](http://openaccess.thecvf.com/content_cvpr_2018/papers/Qi_Frustum_PointNets_for_CVPR_2018_paper.pdf)] Frustum PointNets for 3D Object Detection from RGB-D Data. \[[tensorflow](https://github.com/charlesq34/frustum-pointnets) ⭐ 1,674 | 🐛 92 | 🌐 Python | 📅 2020-03-24] \[**`det.`** **`aut.`**] :fire: :star:
@@ -203,9 +203,9 @@ Statistics: :fire: code is available & stars >= 100  |  :star: citation >= 5
 
 ## 2019
 
-* \[[CVPR](http://export.arxiv.org/abs/1904.08755)] 4D Spatio-Temporal ConvNets: Minkowski Convolutional Neural Networks. \[[pytorch](https://github.com/StanfordVL/MinkowskiEngine) ⭐ 2,975 | 🐛 236 | 🌐 Python | 📅 2024-03-05] \[**`seg.`**] :fire:
-* \[[arXiv](https://arxiv.org/pdf/1908.11069v1.pdf)] StarNet: Targeted Computation for Object Detection in Point Clouds. \[[tensorflow](https://github.com/tensorflow/lingvo) ⭐ 2,868 | 🐛 151 | 🌐 Python | 📅 2026-10-29] \[**`det.`**]
-* \[[TOG](https://arxiv.org/abs/1801.07829)] Dynamic Graph CNN for Learning on Point Clouds. \[[tensorflow](https://github.com/WangYueFt/dgcnn) ⭐ 1,854 | 🐛 30 | 🌐 Python | 📅 2022-05-20]\[[pytorch](https://github.com/WangYueFt/dgcnn) ⭐ 1,854 | 🐛 30 | 🌐 Python | 📅 2022-05-20] \[**`cls.`** **`seg.`**] :fire: :star:
+* \[[CVPR](http://export.arxiv.org/abs/1904.08755)] 4D Spatio-Temporal ConvNets: Minkowski Convolutional Neural Networks. \[[pytorch](https://github.com/StanfordVL/MinkowskiEngine) ⭐ 2,976 | 🐛 236 | 🌐 Python | 📅 2024-03-05] \[**`seg.`**] :fire:
+* \[[arXiv](https://arxiv.org/pdf/1908.11069v1.pdf)] StarNet: Targeted Computation for Object Detection in Point Clouds. \[[tensorflow](https://github.com/tensorflow/lingvo) ⭐ 2,869 | 🐛 151 | 🌐 Python | 📅 2026-10-29] \[**`det.`**]
+* \[[TOG](https://arxiv.org/abs/1801.07829)] Dynamic Graph CNN for Learning on Point Clouds. \[[tensorflow](https://github.com/WangYueFt/dgcnn) ⭐ 1,853 | 🐛 30 | 🌐 Python | 📅 2022-05-20]\[[pytorch](https://github.com/WangYueFt/dgcnn) ⭐ 1,853 | 🐛 30 | 🌐 Python | 📅 2022-05-20] \[**`cls.`** **`seg.`**] :fire: :star:
 * \[[CVPR](https://arxiv.org/abs/1812.04244)] PointRCNN: 3D Object Proposal Generation and Detection from Point Cloud. \[[pytorch](https://github.com/sshaoshuai/PointRCNN) ⭐ 1,820 | 🐛 144 | 🌐 Python | 📅 2022-09-01] \[**`det.`** **`aut.`**] :fire:
 * \[[ICCV](https://arxiv.org/abs/1904.09664v1)] Deep Hough Voting for 3D Object Detection in Point Clouds. \[[pytorch](https://github.com/facebookresearch/votenet) ⚠️ Archived] \[[tensorflow](https://github.com/qq456cvb/VoteNet) ⭐ 142 | 🐛 3 | 🌐 Python | 📅 2026-06-13] \[**`det.`**] :fire:
 * \[[arvix](https://arxiv.org/abs/1912.12033)] Deep Learning for 3D Point Clouds: A Survey. \[[code](https://github.com/QingyongHu/SoTA-Point-Cloud) ⭐ 1,631 | 🐛 4 | 📅 2021-06-08] \[**`cls.`** **`det.`** **`tra.`** **`seg.`**]
@@ -439,7 +439,7 @@ Statistics: :fire: code is available & stars >= 100  |  :star: citation >= 5
 * \[[AAAI](https://arxiv.org/pdf/1912.05163.pdf)] TANet: Robust 3D Object Detection from Point Clouds with Triple Attention. \[[code](https://github.com/happinesslz/TANet) ⭐ 259 | 🐛 6 | 🌐 Python | 📅 2020-11-23] \[**`det.`** **`aut.`**]
 * \[[IROS](https://hal.inria.fr/hal-02927350/document)] GndNet: Fast Ground Plane Estimation and Point Cloud Segmentation for Autonomous Vehicles. \[[code](https://github.com/anshulpaigwar/GndNet) ⭐ 219 | 🐛 6 | 🌐 Python | 📅 2021-06-04] \[**`seg.`** **`aut.`**]
 * \[[CVPR](https://arxiv.org/abs/1912.00195)] SGAS: Sequential Greedy Architecture Search. \[[code](https://github.com/lightaime/sgas) ⭐ 162 | 🐛 2 | 🌐 Python | 📅 2021-06-05] \[**`cls.`** **`oth.`**]
-* \[[CVPR](https://arxiv.org/abs/2005.01014)] Feature-metric Registration: A Fast Semi-supervised Approach for Robust Point Cloud Registration without Correspondences. \[[code](https://github.com/XiaoshuiHuang/fmr) ⭐ 158 | 🐛 9 | 🌐 Python | 📅 2021-04-26] \[**`reg.`**]
+* \[[CVPR](https://arxiv.org/abs/2005.01014)] Feature-metric Registration: A Fast Semi-supervised Approach for Robust Point Cloud Registration without Correspondences. \[[code](https://github.com/XiaoshuiHuang/fmr) ⭐ 157 | 🐛 9 | 🌐 Python | 📅 2021-04-26] \[**`reg.`**]
 * \[[ECCV](https://arxiv.org/abs/2003.10826)] DeepFit: 3D Surface Fitting via Neural Network Weighted Least Squares. \[[code](https://github.com/sitzikbs/DeepFit) ⭐ 150 | 🐛 2 | 🌐 Python | 📅 2023-07-06] \[**`oth.`**]
 * \[[CVPR](https://arxiv.org/pdf/2004.05679.pdf)] MLCVNet: Multi-Level Context VoteNet for 3D Object Detection. \[[code](https://github.com/NUAAXQ/MLCVNet) ⭐ 122 | 🐛 9 | 🌐 Python | 📅 2021-11-18] \[**`det.`**]
 * \[[CVPR](https://arxiv.org/abs/1912.00497)] Just Go with the Flow: Self-Supervised Scene Flow Estimation. \[[code](https://github.com/HimangiM/Just-Go-with-the-Flow-Self-Supervised-Scene-Flow-Estimation) ⭐ 68 | 🐛 27 | 🌐 Python | 📅 2023-02-15]\[**`aut.`** **`oth.`**]
@@ -479,7 +479,7 @@ Statistics: :fire: code is available & stars >= 100  |  :star: citation >= 5
 
 </h1>
 
-* \[[Matterport3D](https://niessner.github.io/Matterport/)] RGB-D: 10,800 panoramic views from 194,400 RGB-D images. Annotations: surface reconstructions, camera poses, and 2D and 3D semantic segmentations. Keypoint matching, view overlap prediction, normal prediction from color, semantic segmentation, and scene classification. \[[3DV 2017 paper](https://arxiv.org/abs/1709.06158)] \[[code](https://github.com/niessner/Matterport) ⭐ 1,272 | 🐛 58 | 🌐 C++ | 📅 2025-11-03] \[[blog](https://matterport.com/blog/2017/09/20/announcing-matterport3d-research-dataset/)]
+* \[[Matterport3D](https://niessner.github.io/Matterport/)] RGB-D: 10,800 panoramic views from 194,400 RGB-D images. Annotations: surface reconstructions, camera poses, and 2D and 3D semantic segmentations. Keypoint matching, view overlap prediction, normal prediction from color, semantic segmentation, and scene classification. \[[3DV 2017 paper](https://arxiv.org/abs/1709.06158)] \[[code](https://github.com/niessner/Matterport) ⭐ 1,273 | 🐛 58 | 🌐 C++ | 📅 2025-11-03] \[[blog](https://matterport.com/blog/2017/09/20/announcing-matterport3d-research-dataset/)]
 * \[[BLVD](https://github.com/VCCIV/BLVD) ⭐ 174 | 🐛 7 | 🌐 Python | 📅 2020-02-16] (a) 3D detection, (b) 4D tracking, (c) 5D interactive event recognition and (d) 5D intention prediction. \[[ICRA 2019 paper](https://arxiv.org/abs/1903.06405v1)] \[**`det.`** **`tra.`** **`aut.`** **`oth.`**]
 * \[[PointDA-10 Dataset](https://github.com/canqin001/PointDAN) ⭐ 136 | 🐛 5 | 🌐 Python | 📅 2021-01-24] Domain Adaptation for point clouds.
 * \[[A\*3D: An Autonomous Driving Dataset in Challeging Environments](https://github.com/I2RDL2/ASTAR-3D) ⭐ 123 | 🐛 6 | 📅 2020-10-19] A\*3D: An Autonomous Driving Dataset in Challeging Environments. \[**`det.`**]
@@ -524,4 +524,4 @@ Statistics: :fire: code is available & stars >= 100  |  :star: citation >= 5
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-24._
