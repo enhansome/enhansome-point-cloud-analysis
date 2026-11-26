@@ -46,7 +46,7 @@
             "open_issues": 186,
             "owner": "charlesq34",
             "repo": "pointnet",
-            "stars": 5501,
+            "stars": 5502,
             "topics": [
               "classification",
               "geometry-processing",
@@ -938,7 +938,7 @@
             "open_issues": 1,
             "owner": "yewzijian",
             "repo": "3DFeatNet",
-            "stars": 220,
+            "stars": 221,
             "topics": []
           },
           "first_seen": "2026-08-29T00:00:20.524Z"
@@ -1469,7 +1469,7 @@
             "open_issues": 236,
             "owner": "NVIDIA",
             "repo": "MinkowskiEngine",
-            "stars": 2975,
+            "stars": 2974,
             "topics": [
               "3d-convolutional-network",
               "3d-vision",
@@ -1550,7 +1550,7 @@
             "open_issues": 30,
             "owner": "WangYueFt",
             "repo": "dgcnn",
-            "stars": 1853,
+            "stars": 1854,
             "topics": []
           },
           "first_seen": "2026-08-29T00:00:20.524Z"
@@ -4234,7 +4234,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T23:35:58.873Z",
+    "last_updated": "2026-11-26T23:48:21.587Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of papers and datasets about point cloud analysis (processing)",
@@ -4246,7 +4246,7 @@
       "open_issues": 3,
       "owner": "Yochengliu",
       "repo": "awesome-point-cloud-analysis",
-      "stars": 4233,
+      "stars": 4234,
       "topics": [
         "3d-graphics",
         "3d-reconstruction",
